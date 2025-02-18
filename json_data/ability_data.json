@@ -1,0 +1,2446 @@
+{
+	"@Tool": "github.com/davyxu/tabtoy",
+	"@Version": "3.1.4",
+	"ability_data": [
+		{
+			"ChineseName": "适应力",
+			"Description": "与自身同属性的招式威力会提高。",
+			"Gen": 4,
+			"ID": 91,
+			"Name": "Adaptability",
+			"Score": 4
+		},
+		{
+			"ChineseName": "飞行皮肤",
+			"Description": "一般属性的招式会变为飞行属性。威力会少量提高。",
+			"Gen": 6,
+			"ID": 184,
+			"Name": "Aerilate",
+			"Score": 4
+		},
+		{
+			"ChineseName": "引爆",
+			"Description": "变为濒死时，会对接触到自己的对手造成伤害。",
+			"Gen": 4,
+			"ID": 106,
+			"Name": "Aftermath",
+			"Score": 2
+		},
+		{
+			"ChineseName": "气闸",
+			"Description": "所有天气的影响都会消失。",
+			"Gen": 3,
+			"ID": 76,
+			"Name": "Air Lock",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "分析",
+			"Description": "如果在最后使出招式，招式的威力会提高。",
+			"Gen": 5,
+			"ID": 148,
+			"Name": "Analytic",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "愤怒穴位",
+			"Description": "要害被击中时，会大发雷霆，攻击力变为最大。",
+			"Gen": 4,
+			"ID": 83,
+			"Name": "Anger Point",
+			"Score": 1
+		},
+		{
+			"ChineseName": "愤怒甲壳",
+			"Description": "因被对手攻击而ＨＰ变为一半时，会因愤怒降低防御和特防。但攻击、特攻、速度会提高。",
+			"Gen": 9,
+			"ID": 271,
+			"Name": "Anger Shell",
+			"Score": 3
+		},
+		{
+			"ChineseName": "危险预知",
+			"Description": "可以察觉到对手拥有的危险招式。",
+			"Gen": 4,
+			"ID": 107,
+			"Name": "Anticipation",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "沙穴",
+			"Description": "在战斗中让对手无法逃走。",
+			"Gen": 3,
+			"ID": 71,
+			"Name": "Arena Trap",
+			"Score": 5
+		},
+		{
+			"ChineseName": "尾甲",
+			"Description": "包裹头部的神秘尾巴使对手无法对我方使出先制招式。",
+			"Gen": 9,
+			"ID": 296,
+			"Name": "Armor Tail",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "芳香幕",
+			"Description": "可以防住向自己和同伴发出的心灵攻击。",
+			"Gen": 6,
+			"ID": 165,
+			"Name": "Aroma Veil",
+			"Score": 2
+		},
+		{
+			"ChineseName": "As One (Glastrier)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 266,
+			"Name": "As One (Glastrier)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "As One (Spectrier)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 267,
+			"Name": "As One (Spectrier)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "气场破坏",
+			"Description": "让气场的效果发生逆转，降低威力。",
+			"Gen": 6,
+			"ID": 188,
+			"Name": "Aura Break",
+			"Score": 1
+		},
+		{
+			"ChineseName": "梦魇",
+			"Description": "给予睡眠状态的对手伤害。",
+			"Gen": 4,
+			"ID": 123,
+			"Name": "Bad Dreams",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "捡球",
+			"Description": "没有携带道具时，会拾取第１个投出后捕捉失败的精灵球。",
+			"Gen": 8,
+			"ID": 237,
+			"Name": "Ball Fetch",
+			"Score": 0
+		},
+		{
+			"ChineseName": "蓄电池",
+			"Description": "会提高我方的特殊招式的威力。",
+			"Gen": 7,
+			"ID": 217,
+			"Name": "Battery",
+			"Score": 0
+		},
+		{
+			"ChineseName": "战斗盔甲",
+			"Description": "被坚硬的甲壳守护着，不会被对手的攻击击中要害。",
+			"Gen": 3,
+			"ID": 4,
+			"Name": "Battle Armor",
+			"Score": 1
+		},
+		{
+			"ChineseName": "牵绊变身",
+			"Description": "打倒对手时，与训练家的牵绊会增强，自己的攻击、特攻、速度会提高。",
+			"Gen": 7,
+			"ID": 210,
+			"Name": "Battle Bond",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "灾祸之玉",
+			"Description": "以能呼唤灾厄的勾玉的力量降低除自己以外的宝可梦的特防。",
+			"Gen": 9,
+			"ID": 284,
+			"Name": "Beads of Ruin",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "异兽提升",
+			"Description": "打倒对手的时候，自己最高的那项能力会提高。",
+			"Gen": 7,
+			"ID": 224,
+			"Name": "Beast Boost",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "怒火冲天",
+			"Description": "因对手的攻击ＨＰ变为一半时，特攻会提高。",
+			"Gen": 7,
+			"ID": 201,
+			"Name": "Berserk",
+			"Score": 2
+		},
+		{
+			"ChineseName": "健壮胸肌",
+			"Description": "不会受到防御降低的效果。",
+			"Gen": 5,
+			"ID": 145,
+			"Name": "Big Pecks",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "猛火",
+			"Description": "ＨＰ减少的时候，火属性的招式威力会提高。",
+			"Gen": 3,
+			"ID": 66,
+			"Name": "Blaze",
+			"Score": 2
+		},
+		{
+			"ChineseName": "防弹",
+			"Description": "可以防住对手的球和弹类招式。",
+			"Gen": 6,
+			"ID": 171,
+			"Name": "Bulletproof",
+			"Score": 3
+		},
+		{
+			"ChineseName": "颊囊",
+			"Description": "无论是哪种树果，食用后，ＨＰ都会回复。",
+			"Gen": 6,
+			"ID": 167,
+			"Name": "Cheek Pouch",
+			"Score": 2
+		},
+		{
+			"ChineseName": "苍白嘶鸣",
+			"Description": "打倒对手时会用冰冷的声音嘶鸣并提高攻击。",
+			"Gen": 8,
+			"ID": 264,
+			"Name": "Chilling Neigh",
+			"Score": 3
+		},
+		{
+			"ChineseName": "叶绿素",
+			"Description": "晴朗天气时，速度会提高。",
+			"Gen": 3,
+			"ID": 34,
+			"Name": "Chlorophyll",
+			"Score": 3
+		},
+		{
+			"ChineseName": "恒净之躯",
+			"Description": "不会因为对手的招式或特性而被降低能力。",
+			"Gen": 3,
+			"ID": 29,
+			"Name": "Clear Body",
+			"Score": 2
+		},
+		{
+			"ChineseName": "无关天气",
+			"Description": "任何天气的影响都会消失。",
+			"Gen": 3,
+			"ID": 13,
+			"Name": "Cloud Nine",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "变色",
+			"Description": "自己的属性会变为从对手处所受招式的属性。",
+			"Gen": 3,
+			"ID": 16,
+			"Name": "Color Change",
+			"Score": 0
+		},
+		{
+			"ChineseName": "Comatose",
+			"Description": "总是半梦半醒的状态，绝对不会醒来。可以就这么睡着进行攻击。",
+			"Gen": 7,
+			"ID": 213,
+			"Name": "Comatose",
+			"Score": 4
+		},
+		{
+			"ChineseName": "银河队干部",
+			"Description": "-99",
+			"Gen": 9,
+			"ID": 279,
+			"Name": "Commander",
+			"Score": 0
+		},
+		{
+			"ChineseName": "好胜",
+			"Description": "如果被对手降低能力，特攻会大幅提高。",
+			"Gen": 6,
+			"ID": 172,
+			"Name": "Competitive",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "复眼",
+			"Description": "因为拥有复眼，招式的命中率会提高。",
+			"Gen": 3,
+			"ID": 14,
+			"Name": "Compound Eyes",
+			"Score": 3
+		},
+		{
+			"ChineseName": "唱反调",
+			"Description": "能力的变化发生逆转，原本提高时会降低，而原本降低时会提高。",
+			"Gen": 5,
+			"ID": 126,
+			"Name": "Contrary",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "腐蚀",
+			"Description": "可以使钢属性和毒属性的宝可梦也陷入中毒状态。",
+			"Gen": 7,
+			"ID": 212,
+			"Name": "Corrosion",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "同台共演",
+			"Description": "出场时，复制同伴的能力变化。",
+			"Gen": 9,
+			"ID": 294,
+			"Name": "Costar",
+			"Score": 0
+		},
+		{
+			"ChineseName": "棉絮",
+			"Description": "受到攻击后撒下棉絮，降低除自己以外的所有宝可梦的速度。",
+			"Gen": 8,
+			"ID": 238,
+			"Name": "Cotton Down",
+			"Score": 2
+		},
+		{
+			"ChineseName": "反刍",
+			"Description": "吃了树果后，会在下一回合结束时从胃反刍出来再吃１次。",
+			"Gen": 9,
+			"ID": 291,
+			"Name": "Cud Chew",
+			"Score": 2
+		},
+		{
+			"ChineseName": "怪药",
+			"Description": "出场时会从贝壳撒药，将我方的能力变化复原。",
+			"Gen": 8,
+			"ID": 261,
+			"Name": "Curious Medicine",
+			"Score": 0
+		},
+		{
+			"ChineseName": "诅咒之躯",
+			"Description": "受到攻击时，有时会把对手的招式变为定身法状态。",
+			"Gen": 5,
+			"ID": 130,
+			"Name": "Cursed Body",
+			"Score": 2
+		},
+		{
+			"ChineseName": "迷人之躯",
+			"Description": "有时会让接触到自己的对手着迷。",
+			"Gen": 3,
+			"ID": 56,
+			"Name": "Cute Charm",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "湿气",
+			"Description": "通过把周围都弄湿，使谁都无法使用自爆等爆炸类的招式。",
+			"Gen": 3,
+			"ID": 6,
+			"Name": "Damp",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "暗黑气场",
+			"Description": "全体的恶属性招式变强。",
+			"Gen": 6,
+			"ID": 186,
+			"Name": "Dark Aura",
+			"Score": 3
+		},
+		{
+			"ChineseName": "不屈之盾",
+			"Description": "首次出场时，防御会提高。",
+			"Gen": 8,
+			"ID": 235,
+			"Name": "Dauntless Shield",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "鲜艳之躯",
+			"Description": "让对手吓一跳，使其无法对我方使出先制招式。",
+			"Gen": 7,
+			"ID": 219,
+			"Name": "Dazzling",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "不服输",
+			"Description": "被对手降低能力时，攻击会大幅提高。",
+			"Gen": 5,
+			"ID": 128,
+			"Name": "Defiant",
+			"Score": 3
+		},
+		{
+			"ChineseName": "德尔塔气流",
+			"Description": "变为令飞行属性的弱点消失的天气。",
+			"Gen": 6,
+			"ID": 191,
+			"Name": "Delta Stream",
+			"Score": 4
+		},
+		{
+			"ChineseName": "终结之地",
+			"Description": "变为不会受到水属性攻击的天气。",
+			"Gen": 6,
+			"ID": 190,
+			"Name": "Desolate Land",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "画皮",
+			"Description": "通过画皮覆盖住身体，可以防住１次攻击。",
+			"Gen": 7,
+			"ID": 209,
+			"Name": "Disguise",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "下载",
+			"Description": "比较对手的防御和特防，根据较低的那项能力相应地提高自己的攻击或特攻。",
+			"Gen": 4,
+			"ID": 88,
+			"Name": "Download",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "龙颚",
+			"Description": "龙属性的招式威力会提高。",
+			"Gen": -99,
+			"ID": 263,
+			"Name": "Dragon's Maw",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "降雨",
+			"Description": "出场时，会将天气变为下雨。",
+			"Gen": 3,
+			"ID": 2,
+			"Name": "Drizzle",
+			"Score": 4
+		},
+		{
+			"ChineseName": "日照",
+			"Description": "出场时，会将天气变为晴朗。",
+			"Gen": 3,
+			"ID": 70,
+			"Name": "Drought",
+			"Score": 4
+		},
+		{
+			"ChineseName": "干燥皮肤",
+			"Description": "下雨天气时和受到水属性的招式时，ＨＰ会回复。晴朗天气时和受到火属性的招式时，ＨＰ会减少。",
+			"Gen": 4,
+			"ID": 87,
+			"Name": "Dry Skin",
+			"Score": 3
+		},
+		{
+			"ChineseName": "食土",
+			"Description": "受到地面属性的招式攻击时，不会受到伤害，而是会得到回复。",
+			"Gen": 9,
+			"ID": 297,
+			"Name": "Earth Eater",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "孢子",
+			"Description": "受到攻击时，有时会把接触到自己的对手变为中毒、麻痹或睡眠状态。",
+			"Gen": 3,
+			"ID": 27,
+			"Name": "Effect Spore",
+			"Score": 2
+		},
+		{
+			"ChineseName": "电气制造者",
+			"Description": "出场时，会布下电气场地。",
+			"Gen": 7,
+			"ID": 226,
+			"Name": "Electric Surge",
+			"Score": 4
+		},
+		{
+			"ChineseName": "电力转换",
+			"Description": "受到伤害时，会变为充电状态。",
+			"Gen": 9,
+			"ID": 280,
+			"Name": "Electromorphosis",
+			"Score": 3
+		},
+		{
+			"ChineseName": "Embody Aspect (Cornerstone)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 304,
+			"Name": "Embody Aspect (Cornerstone)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "Embody Aspect (Hearthflame)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 303,
+			"Name": "Embody Aspect (Hearthflame)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "Embody Aspect (Teal)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 301,
+			"Name": "Embody Aspect (Teal)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "Embody Aspect (Wellspring)",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": 302,
+			"Name": "Embody Aspect (Wellspring)",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "危险回避",
+			"Description": "ＨＰ变为一半时，为了回避危险，会退回到同行队伍中。",
+			"Gen": 7,
+			"ID": 194,
+			"Name": "Emergency Exit",
+			"Score": 1
+		},
+		{
+			"ChineseName": "妖精气场",
+			"Description": "全体的妖精属性招式变强。",
+			"Gen": 6,
+			"ID": 187,
+			"Name": "Fairy Aura",
+			"Score": 3
+		},
+		{
+			"ChineseName": "过滤",
+			"Description": "受到效果绝佳的攻击时，可以减弱其威力。",
+			"Gen": 4,
+			"ID": 111,
+			"Name": "Filter",
+			"Score": 3
+		},
+		{
+			"ChineseName": "火焰之躯",
+			"Description": "有时会让接触到自己的对手变为灼伤状态。",
+			"Gen": 3,
+			"ID": 49,
+			"Name": "Flame Body",
+			"Score": 2
+		},
+		{
+			"ChineseName": "受热激升",
+			"Description": "变为灼伤状态时，特殊招式的威力会提高。",
+			"Gen": 5,
+			"ID": 138,
+			"Name": "Flare Boost",
+			"Score": 2
+		},
+		{
+			"ChineseName": "引火",
+			"Description": "受到火属性的招式攻击时，吸收火焰，自己使出的火属性招式会变强。",
+			"Gen": 3,
+			"ID": 18,
+			"Name": "Flash Fire",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "花之礼",
+			"Description": "晴朗天气时，自己与同伴的攻击和特防能力会提高。",
+			"Gen": 4,
+			"ID": 122,
+			"Name": "Flower Gift",
+			"Score": 1
+		},
+		{
+			"ChineseName": "花幕",
+			"Description": "我方的草属性宝可梦能力不会降低，也不会变为异常状态。",
+			"Gen": 6,
+			"ID": 166,
+			"Name": "Flower Veil",
+			"Score": 0
+		},
+		{
+			"ChineseName": "毛茸茸",
+			"Description": "会将对手所给予的接触类招式的伤害减半，但火属性招式的伤害会变为２倍。",
+			"Gen": 7,
+			"ID": 218,
+			"Name": "Fluffy",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "阴晴不定",
+			"Description": "受天气的影响，会变为水属性、火属性或冰属性中的某一个。",
+			"Gen": 3,
+			"ID": 59,
+			"Name": "Forecast",
+			"Score": 2
+		},
+		{
+			"ChineseName": "预知梦",
+			"Description": "出场时，只读取１个对手拥有的招式。",
+			"Gen": 4,
+			"ID": 108,
+			"Name": "Forewarn",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "友情防守",
+			"Description": "可以减少我方的伤害。",
+			"Gen": 5,
+			"ID": 132,
+			"Name": "Friend Guard",
+			"Score": 0
+		},
+		{
+			"ChineseName": "察觉",
+			"Description": "出场时，可以察觉对手的持有物。",
+			"Gen": 4,
+			"ID": 119,
+			"Name": "Frisk",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "金属防护",
+			"Description": "不会因为对手的招式或特性而被降低能力。",
+			"Gen": 7,
+			"ID": 230,
+			"Name": "Full Metal Body",
+			"Score": 2
+		},
+		{
+			"ChineseName": "毛皮大衣",
+			"Description": "对手给予的物理招式的伤害会减半。",
+			"Gen": 6,
+			"ID": 169,
+			"Name": "Fur Coat",
+			"Score": 4
+		},
+		{
+			"ChineseName": "疾风之翼",
+			"Description": "ＨＰ全满时，飞行属性的招式可以率先使出。",
+			"Gen": 6,
+			"ID": 177,
+			"Name": "Gale Wings",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "电气皮肤",
+			"Description": "一般属性的招式会变为电属性。威力会少量提高。",
+			"Gen": 7,
+			"ID": 206,
+			"Name": "Galvanize",
+			"Score": 4
+		},
+		{
+			"ChineseName": "贪吃鬼",
+			"Description": "原本ＨＰ变得很少时才会吃树果，在ＨＰ还有一半时就会把它吃掉。",
+			"Gen": 4,
+			"ID": 82,
+			"Name": "Gluttony",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "黄金之躯",
+			"Description": "不会氧化的坚固黄金身躯不会受到对手的变化招式的影响。",
+			"Gen": 9,
+			"ID": 283,
+			"Name": "Good as Gold",
+			"Score": 5
+		},
+		{
+			"ChineseName": "黏滑",
+			"Description": "对于用攻击接触到自己的对手，会降低其速度。",
+			"Gen": 6,
+			"ID": 183,
+			"Name": "Gooey",
+			"Score": 2
+		},
+		{
+			"ChineseName": "一猩一意",
+			"Description": "虽然攻击会提高，但是只能使出一开始所选的招式。",
+			"Gen": 8,
+			"ID": 255,
+			"Name": "Gorilla Tactics",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "草之毛皮",
+			"Description": "在青草场地时，防御会提高。",
+			"Gen": 6,
+			"ID": 179,
+			"Name": "Grass Pelt",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "青草制造者",
+			"Description": "出场时，会布下青草场地。",
+			"Gen": 7,
+			"ID": 229,
+			"Name": "Grassy Surge",
+			"Score": 4
+		},
+		{
+			"ChineseName": "漆黑嘶鸣",
+			"Description": "打倒对手时会用恐怖的声音嘶鸣并提高特攻。",
+			"Gen": 8,
+			"ID": 265,
+			"Name": "Grim Neigh",
+			"Score": 3
+		},
+		{
+			"ChineseName": "看门犬",
+			"Description": "受到威吓时，攻击会提高。让替换宝可梦的招式和道具无效。",
+			"Gen": 9,
+			"ID": 275,
+			"Name": "Guard Dog",
+			"Score": 2
+		},
+		{
+			"ChineseName": "一口导弹",
+			"Description": "冲浪或潜水时会叼来猎物。受到伤害时，会吐出猎物进行攻击。",
+			"Gen": 8,
+			"ID": 241,
+			"Name": "Gulp Missile",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "毅力",
+			"Description": "如果变为异常状态，会拿出毅力，攻击会提高。",
+			"Gen": 3,
+			"ID": 62,
+			"Name": "Guts",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "强子引擎",
+			"Description": "出场时，会布下电气场地。处于电气场地时，会通过未来的机关升高特攻。",
+			"Gen": 9,
+			"ID": 289,
+			"Name": "Hadron Engine",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "收获",
+			"Description": "可以多次制作出已被使用掉的树果。",
+			"Gen": 5,
+			"ID": 139,
+			"Name": "Harvest",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "治愈之心",
+			"Description": "有时会治愈异常状态的同伴。",
+			"Gen": 5,
+			"ID": 131,
+			"Name": "Healer",
+			"Score": 0
+		},
+		{
+			"ChineseName": "耐热",
+			"Description": "耐热的体质会让火属性的招式伤害减半。",
+			"Gen": 4,
+			"ID": 85,
+			"Name": "Heatproof",
+			"Score": 2
+		},
+		{
+			"ChineseName": "重金属",
+			"Description": "自身的重量会变为２倍。",
+			"Gen": 5,
+			"ID": 134,
+			"Name": "Heavy Metal",
+			"Score": 0
+		},
+		{
+			"ChineseName": "采蜜",
+			"Description": "战斗结束时，有时候会捡来甜甜蜜。",
+			"Gen": 4,
+			"ID": 118,
+			"Name": "Honey Gather",
+			"Score": 0
+		},
+		{
+			"ChineseName": "款待",
+			"Description": "出场时款待同伴，回复其少量ＨＰ。",
+			"Gen": 9,
+			"ID": 299,
+			"Name": "Hospitality",
+			"Score": 0
+		},
+		{
+			"ChineseName": "大力士",
+			"Description": "物理攻击的威力会变为２倍。",
+			"Gen": 3,
+			"ID": 37,
+			"Name": "Huge Power",
+			"Score": 5
+		},
+		{
+			"ChineseName": "饱了又饿",
+			"Description": "每回合结束时会在满腹花纹与空腹花纹之间交替改变样子。",
+			"Gen": 8,
+			"ID": 258,
+			"Name": "Hunger Switch",
+			"Score": 1
+		},
+		{
+			"ChineseName": "活力",
+			"Description": "自己的攻击变高，但命中率会降低。",
+			"Gen": 3,
+			"ID": 55,
+			"Name": "Hustle",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "湿润之躯",
+			"Description": "下雨天气时，异常状态会治愈。",
+			"Gen": 4,
+			"ID": 93,
+			"Name": "Hydration",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "怪力钳",
+			"Description": "因为拥有以力量自豪的钳子，不会被对手降低攻击。",
+			"Gen": 3,
+			"ID": 52,
+			"Name": "Hyper Cutter",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "冰冻之躯",
+			"Description": "下雪天气时，会缓缓回复ＨＰ。",
+			"Gen": 4,
+			"ID": 115,
+			"Name": "Ice Body",
+			"Score": 1
+		},
+		{
+			"ChineseName": "结冻头",
+			"Description": "头部的冰会代替自己承受物理攻击，但是样子会改变。下雪时，冰会恢复原状。",
+			"Gen": 8,
+			"ID": 248,
+			"Name": "Ice Face",
+			"Score": 3
+		},
+		{
+			"ChineseName": "冰鳞粉",
+			"Description": "由于有冰鳞粉的守护，受到的特殊攻击伤害会减半。",
+			"Gen": 8,
+			"ID": 246,
+			"Name": "Ice Scales",
+			"Score": 4
+		},
+		{
+			"ChineseName": "发光",
+			"Description": "通过让周围变亮来保持命中率不会被降低。",
+			"Gen": 3,
+			"ID": 35,
+			"Name": "Illuminate",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "幻觉",
+			"Description": "假扮成同行队伍中的最后一只宝可梦出场，迷惑对手。",
+			"Gen": 5,
+			"ID": 149,
+			"Name": "Illusion",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "免疫",
+			"Description": "因为体内拥有免疫能力，不会变为中毒状态。",
+			"Gen": 3,
+			"ID": 17,
+			"Name": "Immunity",
+			"Score": 2
+		},
+		{
+			"ChineseName": "变身者",
+			"Description": "变身为当前面对的宝可梦。",
+			"Gen": 5,
+			"ID": 150,
+			"Name": "Imposter",
+			"Score": 5
+		},
+		{
+			"ChineseName": "穿透",
+			"Description": "可以穿透对手的壁障或替身进行攻击。",
+			"Gen": 5,
+			"ID": 151,
+			"Name": "Infiltrator",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "飞出的内在物",
+			"Description": "被对手打倒的时候，会给予对手相当于ＨＰ剩余量的伤害。",
+			"Gen": 7,
+			"ID": 215,
+			"Name": "Innards Out",
+			"Score": 4
+		},
+		{
+			"ChineseName": "精神力",
+			"Description": "拥有经过锻炼的精神，而不会因对手的攻击而畏缩。对威吓也毫不动摇。",
+			"Gen": 3,
+			"ID": 39,
+			"Name": "Inner Focus",
+			"Score": 1
+		},
+		{
+			"ChineseName": "不眠",
+			"Description": "因为有着睡不着的体质，所以不会陷入睡眠状态。",
+			"Gen": 3,
+			"ID": 15,
+			"Name": "Insomnia",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "威吓",
+			"Description": "出场时威吓对手，让其退缩，降低对手的攻击。",
+			"Gen": 3,
+			"ID": 22,
+			"Name": "Intimidate",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "不挠之剑",
+			"Description": "首次出场时，攻击会提高。",
+			"Gen": 8,
+			"ID": 234,
+			"Name": "Intrepid Sword",
+			"Score": 4
+		},
+		{
+			"ChineseName": "铁刺",
+			"Description": "用铁刺给予接触到自己的对手伤害。",
+			"Gen": 5,
+			"ID": 160,
+			"Name": "Iron Barbs",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "铁拳",
+			"Description": "使用拳类招式的威力会提高。",
+			"Gen": 4,
+			"ID": 89,
+			"Name": "Iron Fist",
+			"Score": 3
+		},
+		{
+			"ChineseName": "正义之心",
+			"Description": "受到恶属性的招式攻击时，因为正义感，攻击会提高。",
+			"Gen": 5,
+			"ID": 154,
+			"Name": "Justified",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "锐利目光",
+			"Description": "多亏了锐利的目光，命中率不会被降低。",
+			"Gen": 3,
+			"ID": 51,
+			"Name": "Keen Eye",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "叶子防守",
+			"Description": "晴朗天气时，不会变为异常状态。",
+			"Gen": 4,
+			"ID": 102,
+			"Name": "Leaf Guard",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "飘浮",
+			"Description": "从地面浮起，从而不会受到地面属性招式的攻击。",
+			"Gen": 3,
+			"ID": 26,
+			"Name": "Levitate",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "自由者",
+			"Description": "变为与自己使出的招式相同的属性。每次出场战斗仅生效一次。",
+			"Gen": 8,
+			"ID": 236,
+			"Name": "Libero",
+			"Score": 4
+		},
+		{
+			"ChineseName": "轻金属",
+			"Description": "自身的重量会减半。",
+			"Gen": 5,
+			"ID": 135,
+			"Name": "Light Metal",
+			"Score": 1
+		},
+		{
+			"ChineseName": "避雷针",
+			"Description": "将电属性的招式吸引到自己身上，不会受到伤害，而是会提高特攻。",
+			"Gen": 3,
+			"ID": 31,
+			"Name": "Lightning Rod",
+			"Score": 3
+		},
+		{
+			"ChineseName": "柔软",
+			"Description": "因为身体柔软，不会变为麻痹状态。",
+			"Gen": 3,
+			"ID": 7,
+			"Name": "Limber",
+			"Score": 2
+		},
+		{
+			"ChineseName": "甩不掉的气味",
+			"Description": "被对手接触到后，甩不掉的气味会沾上对手。",
+			"Gen": 9,
+			"ID": 268,
+			"Name": "Lingering Aroma",
+			"Score": 2
+		},
+		{
+			"ChineseName": "污泥浆",
+			"Description": "吸收了污泥浆的对手会因强烈的恶臭而受到伤害，减少ＨＰ。",
+			"Gen": 3,
+			"ID": 64,
+			"Name": "Liquid Ooze",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "湿润之声",
+			"Description": "所有的声音招式都变为水属性。",
+			"Gen": 7,
+			"ID": 204,
+			"Name": "Liquid Voice",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "远隔",
+			"Description": "可以不接触对手就使出所有的招式。",
+			"Gen": 7,
+			"ID": 203,
+			"Name": "Long Reach",
+			"Score": 1
+		},
+		{
+			"ChineseName": "魔法镜",
+			"Description": "-99",
+			"Gen": 5,
+			"ID": 156,
+			"Name": "Magic Bounce",
+			"Score": 4
+		},
+		{
+			"ChineseName": "魔法防守",
+			"Description": "不会受到攻击以外的伤害。",
+			"Gen": 4,
+			"ID": 98,
+			"Name": "Magic Guard",
+			"Score": 4
+		},
+		{
+			"ChineseName": "魔术师",
+			"Description": "-99",
+			"Gen": 6,
+			"ID": 170,
+			"Name": "Magician",
+			"Score": 1
+		},
+		{
+			"ChineseName": "熔岩铠甲",
+			"Description": "将炽热的熔岩覆盖在身上，不会变为冰冻状态。",
+			"Gen": 3,
+			"ID": 40,
+			"Name": "Magma Armor",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "磁力",
+			"Description": "用磁力吸住钢属性的宝可梦，使其无法逃走。",
+			"Gen": 3,
+			"ID": 42,
+			"Name": "Magnet Pull",
+			"Score": 4
+		},
+		{
+			"ChineseName": "神奇鱗片",
+			"Description": "如果变为异常状态，神奇鳞片会发生反应，防御会提高。",
+			"Gen": 3,
+			"ID": 63,
+			"Name": "Marvel Scale",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "超级发射器",
+			"Description": "波动和波导类招式的威力会提高。",
+			"Gen": 6,
+			"ID": 178,
+			"Name": "Mega Launcher",
+			"Score": 3
+		},
+		{
+			"ChineseName": "不仁不义",
+			"Description": "攻击中毒状态的对手时，必定会击中要害。",
+			"Gen": 7,
+			"ID": 196,
+			"Name": "Merciless",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "拟态",
+			"Description": "宝可梦的属性会根据场地的状态而变化。",
+			"Gen": 8,
+			"ID": 250,
+			"Name": "Mimicry",
+			"Score": 0
+		},
+		{
+			"ChineseName": "心眼",
+			"Description": "一般属性和格斗属性的招式可以击中幽灵属性的宝可梦。无视对手的闪避率的变化，且命中率不会被降低。",
+			"Gen": 9,
+			"ID": 300,
+			"Name": "Mind's Eye",
+			"Score": 0
+		},
+		{
+			"ChineseName": "负电",
+			"Description": "出场的伙伴之间如果有正电或负电特性的宝可梦，自己的特攻会提高。",
+			"Gen": 3,
+			"ID": 58,
+			"Name": "Minus",
+			"Score": 0
+		},
+		{
+			"ChineseName": "镜甲",
+			"Description": "只反弹自己受到的能力降低效果。",
+			"Gen": 8,
+			"ID": 240,
+			"Name": "Mirror Armor",
+			"Score": 2
+		},
+		{
+			"ChineseName": "薄雾制造者",
+			"Description": "出场时，会布下薄雾场地。",
+			"Gen": 7,
+			"ID": 228,
+			"Name": "Misty Surge",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "破格",
+			"Description": "可以不受对手特性的干扰，向对手使出招式。",
+			"Gen": 4,
+			"ID": 104,
+			"Name": "Mold Breaker",
+			"Score": 3
+		},
+		{
+			"ChineseName": "心情不定",
+			"Description": "每一回合，能力中的某项会大幅提高，而某项会降低。",
+			"Gen": 5,
+			"ID": 141,
+			"Name": "Moody",
+			"Score": 5
+		},
+		{
+			"ChineseName": "电气引擎",
+			"Description": "受到电属性的招式攻击时，不会受到伤害，而是速度会提高。",
+			"Gen": 4,
+			"ID": 78,
+			"Name": "Motor Drive",
+			"Score": 3
+		},
+		{
+			"ChineseName": "自信过度",
+			"Description": "如果打倒对手，就会充满自信，攻击会提高。",
+			"Gen": 5,
+			"ID": 153,
+			"Name": "Moxie",
+			"Score": 3
+		},
+		{
+			"ChineseName": "多重鳞片",
+			"Description": "ＨＰ全满时，受到的伤害会变少。",
+			"Gen": 5,
+			"ID": 136,
+			"Name": "Multiscale",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "多属性",
+			"Description": "自己的属性会根据持有的石板而改变。",
+			"Gen": 4,
+			"ID": 121,
+			"Name": "Multitype",
+			"Score": 4
+		},
+		{
+			"ChineseName": "木乃伊",
+			"Description": "被对手接触到后，会将对手变为木乃伊。",
+			"Gen": 5,
+			"ID": 152,
+			"Name": "Mummy",
+			"Score": 2
+		},
+		{
+			"ChineseName": "菌丝之力",
+			"Description": "使出变化招式时，虽然行动必定会变慢，但能不受对手的特性妨碍。",
+			"Gen": 9,
+			"ID": 298,
+			"Name": "Mycelium Might",
+			"Score": 2
+		},
+		{
+			"ChineseName": "自然回复",
+			"Description": "回到同行队伍后，异常状态就会被治愈。",
+			"Gen": 3,
+			"ID": 30,
+			"Name": "Natural Cure",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "脑核之力",
+			"Description": "效果绝佳的攻击，威力会变得更强。",
+			"Gen": 7,
+			"ID": 233,
+			"Name": "Neuroforce",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "化学变化气体",
+			"Description": "特性为化学变化气体的宝可梦在场时，场上所有宝可梦的特性效果都会消失或者无法生效。",
+			"Gen": 8,
+			"ID": 256,
+			"Name": "Neutralizing Gas",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "无防守",
+			"Description": "由于无防守战术，双方使出的招式都必定会击中。",
+			"Gen": 4,
+			"ID": 99,
+			"Name": "No Guard",
+			"Score": 4
+		},
+		{
+			"ChineseName": "一般皮肤",
+			"Description": "无论是什么属性的招式，全部会变为一般属性。威力会少量提高。",
+			"Gen": 4,
+			"ID": 96,
+			"Name": "Normalize",
+			"Score": 0
+		},
+		{
+			"ChineseName": "迟钝",
+			"Description": "因为感觉迟钝，不会变为着迷和被挑衅状态。对威吓也毫不动摇。",
+			"Gen": 3,
+			"ID": 12,
+			"Name": "Oblivious",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "跟风",
+			"Description": "对手的能力提高时，自己也会趁机同样地提高能力。",
+			"Gen": 9,
+			"ID": 290,
+			"Name": "Opportunist",
+			"Score": 3
+		},
+		{
+			"ChineseName": "绯红脉动",
+			"Description": "出场时，会将天气变为晴朗。日照强烈时，会通过古代的脉动升高攻击。",
+			"Gen": 9,
+			"ID": 288,
+			"Name": "Orichalcum Pulse",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "防尘",
+			"Description": "不会受到沙暴的伤害。也不会受到粉末类和孢子类招式的影响。",
+			"Gen": 5,
+			"ID": 142,
+			"Name": "Overcoat",
+			"Score": 2
+		},
+		{
+			"ChineseName": "茂盛",
+			"Description": "ＨＰ减少的时候，草属性的招式威力会提高。",
+			"Gen": 3,
+			"ID": 65,
+			"Name": "Overgrow",
+			"Score": 2
+		},
+		{
+			"ChineseName": "我行我素",
+			"Description": "因为我行我素，不会变为混乱状态。对威吓也毫不动摇。",
+			"Gen": 3,
+			"ID": 20,
+			"Name": "Own Tempo",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "亲子爱",
+			"Description": "亲子俩可以合计攻击２次。",
+			"Gen": 6,
+			"ID": 185,
+			"Name": "Parental Bond",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "粉彩护幕",
+			"Description": "自己和同伴都不会陷入中毒的异常状态。",
+			"Gen": 8,
+			"ID": 257,
+			"Name": "Pastel Veil",
+			"Score": 2
+		},
+		{
+			"ChineseName": "灭亡之躯",
+			"Description": "受到接触类招式攻击时，双方都会在３回合后变为濒死状态。替换后效果消失。",
+			"Gen": 8,
+			"ID": 253,
+			"Name": "Perish Body",
+			"Score": 1
+		},
+		{
+			"ChineseName": "顺手牵羊",
+			"Description": "盗取接触到自己的对手的道具。",
+			"Gen": 5,
+			"ID": 124,
+			"Name": "Pickpocket",
+			"Score": 1
+		},
+		{
+			"ChineseName": "捡拾",
+			"Description": "有时会捡来对手用过的道具，冒险过程中也会捡到。",
+			"Gen": 3,
+			"ID": 53,
+			"Name": "Pickup",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "妖精皮肤",
+			"Description": "一般属性的招式会变为妖精属性。威力会少量提高。",
+			"Gen": 6,
+			"ID": 182,
+			"Name": "Pixilate",
+			"Score": 4
+		},
+		{
+			"ChineseName": "Plus",
+			"Description": "-99",
+			"Gen": 3,
+			"ID": 57,
+			"Name": "Plus",
+			"Score": 0
+		},
+		{
+			"ChineseName": "毒疗",
+			"Description": "变为中毒状态时，ＨＰ不会减少，反而会增加起来。",
+			"Gen": 4,
+			"ID": 90,
+			"Name": "Poison Heal",
+			"Score": 4
+		},
+		{
+			"ChineseName": "毒刺",
+			"Description": "有时会让接触到自己的对手变为中毒状态。",
+			"Gen": 3,
+			"ID": 38,
+			"Name": "Poison Point",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "毒傀儡",
+			"Description": "因桃歹郎的招式而陷入中毒状态的对手同时也会陷入混乱状态。",
+			"Gen": 9,
+			"ID": 310,
+			"Name": "Poison Puppeteer",
+			"Score": 3
+		},
+		{
+			"ChineseName": "毒手",
+			"Description": "只通过接触就有可能让对手变为中毒状态。",
+			"Gen": 5,
+			"ID": 143,
+			"Name": "Poison Touch",
+			"Score": 2
+		},
+		{
+			"ChineseName": "群聚变形",
+			"Description": "ＨＰ变为一半时，细胞们会赶来支援，变为完全体形态。",
+			"Gen": 7,
+			"ID": 211,
+			"Name": "Power Construct",
+			"Score": 5
+		},
+		{
+			"ChineseName": "化学之力",
+			"Description": "继承被打倒的同伴的特性，变为相同的特性。",
+			"Gen": 7,
+			"ID": 223,
+			"Name": "Power of Alchemy",
+			"Score": 0
+		},
+		{
+			"ChineseName": "能量点",
+			"Description": "只要处在相邻位置，招式的威力就会提高。",
+			"Gen": 8,
+			"ID": 249,
+			"Name": "Power Spot",
+			"Score": 0
+		},
+		{
+			"ChineseName": "恶作剧之心",
+			"Description": "可以率先使出变化招式。",
+			"Gen": 5,
+			"ID": 158,
+			"Name": "Prankster",
+			"Score": 4
+		},
+		{
+			"ChineseName": "压迫感",
+			"Description": "给予对手压迫感，大量减少其使用招式的ＰＰ。",
+			"Gen": 3,
+			"ID": 46,
+			"Name": "Pressure",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "始源之海",
+			"Description": "变为不会受到火属性攻击的天气。",
+			"Gen": 6,
+			"ID": 189,
+			"Name": "Primordial Sea",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "棱镜装甲",
+			"Description": "受到效果绝佳的攻击时，可以减弱其威力。",
+			"Gen": 7,
+			"ID": 232,
+			"Name": "Prism Armor",
+			"Score": 3
+		},
+		{
+			"ChineseName": "螺旋尾鳍",
+			"Description": "能无视具有吸引对手招式效果的特性或招式的影响。",
+			"Gen": 8,
+			"ID": 239,
+			"Name": "Propeller Tail",
+			"Score": 0
+		},
+		{
+			"ChineseName": "变幻自如",
+			"Description": "变为与自己使出的招式相同的属性。每次出场战斗仅生效一次。",
+			"Gen": 6,
+			"ID": 168,
+			"Name": "Protean",
+			"Score": 4
+		},
+		{
+			"ChineseName": "古代活性",
+			"Description": "携带着驱劲能量或天气为晴朗时，数值最高的能力会提高。",
+			"Gen": 9,
+			"ID": 281,
+			"Name": "Protosynthesis",
+			"Score": 3
+		},
+		{
+			"ChineseName": "精神制造者",
+			"Description": "出场时，会布下精神场地。",
+			"Gen": 7,
+			"ID": 227,
+			"Name": "Psychic Surge",
+			"Score": 4
+		},
+		{
+			"ChineseName": "庞克摇滚",
+			"Description": "声音招式的威力会提高。受到的声音招式伤害会减半。",
+			"Gen": 8,
+			"ID": 244,
+			"Name": "Punk Rock",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "瑜伽之力",
+			"Description": "因瑜伽的力量，物理攻击的威力会变为２倍。",
+			"Gen": 3,
+			"ID": 74,
+			"Name": "Pure Power",
+			"Score": 5
+		},
+		{
+			"ChineseName": "洁净之盐",
+			"Description": "因洁净的盐而不会陷入异常状态。会让幽灵属性的招式伤害减半。",
+			"Gen": 9,
+			"ID": 272,
+			"Name": "Purifying Salt",
+			"Score": 4
+		},
+		{
+			"ChineseName": "夸克充能",
+			"Description": "携带着驱劲能量或在电气场地上时，数值最高的能力会提高。",
+			"Gen": 9,
+			"ID": 282,
+			"Name": "Quark Drive",
+			"Score": 3
+		},
+		{
+			"ChineseName": "女王的威严",
+			"Description": "向对手施加威慑力，使其无法对我方使出先制招式。",
+			"Gen": 7,
+			"ID": 214,
+			"Name": "Queenly Majesty",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "Quick Draw",
+			"Description": "-99",
+			"Gen": 8,
+			"ID": 259,
+			"Name": "Quick Draw",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "飞毛腿",
+			"Description": "变为异常状态时，速度会提高。",
+			"Gen": 4,
+			"ID": 95,
+			"Name": "Quick Feet",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "雨盘",
+			"Description": "下雨天气时，会缓缓回复ＨＰ。",
+			"Gen": 3,
+			"ID": 44,
+			"Name": "Rain Dish",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "胆怯",
+			"Description": "受到恶属性、幽灵属性和虫属性的攻击或威吓时，会因胆怯而速度提高。",
+			"Gen": 5,
+			"ID": 155,
+			"Name": "Rattled",
+			"Score": 1
+		},
+		{
+			"ChineseName": "接球手",
+			"Description": "继承被打倒的同伴的特性，变为相同的特性。",
+			"Gen": 7,
+			"ID": 222,
+			"Name": "Receiver",
+			"Score": 0
+		},
+		{
+			"ChineseName": "舍身",
+			"Description": "自己会因反作用力受伤的招式，其威力会提高。",
+			"Gen": 4,
+			"ID": 120,
+			"Name": "Reckless",
+			"Score": 3
+		},
+		{
+			"ChineseName": "冰冻皮肤",
+			"Description": "一般属性的招式会变为冰属性。威力会少量提高。",
+			"Gen": 6,
+			"ID": 174,
+			"Name": "Refrigerate",
+			"Score": 4
+		},
+		{
+			"ChineseName": "再生力",
+			"Description": "退回同行队伍后，ＨＰ会少量回复。",
+			"Gen": 5,
+			"ID": 144,
+			"Name": "Regenerator",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "熟成",
+			"Description": "使树果成熟，效果变为２倍。",
+			"Gen": 8,
+			"ID": 247,
+			"Name": "Ripen",
+			"Score": 2
+		},
+		{
+			"ChineseName": "斗争心",
+			"Description": "面对性别相同的对手，会燃起斗争心，变得更强。而面对性别不同的，则会变弱。",
+			"Gen": 4,
+			"ID": 79,
+			"Name": "Rivalry",
+			"Score": 0
+		},
+		{
+			"ChineseName": "ＡＲ系统",
+			"Description": "根据持有的存储碟，自己的属性会改变。",
+			"Gen": 7,
+			"ID": 225,
+			"Name": "RKS System",
+			"Score": 4
+		},
+		{
+			"ChineseName": "坚硬脑袋",
+			"Description": "即使使出会受反作用力伤害的招式，ＨＰ也不会减少。",
+			"Gen": 3,
+			"ID": 69,
+			"Name": "Rock Head",
+			"Score": 3
+		},
+		{
+			"ChineseName": "搬岩",
+			"Description": "岩石属性的招式威力会提高。",
+			"Gen": 9,
+			"ID": 276,
+			"Name": "Rocky Payload",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "粗糙皮肤",
+			"Description": "受到攻击时，用粗糙的皮肤弄伤接触到自己的对手。",
+			"Gen": 3,
+			"ID": 24,
+			"Name": "Rough Skin",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "逃跑",
+			"Description": "一定能从野生宝可梦那儿逃走。",
+			"Gen": 3,
+			"ID": 50,
+			"Name": "Run Away",
+			"Score": 0
+		},
+		{
+			"ChineseName": "沙之力",
+			"Description": "沙暴天气时，岩石属性、地面属性和钢属性的招式威力会提高。",
+			"Gen": 5,
+			"ID": 159,
+			"Name": "Sand Force",
+			"Score": 2
+		},
+		{
+			"ChineseName": "拨沙",
+			"Description": "沙暴天气时，速度会提高。",
+			"Gen": 5,
+			"ID": 146,
+			"Name": "Sand Rush",
+			"Score": 3
+		},
+		{
+			"ChineseName": "吐沙",
+			"Description": "受到攻击时，会刮起沙暴。",
+			"Gen": 8,
+			"ID": 245,
+			"Name": "Sand Spit",
+			"Score": 1
+		},
+		{
+			"ChineseName": "扬沙",
+			"Description": "出场时，会把天气变为沙暴。",
+			"Gen": 3,
+			"ID": 45,
+			"Name": "Sand Stream",
+			"Score": 4
+		},
+		{
+			"ChineseName": "沙隐",
+			"Description": "在沙暴的时候，闪避率会提高。",
+			"Gen": 3,
+			"ID": 8,
+			"Name": "Sand Veil",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "食草",
+			"Description": "受到草属性的招式攻击时，不会受到伤害，而是攻击会提高。",
+			"Gen": 5,
+			"ID": 157,
+			"Name": "Sap Sipper",
+			"Score": 3
+		},
+		{
+			"ChineseName": "鱼群",
+			"Description": "ＨＰ多的时候会聚起来变强。ＨＰ剩余量变少时，群体会分崩离析。",
+			"Gen": 7,
+			"ID": 208,
+			"Name": "Schooling",
+			"Score": 3
+		},
+		{
+			"ChineseName": "胆量",
+			"Description": "一般属性和格斗属性的招式可以击中幽灵属性的宝可梦。对威吓也毫不动摇。",
+			"Gen": 4,
+			"ID": 113,
+			"Name": "Scrappy",
+			"Score": 3
+		},
+		{
+			"ChineseName": "除障",
+			"Description": "出场时，敌方和我方的光墙、反射壁和极光幕的效果会消失。",
+			"Gen": 8,
+			"ID": 251,
+			"Name": "Screen Cleaner",
+			"Score": 2
+		},
+		{
+			"ChineseName": "掉出种子",
+			"Description": "受到攻击时，会将脚下变成青草场地。",
+			"Gen": 9,
+			"ID": 269,
+			"Name": "Seed Sower",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "天恩",
+			"Description": "托天恩的福，招式的追加效果容易出现。",
+			"Gen": 3,
+			"ID": 32,
+			"Name": "Serene Grace",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "幻影防守",
+			"Description": "ＨＰ全满时，受到的伤害会变少。",
+			"Gen": 7,
+			"ID": 231,
+			"Name": "Shadow Shield",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "踩影",
+			"Description": "踩住对手的影子使其无法逃走或替换。",
+			"Gen": 3,
+			"ID": 23,
+			"Name": "Shadow Tag",
+			"Score": 5
+		},
+		{
+			"ChineseName": "锋锐",
+			"Description": "提高切割对手的招式的威力。",
+			"Gen": 9,
+			"ID": 292,
+			"Name": "Sharpness",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "蜕皮",
+			"Description": "通过蜕去身上的皮，有时会治愈异常状态。",
+			"Gen": 3,
+			"ID": 61,
+			"Name": "Shed Skin",
+			"Score": 3
+		},
+		{
+			"ChineseName": "强行",
+			"Description": "招式的追加效果消失，但因此能以更高的威力使出招式。",
+			"Gen": 5,
+			"ID": 125,
+			"Name": "Sheer Force",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "硬壳盔甲",
+			"Description": "被坚硬的壳保护着，对手的攻击不会击中要害。",
+			"Gen": 3,
+			"ID": 75,
+			"Name": "Shell Armor",
+			"Score": 1
+		},
+		{
+			"ChineseName": "鳞粉",
+			"Description": "被鳞粉守护着，不会受到招式的追加效果影响。",
+			"Gen": 3,
+			"ID": 19,
+			"Name": "Shield Dust",
+			"Score": 2
+		},
+		{
+			"ChineseName": "Shields Down",
+			"Description": "ＨＰ变为一半时，壳会坏掉，变得有攻击性。",
+			"Gen": 7,
+			"ID": 197,
+			"Name": "Shields Down",
+			"Score": 3
+		},
+		{
+			"ChineseName": "单纯",
+			"Description": "能力变化会变为平时的２倍。",
+			"Gen": 4,
+			"ID": 86,
+			"Name": "Simple",
+			"Score": 4
+		},
+		{
+			"ChineseName": "连续攻击",
+			"Description": "如果使用连续招式，总是能使出最高次数。",
+			"Gen": 4,
+			"ID": 92,
+			"Name": "Skill Link",
+			"Score": 3
+		},
+		{
+			"ChineseName": "拨雪",
+			"Description": "下雪天气时，速度会提高。",
+			"Gen": 7,
+			"ID": 202,
+			"Name": "Slush Rush",
+			"Score": 3
+		},
+		{
+			"ChineseName": "狙击手",
+			"Description": "击中要害时，威力会变得更强。",
+			"Gen": 4,
+			"ID": 97,
+			"Name": "Sniper",
+			"Score": 2
+		},
+		{
+			"ChineseName": "雪隐",
+			"Description": "下雪天气时，闪避率会提高。",
+			"Gen": 4,
+			"ID": 81,
+			"Name": "Snow Cloak",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "降雪",
+			"Description": "出场时，会将天气变为下雪。",
+			"Gen": 4,
+			"ID": 117,
+			"Name": "Snow Warning",
+			"Score": 4
+		},
+		{
+			"ChineseName": "太阳之力",
+			"Description": "晴朗天气时，特攻会提高，而每回合ＨＰ会减少。",
+			"Gen": 4,
+			"ID": 94,
+			"Name": "Solar Power",
+			"Score": 2
+		},
+		{
+			"ChineseName": "坚硬岩石",
+			"Description": "受到效果绝佳的攻击时，可以减弱其威力。",
+			"Gen": 4,
+			"ID": 116,
+			"Name": "Solid Rock",
+			"Score": 3
+		},
+		{
+			"ChineseName": "魂心",
+			"Description": "宝可梦每次变为濒死状态时，特攻会提高。",
+			"Gen": 7,
+			"ID": 220,
+			"Name": "Soul-Heart",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "隔音",
+			"Description": "通过屏蔽声音，不受到声音招式的影响。",
+			"Gen": 3,
+			"ID": 43,
+			"Name": "Soundproof",
+			"Score": 2
+		},
+		{
+			"ChineseName": "加速",
+			"Description": "每一回合速度会变快。",
+			"Gen": 3,
+			"ID": 3,
+			"Name": "Speed Boost",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "蹲守",
+			"Description": "可以对替换出场的对手以２倍的伤害进行攻击。",
+			"Gen": 7,
+			"ID": 198,
+			"Name": "Stakeout",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "坚毅",
+			"Description": "能无视具有吸引对手招式效果的特性或招式的影响。",
+			"Gen": 8,
+			"ID": 242,
+			"Name": "Stalwart",
+			"Score": 0
+		},
+		{
+			"ChineseName": "持久力",
+			"Description": "受到攻击时，防御会提高。",
+			"Gen": 7,
+			"ID": 192,
+			"Name": "Stamina",
+			"Score": 4
+		},
+		{
+			"ChineseName": "战斗切换",
+			"Description": "如果使出攻击招式，会变为刀剑形态，如果使出招式“王者盾牌”，会变为盾牌形态。",
+			"Gen": 6,
+			"ID": 176,
+			"Name": "Stance Change",
+			"Score": 4
+		},
+		{
+			"ChineseName": "静电",
+			"Description": "身上带有静电，有时会让接触到的对手麻痹。",
+			"Gen": 3,
+			"ID": 9,
+			"Name": "Static",
+			"Score": 2
+		},
+		{
+			"ChineseName": "不屈之心",
+			"Description": "每次畏缩时，不屈之心就会燃起，速度也会提高。",
+			"Gen": 4,
+			"ID": 80,
+			"Name": "Steadfast",
+			"Score": 1
+		},
+		{
+			"ChineseName": "蒸汽机",
+			"Description": "受到水属性或火属性的招式攻击时，速度会巨幅提高。",
+			"Gen": 8,
+			"ID": 243,
+			"Name": "Steam Engine",
+			"Score": 2
+		},
+		{
+			"ChineseName": "钢能力者",
+			"Description": "钢属性的招式威力会提高。",
+			"Gen": 7,
+			"ID": 200,
+			"Name": "Steelworker",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "钢之意志",
+			"Description": "我方的钢属性攻击威力会提高。",
+			"Gen": 8,
+			"ID": 252,
+			"Name": "Steely Spirit",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "恶臭",
+			"Description": "通过释放臭臭的气味，在攻击的时候，有时会使对手畏缩。",
+			"Gen": 3,
+			"ID": 1,
+			"Name": "Stench",
+			"Score": 0.5
+		},
+		{
+			"ChineseName": "黏着",
+			"Description": "因为道具是粘在黏性身体上的，所以不会被对手夺走。",
+			"Gen": 3,
+			"ID": 60,
+			"Name": "Sticky Hold",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "引水",
+			"Description": "将水属性的招式引到自己身上，不会受到伤害，而是会提高特攻。",
+			"Gen": 4,
+			"ID": 114,
+			"Name": "Storm Drain",
+			"Score": 3
+		},
+		{
+			"ChineseName": "强壮之颚",
+			"Description": "因为颚部强壮，啃咬类招式的威力会提高。",
+			"Gen": 6,
+			"ID": 173,
+			"Name": "Strong Jaw",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "结实",
+			"Description": "在ＨＰ全满时，即使受到招式攻击，也不会被一击打倒。一击必杀的招式也没有效果。",
+			"Gen": 3,
+			"ID": 5,
+			"Name": "Sturdy",
+			"Score": 3
+		},
+		{
+			"ChineseName": "吸盘",
+			"Description": "用吸盘牢牢贴在地面上，让替换宝可梦的招式和道具无效。",
+			"Gen": 3,
+			"ID": 21,
+			"Name": "Suction Cups",
+			"Score": 1
+		},
+		{
+			"ChineseName": "超幸运",
+			"Description": "因为拥有超幸运，攻击容易击中对手的要害。",
+			"Gen": 4,
+			"ID": 105,
+			"Name": "Super Luck",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "甘露之蜜",
+			"Description": "首次出场时，会散发出甜腻的蜜的香味来降低对手的闪避率。",
+			"Gen": 9,
+			"ID": 306,
+			"Name": "Supersweet Syrup",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "大将",
+			"Description": "出场时，攻击和特攻会按照目前被打倒的同伴数量逐渐提升，被打倒越多，提升越多。",
+			"Gen": 9,
+			"ID": 293,
+			"Name": "Supreme Overlord",
+			"Score": 4
+		},
+		{
+			"ChineseName": "冲浪之尾",
+			"Description": "电气场地时，速度会变为２倍。",
+			"Gen": 7,
+			"ID": 207,
+			"Name": "Surge Surfer",
+			"Score": 3
+		},
+		{
+			"ChineseName": "蟲之預感",
+			"Description": "ＨＰ减少的时候，虫属性的招式威力会提高。",
+			"Gen": 3,
+			"ID": 68,
+			"Name": "Swarm",
+			"Score": 2
+		},
+		{
+			"ChineseName": "甜幕",
+			"Description": "自己和同伴的宝可梦不会变为睡眠状态。",
+			"Gen": 6,
+			"ID": 175,
+			"Name": "Sweet Veil",
+			"Score": 2
+		},
+		{
+			"ChineseName": "悠游自如",
+			"Description": "下雨天气时，速度会提高。",
+			"Gen": 3,
+			"ID": 33,
+			"Name": "Swift Swim",
+			"Score": 3
+		},
+		{
+			"ChineseName": "共生",
+			"Description": "同伴使用道具时，会把自己持有的道具传递给同伴。",
+			"Gen": 6,
+			"ID": 180,
+			"Name": "Symbiosis",
+			"Score": 0
+		},
+		{
+			"ChineseName": "同步",
+			"Description": "将自己的中毒、麻痹或灼伤状态传染给对手。",
+			"Gen": 3,
+			"ID": 28,
+			"Name": "Synchronize",
+			"Score": 2
+		},
+		{
+			"ChineseName": "灾祸之剑",
+			"Description": "以能呼唤灾厄的剑的力量降低除自己以外的宝可梦的防御。",
+			"Gen": 9,
+			"ID": 285,
+			"Name": "Sword of Ruin",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "灾祸之简",
+			"Description": "以能呼唤灾厄的简的力量降低除自己以外的宝可梦的攻击。",
+			"Gen": 9,
+			"ID": 284,
+			"Name": "Tablets of Ruin",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "蹒跚",
+			"Description": "在混乱状态时，闪避率会提高。",
+			"Gen": 4,
+			"ID": 77,
+			"Name": "Tangled Feet",
+			"Score": 1
+		},
+		{
+			"ChineseName": "卷发",
+			"Description": "对于用攻击接触到自己的对手，会降低其速度。",
+			"Gen": 7,
+			"ID": 221,
+			"Name": "Tangling Hair",
+			"Score": 2
+		},
+		{
+			"ChineseName": "技术高手",
+			"Description": "攻击时可以将低威力招式的威力提高。",
+			"Gen": 4,
+			"ID": 101,
+			"Name": "Technician",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "心灵感应",
+			"Description": "读取我方的攻击，并闪避其招式伤害。",
+			"Gen": 5,
+			"ID": 140,
+			"Name": "Telepathy",
+			"Score": 0
+		},
+		{
+			"ChineseName": "归零化境",
+			"Description": "太乐巴戈斯变为星晶形态时，蕴藏在它身上的力量会将天气和场地的影响全部归零。",
+			"Gen": 9,
+			"ID": 309,
+			"Name": "Teraform Zero",
+			"Score": 3
+		},
+		{
+			"ChineseName": "太晶甲壳",
+			"Description": "甲壳蕴藏着全部属性的力量，会将自己ＨＰ全满时受到的伤害全都变为效果不好。",
+			"Gen": 9,
+			"ID": 308,
+			"Name": "Tera Shell",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "太晶变形",
+			"Description": "出场时，会吸收周围的能量，变为太晶形态。",
+			"Gen": 9,
+			"ID": 307,
+			"Name": "Tera Shift",
+			"Score": 3
+		},
+		{
+			"ChineseName": "兆级电压",
+			"Description": "可以不受对手特性的干扰，向对手使出招式。",
+			"Gen": 5,
+			"ID": 164,
+			"Name": "Teravolt",
+			"Score": 3
+		},
+		{
+			"ChineseName": "热交换",
+			"Description": "受到火属性的招式攻击时，攻击会提高，且不会陷入灼伤状态。",
+			"Gen": 9,
+			"ID": 270,
+			"Name": "Thermal Exchange",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "厚脂肪",
+			"Description": "因为被厚厚的脂肪保护着，会让火属性和冰属性的招式伤害减半。",
+			"Gen": 3,
+			"ID": 47,
+			"Name": "Thick Fat",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "有色眼镜",
+			"Description": "可以将效果不好的招式以通常的威力使出。",
+			"Gen": 4,
+			"ID": 110,
+			"Name": "Tinted Lens",
+			"Score": 4
+		},
+		{
+			"ChineseName": "激流",
+			"Description": "ＨＰ减少的时候，水属性的招式威力会提高。",
+			"Gen": 3,
+			"ID": 67,
+			"Name": "Torrent",
+			"Score": 2
+		},
+		{
+			"ChineseName": "硬爪",
+			"Description": "接触到对手的招式威力会提高。",
+			"Gen": 6,
+			"ID": 181,
+			"Name": "Tough Claws",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "中毒激升",
+			"Description": "变为中毒状态时，物理招式的威力会提高。",
+			"Gen": 5,
+			"ID": 137,
+			"Name": "Toxic Boost",
+			"Score": 3
+		},
+		{
+			"ChineseName": "毒锁链",
+			"Description": "凭借含有毒素的锁链的力量，有时能让被招式击中的对手陷入剧毒状态。",
+			"Gen": 9,
+			"ID": 305,
+			"Name": "Toxic Chain",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "毒满地",
+			"Description": "受到物理招式的伤害时，会在对手脚下散布毒菱。",
+			"Gen": 9,
+			"ID": 295,
+			"Name": "Toxic Debris",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "复制",
+			"Description": "出场时，复制对手的特性，变为与之相同的特性。",
+			"Gen": 3,
+			"ID": 36,
+			"Name": "Trace",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "电晶体",
+			"Description": "电属性的招式威力会提高。",
+			"Gen": 8,
+			"ID": 262,
+			"Name": "Transistor",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "先行治疗",
+			"Description": "可以率先使出回复招式。",
+			"Gen": 7,
+			"ID": 205,
+			"Name": "Triage",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "涡轮火焰",
+			"Description": "可以不受对手特性的干扰，向对手使出招式。",
+			"Gen": 5,
+			"ID": 163,
+			"Name": "Turboblaze",
+			"Score": 3
+		},
+		{
+			"ChineseName": "纯朴",
+			"Description": "可以无视对手能力的变化，进行攻击。",
+			"Gen": 4,
+			"ID": 109,
+			"Name": "Unaware",
+			"Score": 4
+		},
+		{
+			"ChineseName": "轻装",
+			"Description": "失去所持有的道具时，速度会提高。",
+			"Gen": 4,
+			"ID": 84,
+			"Name": "Unburden",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "紧张感",
+			"Description": "让对手紧张，使其无法食用树果。",
+			"Gen": 5,
+			"ID": 127,
+			"Name": "Unnerve",
+			"Score": 1
+		},
+		{
+			"ChineseName": "Unseen Fist",
+			"Description": "-99",
+			"Gen": 8,
+			"ID": 260,
+			"Name": "Unseen Fist",
+			"Score": 2
+		},
+		{
+			"ChineseName": "灾祸之鼎",
+			"Description": "以能呼唤灾厄的鼎的力量降低除自己以外的宝可梦的特攻。",
+			"Gen": 9,
+			"ID": 284,
+			"Name": "Vessel of Ruin",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "胜利之星",
+			"Description": "自己和同伴的命中率会提高。",
+			"Gen": 5,
+			"ID": 162,
+			"Name": "Victory Star",
+			"Score": 2
+		},
+		{
+			"ChineseName": "干劲",
+			"Description": "通过激发出干劲，不会变为睡眠状态。",
+			"Gen": 3,
+			"ID": 72,
+			"Name": "Vital Spirit",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "蓄电",
+			"Description": "受到电属性的招式攻击时，不会受到伤害，而是会回复。",
+			"Gen": 3,
+			"ID": 10,
+			"Name": "Volt Absorb",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "游魂",
+			"Description": "与使用接触类招式攻击自己的宝可梦互换特性。",
+			"Gen": 8,
+			"ID": 254,
+			"Name": "Wandering Spirit",
+			"Score": 2.5
+		},
+		{
+			"ChineseName": "储水",
+			"Description": "受到水属性的招式攻击时，不会受到伤害，而是会回复。",
+			"Gen": 3,
+			"ID": 11,
+			"Name": "Water Absorb",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "水泡",
+			"Description": "降低自己受到的火属性招式的威力，不会灼伤。",
+			"Gen": 7,
+			"ID": 199,
+			"Name": "Water Bubble",
+			"Score": 4.5
+		},
+		{
+			"ChineseName": "遇水凝固",
+			"Description": "受到水属性的招式攻击时，防御会大幅提高。",
+			"Gen": 7,
+			"ID": 195,
+			"Name": "Water Compaction",
+			"Score": 1.5
+		},
+		{
+			"ChineseName": "水幕",
+			"Description": "将水幕裹在身上，不会变为灼伤状态。",
+			"Gen": 3,
+			"ID": 41,
+			"Name": "Water Veil",
+			"Score": 2
+		},
+		{
+			"ChineseName": "碎裂铠甲",
+			"Description": "受到物理招式的伤害时，防御会降低，速度会大幅提高。",
+			"Gen": 5,
+			"ID": 133,
+			"Name": "Weak Armor",
+			"Score": 1
+		},
+		{
+			"ChineseName": "焦香之躯",
+			"Description": "受到火属性的招式攻击时，不会受到伤害，而是会大幅提高防御。",
+			"Gen": 9,
+			"ID": 273,
+			"Name": "Well-Baked Body",
+			"Score": 3.5
+		},
+		{
+			"ChineseName": "白色烟雾",
+			"Description": "被白色烟雾保护着，不会被对手降低能力。",
+			"Gen": 3,
+			"ID": 73,
+			"Name": "White Smoke",
+			"Score": 2
+		},
+		{
+			"ChineseName": "跃跃欲逃",
+			"Description": "ＨＰ变为一半时，会慌慌张张逃走，退回同行队伍中。",
+			"Gen": 7,
+			"ID": 193,
+			"Name": "Wimp Out",
+			"Score": 1
+		},
+		{
+			"ChineseName": "风力发电",
+			"Description": "受到风的招式攻击时，会变为充电状态。",
+			"Gen": 9,
+			"ID": 277,
+			"Name": "Wind Power",
+			"Score": 1
+		},
+		{
+			"ChineseName": "神奇守护",
+			"Description": "不可思议的力量，只有效果绝佳的招式才能击中。",
+			"Gen": 3,
+			"ID": 25,
+			"Name": "Wonder Guard",
+			"Score": 5
+		},
+		{
+			"ChineseName": "奇迹皮肤",
+			"Description": "成为不易受到变化招式攻击的身体。",
+			"Gen": 5,
+			"ID": 147,
+			"Name": "Wonder Skin",
+			"Score": 2
+		},
+		{
+			"ChineseName": "达摩模式",
+			"Description": "ＨＰ变为一半以下时，样子会改变。",
+			"Gen": 5,
+			"ID": 161,
+			"Name": "Zen Mode",
+			"Score": 0
+		},
+		{
+			"ChineseName": "全能变身",
+			"Description": "回到同行队伍后，会变为全能形态。",
+			"Gen": 9,
+			"ID": 278,
+			"Name": "Zero to Hero",
+			"Score": 5
+		},
+		{
+			"ChineseName": "Mountaineer",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": -2,
+			"Name": "Mountaineer",
+			"Score": 3
+		},
+		{
+			"ChineseName": "Rebound",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": -3,
+			"Name": "Rebound",
+			"Score": 3
+		},
+		{
+			"ChineseName": "Persistent",
+			"Description": "-99",
+			"Gen": -99,
+			"ID": -4,
+			"Name": "Persistent",
+			"Score": 3
+		}
+	]
+}
