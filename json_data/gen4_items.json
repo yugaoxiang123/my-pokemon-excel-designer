@@ -1,0 +1,3207 @@
+[
+  {
+    "id": 0,
+    "name": "Berserk Gene",
+    "chineseName": "破坏基因",
+    "generation": 2,
+    "desc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+    "shortDesc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+    "isBerry": false,
+    "isNonstandard": null,
+    "boosts": {
+      "atk": 2
+    }
+  },
+  {
+    "id": 1,
+    "name": "Master Ball",
+    "chineseName": "大师球",
+    "generation": 1,
+    "desc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+    "shortDesc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 2,
+    "name": "Ultra Ball",
+    "chineseName": "高级球",
+    "generation": 1,
+    "desc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+    "shortDesc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 3,
+    "name": "Great Ball",
+    "chineseName": "超级球",
+    "generation": 1,
+    "desc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+    "shortDesc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 4,
+    "name": "Poke Ball",
+    "chineseName": "Poke Ball",
+    "generation": 1,
+    "desc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+    "shortDesc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 5,
+    "name": "Safari Ball",
+    "chineseName": "狩猎球",
+    "generation": 1,
+    "desc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+    "shortDesc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 6,
+    "name": "Net Ball",
+    "chineseName": "捕网球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+    "shortDesc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 7,
+    "name": "Dive Ball",
+    "chineseName": "潜水球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+    "shortDesc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 8,
+    "name": "Nest Ball",
+    "chineseName": "巢穴球",
+    "generation": 3,
+    "desc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+    "shortDesc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 9,
+    "name": "Repeat Ball",
+    "chineseName": "重复球",
+    "generation": 3,
+    "desc": "A Poke Ball that works well on Pokemon species that were previously caught.",
+    "shortDesc": "A Poke Ball that works well on Pokemon species that were previously caught.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 10,
+    "name": "Timer Ball",
+    "chineseName": "计时球",
+    "generation": 3,
+    "desc": "A Poke Ball that becomes better the more turns there are in a battle.",
+    "shortDesc": "A Poke Ball that becomes better the more turns there are in a battle.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 11,
+    "name": "Luxury Ball",
+    "chineseName": "豪华球",
+    "generation": 3,
+    "desc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+    "shortDesc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 12,
+    "name": "Premier Ball",
+    "chineseName": "纪念球",
+    "generation": 3,
+    "desc": "A rare Poke Ball that has been crafted to commemorate an event.",
+    "shortDesc": "A rare Poke Ball that has been crafted to commemorate an event.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 13,
+    "name": "Dusk Ball",
+    "chineseName": "黑暗球",
+    "generation": 4,
+    "desc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+    "shortDesc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 14,
+    "name": "Heal Ball",
+    "chineseName": "治愈球",
+    "generation": 4,
+    "desc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+    "shortDesc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 15,
+    "name": "Quick Ball",
+    "chineseName": "先机球",
+    "generation": 4,
+    "desc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+    "shortDesc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 16,
+    "name": "Cherish Ball",
+    "chineseName": "贵重球",
+    "generation": 4,
+    "desc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+    "shortDesc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 43,
+    "name": "Berry Juice",
+    "chineseName": "树果汁",
+    "generation": 2,
+    "desc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+    "shortDesc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 80,
+    "name": "Sun Stone",
+    "chineseName": "日之石",
+    "generation": 2,
+    "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 81,
+    "name": "Moon Stone",
+    "chineseName": "月之石",
+    "generation": 1,
+    "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 82,
+    "name": "Fire Stone",
+    "chineseName": "火之石",
+    "generation": 1,
+    "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 83,
+    "name": "Thunder Stone",
+    "chineseName": "雷之石",
+    "generation": 1,
+    "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, and Eelektrik into Eelektross when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 84,
+    "name": "Water Stone",
+    "chineseName": "水之石",
+    "generation": 1,
+    "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 85,
+    "name": "Leaf Stone",
+    "chineseName": "叶之石",
+    "generation": 1,
+    "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 99,
+    "name": "Root Fossil",
+    "chineseName": "根状化石",
+    "generation": 3,
+    "desc": "Can be revived into Lileep.",
+    "shortDesc": "Can be revived into Lileep.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 100,
+    "name": "Claw Fossil",
+    "chineseName": "爪子化石",
+    "generation": 3,
+    "desc": "Can be revived into Anorith.",
+    "shortDesc": "Can be revived into Anorith.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 101,
+    "name": "Helix Fossil",
+    "chineseName": "贝壳化石",
+    "generation": 3,
+    "desc": "Can be revived into Omanyte.",
+    "shortDesc": "Can be revived into Omanyte.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 102,
+    "name": "Dome Fossil",
+    "chineseName": "甲壳化石",
+    "generation": 3,
+    "desc": "Can be revived into Kabuto.",
+    "shortDesc": "Can be revived into Kabuto.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 103,
+    "name": "Old Amber",
+    "chineseName": "秘密琥珀",
+    "generation": 3,
+    "desc": "Can be revived into Aerodactyl.",
+    "shortDesc": "Can be revived into Aerodactyl.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 104,
+    "name": "Armor Fossil",
+    "chineseName": "盾甲化石",
+    "generation": 4,
+    "desc": "Can be revived into Shieldon.",
+    "shortDesc": "Can be revived into Shieldon.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 105,
+    "name": "Skull Fossil",
+    "chineseName": "头盖化石",
+    "generation": 4,
+    "desc": "Can be revived into Cranidos.",
+    "shortDesc": "Can be revived into Cranidos.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 106,
+    "name": "Rare Bone",
+    "chineseName": "贵重骨头",
+    "generation": 4,
+    "desc": "No competitive use other than when used with Fling.",
+    "shortDesc": "No competitive use other than when used with Fling.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 107,
+    "name": "Shiny Stone",
+    "chineseName": "光之石",
+    "generation": 4,
+    "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 108,
+    "name": "Dusk Stone",
+    "chineseName": "暗之石",
+    "generation": 4,
+    "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 109,
+    "name": "Dawn Stone",
+    "chineseName": "觉醒之石",
+    "generation": 4,
+    "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 110,
+    "name": "Oval Stone",
+    "chineseName": "浑圆之石",
+    "generation": 4,
+    "desc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "shortDesc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 112,
+    "name": "Griseous Orb",
+    "chineseName": "白金宝珠",
+    "generation": 4,
+    "desc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power.",
+    "shortDesc": "Can only be held by Giratina. Its Ghost- & Dragon-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Giratina-Origin"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Adamant Orb",
+    "chineseName": "金刚宝珠",
+    "generation": 4,
+    "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+    "shortDesc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Dialga"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Lustrous Orb",
+    "chineseName": "白玉宝珠",
+    "generation": 4,
+    "desc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+    "shortDesc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Palkia"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Mail",
+    "chineseName": "邮件",
+    "generation": 2,
+    "desc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+    "shortDesc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 149,
+    "name": "PRZ Cure Berry",
+    "chineseName": "PRZ Cure Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+    "shortDesc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 149,
+    "name": "Cheri Berry",
+    "chineseName": "樱子果",
+    "generation": 3,
+    "desc": "Holder cures itself if it is paralyzed. Single use.",
+    "shortDesc": "Holder cures itself if it is paralyzed. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 150,
+    "name": "Mint Berry",
+    "chineseName": "薄荷的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+    "shortDesc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 150,
+    "name": "Chesto Berry",
+    "chineseName": "零余果",
+    "generation": 3,
+    "desc": "Holder wakes up if it is asleep. Single use.",
+    "shortDesc": "Holder wakes up if it is asleep. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 151,
+    "name": "PSN Cure Berry",
+    "chineseName": "PSN Cure Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+    "shortDesc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 151,
+    "name": "Pecha Berry",
+    "chineseName": "桃桃果",
+    "generation": 3,
+    "desc": "Holder is cured if it is poisoned. Single use.",
+    "shortDesc": "Holder is cured if it is poisoned. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 152,
+    "name": "Ice Berry",
+    "chineseName": "冰冻的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is burned. Single use.",
+    "shortDesc": "(Gen 2) Holder is cured if it is burned. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 152,
+    "name": "Rawst Berry",
+    "chineseName": "莓莓果",
+    "generation": 3,
+    "desc": "Holder is cured if it is burned. Single use.",
+    "shortDesc": "Holder is cured if it is burned. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 153,
+    "name": "Burnt Berry",
+    "chineseName": "烧烤的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+    "shortDesc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 153,
+    "name": "Aspear Berry",
+    "chineseName": "利木果",
+    "generation": 3,
+    "desc": "Holder is cured if it is frozen. Single use.",
+    "shortDesc": "Holder is cured if it is frozen. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 154,
+    "name": "Mystery Berry",
+    "chineseName": "Mystery Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "shortDesc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 154,
+    "name": "Leppa Berry",
+    "chineseName": "苹野果",
+    "generation": 3,
+    "desc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "shortDesc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 155,
+    "name": "Berry",
+    "chineseName": "树果",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "shortDesc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 155,
+    "name": "Oran Berry",
+    "chineseName": "橙橙果",
+    "generation": 3,
+    "desc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "shortDesc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 156,
+    "name": "Bitter Berry",
+    "chineseName": "苦涩的果实",
+    "generation": 2,
+    "desc": "(Gen 2) Holder is cured if it is confused. Single use.",
+    "shortDesc": "(Gen 2) Holder is cured if it is confused. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 156,
+    "name": "Persim Berry",
+    "chineseName": "柿仔果",
+    "generation": 3,
+    "desc": "Holder is cured if it is confused. Single use.",
+    "shortDesc": "Holder is cured if it is confused. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 157,
+    "name": "Miracle Berry",
+    "chineseName": "Miracle Berry",
+    "generation": 2,
+    "desc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+    "shortDesc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 157,
+    "name": "Lum Berry",
+    "chineseName": "木子果",
+    "generation": 3,
+    "desc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+    "shortDesc": "Holder cures itself if it has a non-volatile status or is confused. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 158,
+    "name": "Gold Berry",
+    "chineseName": "果实",
+    "generation": 2,
+    "desc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "shortDesc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 158,
+    "name": "Sitrus Berry",
+    "chineseName": "文柚果",
+    "generation": 3,
+    "desc": "Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "shortDesc": "Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 159,
+    "name": "Figy Berry",
+    "chineseName": "勿花果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Atk Nature. Single use.",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Atk Nature. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 160,
+    "name": "Wiki Berry",
+    "chineseName": "异奇果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpA Nature. Single use.",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpA Nature. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 161,
+    "name": "Mago Berry",
+    "chineseName": "芒芒果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Spe Nature. Single use.",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Spe Nature. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 162,
+    "name": "Aguav Berry",
+    "chineseName": "乐芭果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpD Nature. Single use.",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -SpD Nature. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 163,
+    "name": "Iapapa Berry",
+    "chineseName": "芭亚果",
+    "generation": 3,
+    "desc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Def Nature. Single use.",
+    "shortDesc": "Restores 1/8 max HP at 1/2 max HP or less; confuses if -Def Nature. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 164,
+    "name": "Razz Berry",
+    "chineseName": "蔓莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 165,
+    "name": "Bluk Berry",
+    "chineseName": "墨莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 166,
+    "name": "Nanab Berry",
+    "chineseName": "蕉香果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 167,
+    "name": "Wepear Berry",
+    "chineseName": "西梨果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 168,
+    "name": "Pinap Berry",
+    "chineseName": "凰梨果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 169,
+    "name": "Pomeg Berry",
+    "chineseName": "榴石果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 170,
+    "name": "Kelpsy Berry",
+    "chineseName": "藻根果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 171,
+    "name": "Qualot Berry",
+    "chineseName": "比巴果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 172,
+    "name": "Hondew Berry",
+    "chineseName": "哈密果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 173,
+    "name": "Grepa Berry",
+    "chineseName": "萄葡果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 174,
+    "name": "Tamato Berry",
+    "chineseName": "茄番果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 175,
+    "name": "Cornn Berry",
+    "chineseName": "玉黍果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 176,
+    "name": "Magost Berry",
+    "chineseName": "岳竹果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 177,
+    "name": "Rabuta Berry",
+    "chineseName": "茸丹果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 178,
+    "name": "Nomel Berry",
+    "chineseName": "檬柠果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 179,
+    "name": "Spelon Berry",
+    "chineseName": "刺角果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 180,
+    "name": "Pamtre Berry",
+    "chineseName": "椰木果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 70,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 181,
+    "name": "Watmel Berry",
+    "chineseName": "瓜西果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 182,
+    "name": "Durin Berry",
+    "chineseName": "金枕果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 183,
+    "name": "Belue Berry",
+    "chineseName": "靛莓果",
+    "generation": 3,
+    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "shortDesc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 184,
+    "name": "Occa Berry",
+    "chineseName": "巧可果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fire"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 185,
+    "name": "Passho Berry",
+    "chineseName": "千香果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Water"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 186,
+    "name": "Wacan Berry",
+    "chineseName": "烛木果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Electric"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 187,
+    "name": "Rindo Berry",
+    "chineseName": "罗子果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 188,
+    "name": "Yache Berry",
+    "chineseName": "番荔果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 189,
+    "name": "Chople Berry",
+    "chineseName": "莲蒲果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 190,
+    "name": "Kebia Berry",
+    "chineseName": "通通果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 191,
+    "name": "Shuca Berry",
+    "chineseName": "腰木果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 192,
+    "name": "Coba Berry",
+    "chineseName": "棱瓜果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 193,
+    "name": "Payapa Berry",
+    "chineseName": "福禄果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 194,
+    "name": "Tanga Berry",
+    "chineseName": "扁樱果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Bug"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 195,
+    "name": "Charti Berry",
+    "chineseName": "草蚕果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 196,
+    "name": "Kasib Berry",
+    "chineseName": "佛柑果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 197,
+    "name": "Haban Berry",
+    "chineseName": "莓榴果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 198,
+    "name": "Colbur Berry",
+    "chineseName": "刺耳果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 199,
+    "name": "Babiri Berry",
+    "chineseName": "霹霹果",
+    "generation": 4,
+    "desc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Steel"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 200,
+    "name": "Chilan Berry",
+    "chineseName": "灯浆果",
+    "generation": 4,
+    "desc": "Halves damage taken from a Normal-type attack. Single use.",
+    "shortDesc": "Halves damage taken from a Normal-type attack. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 60,
+      "type": "Normal"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 201,
+    "name": "Liechi Berry",
+    "chineseName": "枝荔果",
+    "generation": 3,
+    "desc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Grass"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 202,
+    "name": "Ganlon Berry",
+    "chineseName": "龙睛果",
+    "generation": 3,
+    "desc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ice"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 203,
+    "name": "Salac Berry",
+    "chineseName": "沙鳞果",
+    "generation": 3,
+    "desc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Fighting"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 204,
+    "name": "Petaya Berry",
+    "chineseName": "龙火果",
+    "generation": 3,
+    "desc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Poison"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 205,
+    "name": "Apicot Berry",
+    "chineseName": "杏仔果",
+    "generation": 3,
+    "desc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ground"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 206,
+    "name": "Lansat Berry",
+    "chineseName": "兰萨果",
+    "generation": 3,
+    "desc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Flying"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 207,
+    "name": "Starf Berry",
+    "chineseName": "星桃果",
+    "generation": 3,
+    "desc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+    "shortDesc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Psychic"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 208,
+    "name": "Enigma Berry",
+    "chineseName": "谜芝果",
+    "generation": 3,
+    "desc": "No competitive use.",
+    "shortDesc": "No competitive use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "isNonstandard": "Unobtainable"
+  },
+  {
+    "id": 209,
+    "name": "Micle Berry",
+    "chineseName": "奇秘果",
+    "generation": 4,
+    "desc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Rock"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 210,
+    "name": "Custap Berry",
+    "chineseName": "释陀果",
+    "generation": 4,
+    "desc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+    "shortDesc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Ghost"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 211,
+    "name": "Jaboca Berry",
+    "chineseName": "嘉珍果",
+    "generation": 4,
+    "desc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+    "shortDesc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Dragon"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 212,
+    "name": "Rowap Berry",
+    "chineseName": "雾莲果",
+    "generation": 4,
+    "desc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+    "shortDesc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": true,
+    "naturalGift": {
+      "basePower": 80,
+      "type": "Dark"
+    },
+    "isNonstandard": null
+  },
+  {
+    "id": 213,
+    "name": "Bright Powder",
+    "chineseName": "光粉",
+    "generation": 2,
+    "desc": "An attack against the holder has its accuracy out of 255 lowered by 20.",
+    "shortDesc": "An attack against the holder has its accuracy out of 255 lowered by 20.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 214,
+    "name": "White Herb",
+    "chineseName": "白色香草",
+    "generation": 3,
+    "desc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+    "shortDesc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 215,
+    "name": "Macho Brace",
+    "chineseName": "强制锻炼器",
+    "generation": 3,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 217,
+    "name": "Quick Claw",
+    "generation": 2,
+    "desc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket.",
+    "shortDesc": "Each turn, holder has a ~23.4% chance to move first in its priority bracket.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 219,
+    "name": "Mental Herb",
+    "chineseName": "心灵香草",
+    "generation": 3,
+    "desc": "Holder is cured if it is infatuated. Single use.",
+    "shortDesc": "Holder is cured if it is infatuated. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 220,
+    "name": "Choice Band",
+    "chineseName": "讲究头带",
+    "generation": 3,
+    "desc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+    "shortDesc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 221,
+    "name": "King's Rock",
+    "chineseName": "王者之证",
+    "generation": 2,
+    "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.",
+    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "fling": {
+      "basePower": 30,
+      "volatileStatus": "flinch"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 222,
+    "name": "Silver Powder",
+    "chineseName": "银粉",
+    "generation": 2,
+    "desc": "Holder's Bug-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Bug-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 225,
+    "name": "Soul Dew",
+    "chineseName": "心之水滴",
+    "generation": 3,
+    "desc": "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+    "shortDesc": "If held by a Latias or a Latios, its Sp. Atk and Sp. Def are 1.5x.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Latios",
+      "Latias"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Deep Sea Tooth",
+    "chineseName": "深海之牙",
+    "generation": 3,
+    "desc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
+    "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Clamperl"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Deep Sea Scale",
+    "chineseName": "深海鳞片",
+    "generation": 3,
+    "desc": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.",
+    "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Clamperl"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Focus Band",
+    "chineseName": "气势头带",
+    "generation": 2,
+    "desc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP.",
+    "shortDesc": "Holder has a ~11.7% chance to survive an attack that would KO it with 1 HP.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 232,
+    "name": "Scope Lens",
+    "chineseName": "焦点镜",
+    "generation": 2,
+    "desc": "Holder's critical hit ratio is raised by 1 stage.",
+    "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 233,
+    "name": "Metal Coat",
+    "chineseName": "金属膜",
+    "generation": 2,
+    "desc": "Holder's Steel-type attacks have 1.1x power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
+    "shortDesc": "Holder's Steel-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 234,
+    "name": "Leftovers",
+    "chineseName": "吃剩的东西",
+    "generation": 2,
+    "desc": "At the end of every turn, holder restores 1/16 of its max HP.",
+    "shortDesc": "At the end of every turn, holder restores 1/16 of its max HP.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 235,
+    "name": "Dragon Scale",
+    "chineseName": "龙之鳞片",
+    "generation": 2,
+    "desc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).",
+    "shortDesc": "Holder's Dragon-type attacks have 1.1x power. Evolves Seadra (trade).",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 236,
+    "name": "Light Ball",
+    "chineseName": "电气球",
+    "generation": 2,
+    "desc": "If held by a Pikachu, its Special Attack is doubled.",
+    "shortDesc": "If held by a Pikachu, its Special Attack is doubled.",
+    "fling": {
+      "basePower": 30,
+      "status": "par"
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Pikachu",
+      "Pikachu-Cosplay",
+      "Pikachu-Rock-Star",
+      "Pikachu-Belle",
+      "Pikachu-Pop-Star",
+      "Pikachu-PhD",
+      "Pikachu-Libre",
+      "Pikachu-Original",
+      "Pikachu-Hoenn",
+      "Pikachu-Sinnoh",
+      "Pikachu-Unova",
+      "Pikachu-Kalos",
+      "Pikachu-Alola",
+      "Pikachu-Partner",
+      "Pikachu-Starter",
+      "Pikachu-World"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Soft Sand",
+    "chineseName": "柔软沙子",
+    "generation": 2,
+    "desc": "Holder's Ground-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Ground-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 238,
+    "name": "Hard Stone",
+    "chineseName": "硬石头",
+    "generation": 2,
+    "desc": "Holder's Rock-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Rock-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 100
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 239,
+    "name": "Miracle Seed",
+    "chineseName": "奇迹种子",
+    "generation": 2,
+    "desc": "Holder's Grass-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Grass-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 240,
+    "name": "Black Glasses",
+    "chineseName": "黑色眼镜",
+    "generation": 2,
+    "desc": "Holder's Dark-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Dark-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 241,
+    "name": "Black Belt",
+    "chineseName": "黑带",
+    "generation": 2,
+    "desc": "Holder's Fighting-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Fighting-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 242,
+    "name": "Magnet",
+    "chineseName": "磁铁",
+    "generation": 2,
+    "desc": "Holder's Electric-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Electric-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 243,
+    "name": "Mystic Water",
+    "chineseName": "神秘水滴",
+    "generation": 2,
+    "desc": "Holder's Water-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Water-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 244,
+    "name": "Sharp Beak",
+    "chineseName": "锐利鸟嘴",
+    "generation": 2,
+    "desc": "Holder's Flying-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Flying-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 50
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 245,
+    "name": "Poison Barb",
+    "chineseName": "毒针",
+    "generation": 2,
+    "desc": "Holder's Poison-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Poison-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 70,
+      "status": "psn"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 246,
+    "name": "Never-Melt Ice",
+    "chineseName": "不融冰",
+    "generation": 2,
+    "desc": "Holder's Ice-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Ice-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 247,
+    "name": "Spell Tag",
+    "chineseName": "诅咒之符",
+    "generation": 2,
+    "desc": "Holder's Ghost-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Ghost-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 248,
+    "name": "Twisted Spoon",
+    "chineseName": "弯曲的汤匙",
+    "generation": 2,
+    "desc": "Holder's Psychic-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Psychic-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 249,
+    "name": "Charcoal",
+    "chineseName": "木炭",
+    "generation": 2,
+    "desc": "Holder's Fire-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Fire-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 250,
+    "name": "Dragon Fang",
+    "chineseName": "龙之牙",
+    "generation": 2,
+    "desc": "No competitive use.",
+    "shortDesc": "No competitive use.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Pink Bow",
+    "chineseName": "粉红色丝带",
+    "generation": 2,
+    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Polkadot Bow",
+    "chineseName": "水玉色之带",
+    "generation": 2,
+    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "shortDesc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 251,
+    "name": "Silk Scarf",
+    "chineseName": "丝绸围巾",
+    "generation": 3,
+    "desc": "Holder's Normal-type attacks have 1.1x power.",
+    "shortDesc": "Holder's Normal-type attacks have 1.1x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 252,
+    "name": "Up-Grade",
+    "chineseName": "升级数据",
+    "generation": 2,
+    "desc": "Evolves Porygon into Porygon2 when traded.",
+    "shortDesc": "Evolves Porygon into Porygon2 when traded.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 253,
+    "name": "Shell Bell",
+    "chineseName": "贝壳之铃",
+    "generation": 3,
+    "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "shortDesc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 254,
+    "name": "Sea Incense",
+    "chineseName": "海潮薰香",
+    "generation": 3,
+    "desc": "Holder's Water-type attacks have 1.05x power.",
+    "shortDesc": "Holder's Water-type attacks have 1.05x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 255,
+    "name": "Lax Incense",
+    "chineseName": "悠闲薰香",
+    "generation": 3,
+    "desc": "The accuracy of attacks against the holder is 0.95x.",
+    "shortDesc": "The accuracy of attacks against the holder is 0.95x.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 256,
+    "name": "Lucky Punch",
+    "chineseName": "吉利拳",
+    "generation": 2,
+    "desc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "shortDesc": "If held by a Chansey, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "fling": {
+      "basePower": 40
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Chansey"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Metal Powder",
+    "chineseName": "金属粉",
+    "generation": 2,
+    "desc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed.",
+    "shortDesc": "If held by a Ditto, its Defense and Sp. Def are 1.5x, even while Transformed.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Ditto"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Thick Club",
+    "chineseName": "粗骨头",
+    "generation": 2,
+    "desc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+    "shortDesc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Marowak",
+      "Marowak-Alola",
+      "Marowak-Alola-Totem",
+      "Cubone"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Stick",
+    "chineseName": "大葱",
+    "generation": 2,
+    "desc": "If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "shortDesc": "If held by a Farfetch’d, its critical hit ratio is always at stage 2. (25% crit rate)",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Farfetch’d"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Wide Lens",
+    "chineseName": "广角镜",
+    "generation": 4,
+    "desc": "The accuracy of attacks by the holder is 1.1x.",
+    "shortDesc": "The accuracy of attacks by the holder is 1.1x.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 266,
+    "name": "Muscle Band",
+    "chineseName": "力量头带",
+    "generation": 4,
+    "desc": "Holder's physical attacks have 1.1x power.",
+    "shortDesc": "Holder's physical attacks have 1.1x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 267,
+    "name": "Wise Glasses",
+    "chineseName": "博识眼镜",
+    "generation": 4,
+    "desc": "Holder's special attacks have 1.1x power.",
+    "shortDesc": "Holder's special attacks have 1.1x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 268,
+    "name": "Expert Belt",
+    "chineseName": "达人带",
+    "generation": 4,
+    "desc": "Holder's attacks that are super effective against the target do 1.2x damage.",
+    "shortDesc": "Holder's attacks that are super effective against the target do 1.2x damage.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 269,
+    "name": "Light Clay",
+    "chineseName": "光之黏土",
+    "generation": 4,
+    "desc": "Holder's use of Light Screen or Reflect lasts 8 turns instead of 5.",
+    "shortDesc": "Holder's use of Light Screen or Reflect lasts 8 turns instead of 5.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 270,
+    "name": "Life Orb",
+    "chineseName": "生命宝珠",
+    "generation": 4,
+    "desc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+    "shortDesc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 271,
+    "name": "Power Herb",
+    "generation": 4,
+    "desc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+    "shortDesc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 272,
+    "name": "Toxic Orb",
+    "chineseName": "剧毒宝珠",
+    "generation": 4,
+    "desc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "shortDesc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "fling": {
+      "basePower": 30,
+      "status": "tox"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 273,
+    "name": "Flame Orb",
+    "chineseName": "火焰宝珠",
+    "generation": 4,
+    "desc": "At the end of every turn, this item attempts to burn the holder.",
+    "shortDesc": "At the end of every turn, this item attempts to burn the holder.",
+    "fling": {
+      "basePower": 30,
+      "status": "brn"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 274,
+    "name": "Quick Powder",
+    "chineseName": "速度粉",
+    "generation": 4,
+    "desc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "shortDesc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null,
+    "itemUser": [
+      "Ditto"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Focus Sash",
+    "chineseName": "气势披带",
+    "generation": 4,
+    "desc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
+    "shortDesc": "If holder's HP is full, survives all hits of one attack with at least 1 HP. Single use.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 276,
+    "name": "Zoom Lens",
+    "chineseName": "对焦镜",
+    "generation": 4,
+    "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "shortDesc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 277,
+    "name": "Metronome",
+    "chineseName": "Metronome",
+    "generation": 4,
+    "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
+    "shortDesc": "Damage of moves used on consecutive turns is increased. Max 2x after 10 turns.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 278,
+    "name": "Iron Ball",
+    "chineseName": "黑色铁球",
+    "generation": 4,
+    "desc": "Holder's Speed is halved and it becomes grounded.",
+    "shortDesc": "Holder's Speed is halved and it becomes grounded.",
+    "fling": {
+      "basePower": 130
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 279,
+    "name": "Lagging Tail",
+    "chineseName": "后攻之尾",
+    "generation": 4,
+    "desc": "Holder moves last in its priority bracket.",
+    "shortDesc": "Holder moves last in its priority bracket.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 280,
+    "name": "Destiny Knot",
+    "chineseName": "红线",
+    "generation": 4,
+    "desc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+    "shortDesc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 281,
+    "name": "Black Sludge",
+    "chineseName": "黑色污泥",
+    "generation": 4,
+    "desc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+    "shortDesc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+    "fling": {
+      "basePower": 30
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 282,
+    "name": "Icy Rock",
+    "chineseName": "冰冷岩石",
+    "generation": 4,
+    "desc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "shortDesc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "fling": {
+      "basePower": 40
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 283,
+    "name": "Smooth Rock",
+    "chineseName": "沙沙岩石",
+    "generation": 4,
+    "desc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "shortDesc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 284,
+    "name": "Heat Rock",
+    "chineseName": "炽热岩石",
+    "generation": 4,
+    "desc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "shortDesc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 285,
+    "name": "Damp Rock",
+    "chineseName": "潮湿岩石",
+    "generation": 4,
+    "desc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "shortDesc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "fling": {
+      "basePower": 60
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 286,
+    "name": "Grip Claw",
+    "chineseName": "紧缠钩爪",
+    "generation": 4,
+    "desc": "Holder's partial-trapping moves always last 7 turns.",
+    "shortDesc": "Holder's partial-trapping moves always last 7 turns.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 287,
+    "name": "Choice Scarf",
+    "chineseName": "讲究围巾",
+    "generation": 4,
+    "desc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+    "shortDesc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 288,
+    "name": "Sticky Barb",
+    "chineseName": "附着针",
+    "generation": 4,
+    "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "shortDesc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 289,
+    "name": "Power Bracer",
+    "chineseName": "力量护腕",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 290,
+    "name": "Power Belt",
+    "chineseName": "力量腰带",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 291,
+    "name": "Power Lens",
+    "chineseName": "力量镜",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 292,
+    "name": "Power Band",
+    "chineseName": "力量束带",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 293,
+    "name": "Power Anklet",
+    "chineseName": "力量护踝",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 294,
+    "name": "Power Weight",
+    "chineseName": "力量负重",
+    "generation": 4,
+    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "shortDesc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "fling": {
+      "basePower": 70
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 295,
+    "name": "Shed Shell",
+    "chineseName": "美丽空壳",
+    "generation": 4,
+    "desc": "Holder cannot be prevented from choosing to switch out by any effect.",
+    "shortDesc": "Holder cannot be prevented from choosing to switch out by any effect.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 296,
+    "name": "Big Root",
+    "chineseName": "大根茎",
+    "generation": 4,
+    "desc": "Holder gains 1.3x HP from draining moves, Aqua Ring, Ingrain, and Leech Seed.",
+    "shortDesc": "Holder gains 1.3x HP from draining moves, Aqua Ring, Ingrain, and Leech Seed.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 297,
+    "name": "Choice Specs",
+    "chineseName": "讲究眼镜",
+    "generation": 4,
+    "desc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+    "shortDesc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 298,
+    "name": "Flame Plate",
+    "chineseName": "火球石板",
+    "generation": 4,
+    "desc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+    "shortDesc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 299,
+    "name": "Splash Plate",
+    "chineseName": "水滴石板",
+    "generation": 4,
+    "desc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+    "shortDesc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 300,
+    "name": "Zap Plate",
+    "chineseName": "雷电石板",
+    "generation": 4,
+    "desc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+    "shortDesc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 301,
+    "name": "Meadow Plate",
+    "chineseName": "碧绿石板",
+    "generation": 4,
+    "desc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+    "shortDesc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 302,
+    "name": "Icicle Plate",
+    "chineseName": "冰柱石板",
+    "generation": 4,
+    "desc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+    "shortDesc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 303,
+    "name": "Fist Plate",
+    "chineseName": "拳头石板",
+    "generation": 4,
+    "desc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+    "shortDesc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 304,
+    "name": "Toxic Plate",
+    "chineseName": "剧毒石板",
+    "generation": 4,
+    "desc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+    "shortDesc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 305,
+    "name": "Earth Plate",
+    "chineseName": "大地石板",
+    "generation": 4,
+    "desc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+    "shortDesc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 306,
+    "name": "Sky Plate",
+    "chineseName": "蓝天石板",
+    "generation": 4,
+    "desc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+    "shortDesc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 307,
+    "name": "Mind Plate",
+    "chineseName": "神奇石板",
+    "generation": 4,
+    "desc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+    "shortDesc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 308,
+    "name": "Insect Plate",
+    "chineseName": "玉虫石板",
+    "generation": 4,
+    "desc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+    "shortDesc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 309,
+    "name": "Stone Plate",
+    "chineseName": "岩石石板",
+    "generation": 4,
+    "desc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+    "shortDesc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 310,
+    "name": "Spooky Plate",
+    "chineseName": "妖怪石板",
+    "generation": 4,
+    "desc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+    "shortDesc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 311,
+    "name": "Draco Plate",
+    "chineseName": "龙之石板",
+    "generation": 4,
+    "desc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+    "shortDesc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 312,
+    "name": "Dread Plate",
+    "chineseName": "恶颜石板",
+    "generation": 4,
+    "desc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+    "shortDesc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 313,
+    "name": "Iron Plate",
+    "chineseName": "钢铁石板",
+    "generation": 4,
+    "desc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+    "shortDesc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+    "fling": {
+      "basePower": 90
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 314,
+    "name": "Odd Incense",
+    "chineseName": "奇异薰香",
+    "generation": 4,
+    "desc": "Holder's Psychic-type attacks have 1.2x power.",
+    "shortDesc": "Holder's Psychic-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 315,
+    "name": "Rock Incense",
+    "chineseName": "岩石薰香",
+    "generation": 4,
+    "desc": "Holder's Rock-type attacks have 1.2x power.",
+    "shortDesc": "Holder's Rock-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 316,
+    "name": "Full Incense",
+    "chineseName": "饱腹薰香",
+    "generation": 4,
+    "desc": "Holder moves last in its priority bracket.",
+    "shortDesc": "Holder moves last in its priority bracket.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 317,
+    "name": "Wave Incense",
+    "chineseName": "涟漪薰香",
+    "generation": 4,
+    "desc": "Holder's Water-type attacks have 1.2x power.",
+    "shortDesc": "Holder's Water-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 318,
+    "name": "Rose Incense",
+    "chineseName": "花朵薰香",
+    "generation": 4,
+    "desc": "Holder's Grass-type attacks have 1.2x power.",
+    "shortDesc": "Holder's Grass-type attacks have 1.2x power.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 321,
+    "name": "Protector",
+    "chineseName": "护具",
+    "generation": 4,
+    "desc": "Evolves Rhydon into Rhyperior when traded.",
+    "shortDesc": "Evolves Rhydon into Rhyperior when traded.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 322,
+    "name": "Electirizer",
+    "chineseName": "电力增幅器",
+    "generation": 4,
+    "desc": "Evolves Electabuzz into Electivire when traded.",
+    "shortDesc": "Evolves Electabuzz into Electivire when traded.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 323,
+    "name": "Magmarizer",
+    "chineseName": "熔岩增幅器",
+    "generation": 4,
+    "desc": "Evolves Magmar into Magmortar when traded.",
+    "shortDesc": "Evolves Magmar into Magmortar when traded.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 324,
+    "name": "Dubious Disc",
+    "chineseName": "可疑补丁",
+    "generation": 4,
+    "desc": "Evolves Porygon2 into Porygon-Z when traded.",
+    "shortDesc": "Evolves Porygon2 into Porygon-Z when traded.",
+    "fling": {
+      "basePower": 50
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 325,
+    "name": "Reaper Cloth",
+    "chineseName": "灵界之布",
+    "generation": 4,
+    "desc": "Evolves Dusclops into Dusknoir when traded.",
+    "shortDesc": "Evolves Dusclops into Dusknoir when traded.",
+    "fling": {
+      "basePower": 10
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 326,
+    "name": "Razor Claw",
+    "chineseName": "锐利之爪",
+    "generation": 4,
+    "desc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
+    "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
+    "fling": {
+      "basePower": 80
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 327,
+    "name": "Razor Fang",
+    "chineseName": "锐利之牙",
+    "generation": 4,
+    "desc": "Holder's attacks without a chance to make the target flinch gain a 10% chance to make the target flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
+    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "fling": {
+      "basePower": 30,
+      "volatileStatus": "flinch"
+    },
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 492,
+    "name": "Fast Ball",
+    "chineseName": "速度球",
+    "generation": 2,
+    "desc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+    "shortDesc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 493,
+    "name": "Level Ball",
+    "chineseName": "等级球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+    "shortDesc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 494,
+    "name": "Lure Ball",
+    "chineseName": "诱饵球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+    "shortDesc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 495,
+    "name": "Heavy Ball",
+    "chineseName": "沉重球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching very heavy Pokemon.",
+    "shortDesc": "A Poke Ball for catching very heavy Pokemon.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 496,
+    "name": "Love Ball",
+    "chineseName": "甜蜜球",
+    "generation": 2,
+    "desc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+    "shortDesc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 497,
+    "name": "Friend Ball",
+    "chineseName": "友友球",
+    "generation": 2,
+    "desc": "A Poke Ball that makes caught Pokemon more friendly.",
+    "shortDesc": "A Poke Ball that makes caught Pokemon more friendly.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 498,
+    "name": "Moon Ball",
+    "chineseName": "月亮球",
+    "generation": 2,
+    "desc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+    "shortDesc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 499,
+    "name": "Sport Ball",
+    "chineseName": "竞赛球",
+    "generation": 2,
+    "desc": "A special Poke Ball for the Bug-Catching Contest.",
+    "shortDesc": "A special Poke Ball for the Bug-Catching Contest.",
+    "isBerry": false,
+    "isNonstandard": null
+  },
+  {
+    "id": 500,
+    "name": "Park Ball",
+    "chineseName": "公园球",
+    "generation": 4,
+    "desc": "A special Poke Ball for the Pal Park.",
+    "shortDesc": "A special Poke Ball for the Pal Park.",
+    "isBerry": false,
+    "isNonstandard": "Unobtainable"
+  }
+]
