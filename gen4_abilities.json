@@ -5,7 +5,9 @@
     "chineseName": "恶臭",
     "generation": 3,
     "desc": "No competitive use.",
+    "chineseDesc": "无竞争性使用。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "无竞争性使用。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -16,7 +18,9 @@
     "chineseName": "降雨",
     "generation": 3,
     "desc": "On switch-in, this Pokemon summons Rain Dance.",
+    "chineseDesc": "接通时，该口袋妖怪召唤雨舞。",
     "shortDesc": "On switch-in, this Pokemon summons Rain Dance.",
+    "chineseShortDesc": "接通时，该口袋妖怪召唤雨舞。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -27,7 +31,9 @@
     "chineseName": "加速",
     "generation": 3,
     "desc": "This Pokemon's Speed is raised by 1 stage at the end of each full turn it has been on the field.",
+    "chineseDesc": "这个精灵宝可梦的速度在每个完整回合结束时提升1段。",
     "shortDesc": "This Pokemon's Speed is raised 1 stage at the end of each full turn on the field.",
+    "chineseShortDesc": "这个精灵宝可梦的速度在场上每满回合结束时提升1段。",
     "rating": 4.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -38,7 +44,9 @@
     "chineseName": "战斗盔甲",
     "generation": 3,
     "desc": "This Pokemon cannot be struck by a critical hit.",
+    "chineseDesc": "此精灵宝可梦不会被暴击命中。",
     "shortDesc": "This Pokemon cannot be struck by a critical hit.",
+    "chineseShortDesc": "此精灵宝可梦不会被暴击命中。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -49,7 +57,9 @@
     "chineseName": "结实",
     "generation": 3,
     "desc": "OHKO moves fail when used against this Pokemon.",
+    "chineseDesc": "OHKO移动在对抗此精灵宝可梦时失败。",
     "shortDesc": "OHKO moves fail when used against this Pokemon.",
+    "chineseShortDesc": "OHKO移动在对抗此精灵宝可梦时失败。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -60,7 +70,9 @@
     "chineseName": "湿气",
     "generation": 3,
     "desc": "While this Pokemon is active, Explosion and Self-Destruct are prevented from having an effect.",
+    "chineseDesc": "此精灵宝可梦处于激活状态时，会阻止爆炸和自爆效果。",
     "shortDesc": "Prevents Explosion and Self-Destruct while this Pokemon is active.",
+    "chineseShortDesc": "在此精灵宝可梦处于激活状态时防止爆炸和自爆。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -71,7 +83,9 @@
     "chineseName": "柔软",
     "generation": 3,
     "desc": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.",
+    "chineseDesc": "这个口袋妖怪不能瘫痪。瘫痪期间获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be paralyzed. Gaining this Ability while paralyzed cures it.",
+    "chineseShortDesc": "这个口袋妖怪不能瘫痪。瘫痪期间获得此技能可以治愈它。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -82,7 +96,9 @@
     "chineseName": "沙隐",
     "generation": 3,
     "desc": "If Sandstorm is active, the accuracy of moves used against this Pokemon is multiplied by 0.8. This Pokemon takes no damage from Sandstorm.",
+    "chineseDesc": "如果沙尘暴处于活动状态，则对该精灵宝可梦使用的移动精确度乘以0.8。这个口袋妖怪不会受到沙尘暴的伤害。",
     "shortDesc": "If Sandstorm is active, this Pokemon's evasiveness is 1.25x; immunity to Sandstorm.",
+    "chineseShortDesc": "如果沙尘暴处于活动状态，此精灵宝可梦的闪避率为1.25倍；对沙尘暴免疫。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -93,7 +109,9 @@
     "chineseName": "静电",
     "generation": 3,
     "desc": "1/3 chance a Pokemon making contact with this Pokemon will be paralyzed. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "有1/3的概率使与该口袋妖怪接触的口袋妖怪瘫痪。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "1/3 chance a Pokemon making contact with this Pokemon will be paralyzed.",
+    "chineseShortDesc": "有1/3的概率使与该口袋妖怪接触的口袋妖怪瘫痪。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -104,7 +122,9 @@
     "chineseName": "蓄电",
     "generation": 3,
     "desc": "This Pokemon is immune to damaging Electric-type moves and restores 1/4 of its maximum HP, rounded down, when hit by one.",
+    "chineseDesc": "这个口袋妖怪对电击类伤害免疫，并恢复1/4的最大生命值（被1点击中时向下舍入）。",
     "shortDesc": "This Pokemon heals 1/4 its max HP when hit by a damaging Electric move; immunity.",
+    "chineseShortDesc": "此精灵宝可梦被伤害性电击命中时，治疗1/4最大生命值；免疫。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -115,7 +135,9 @@
     "chineseName": "储水",
     "generation": 3,
     "desc": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move.",
+    "chineseDesc": "这个口袋妖怪对水系移动免疫，被水系移动击中时，恢复四分之一最大生命（四舍五入）。",
     "shortDesc": "This Pokemon heals 1/4 of its max HP when hit by Water moves; Water immunity.",
+    "chineseShortDesc": "此精灵宝可梦被水之移动击中时，治疗其最大生命值的1/4 ；水之免疫。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -126,7 +148,9 @@
     "chineseName": "迟钝",
     "generation": 3,
     "desc": "This Pokemon cannot be infatuated. Gaining this Ability while infatuated cures it.",
+    "chineseDesc": "这个口袋妖怪不可能迷恋。迷恋期间获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be infatuated. Gaining this Ability while infatuated cures it.",
+    "chineseShortDesc": "这个口袋妖怪不可能迷恋。迷恋期间获得此技能可以治愈它。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -137,7 +161,9 @@
     "chineseName": "无关天气",
     "generation": 3,
     "desc": "While this Pokemon is active, the effects of weather conditions are disabled.",
+    "chineseDesc": "当这个口袋妖怪处于活动状态时，天气条件的影响会被禁用。",
     "shortDesc": "While this Pokemon is active, the effects of weather conditions are disabled.",
+    "chineseShortDesc": "当这个口袋妖怪处于活动状态时，天气条件的影响会被禁用。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": true
@@ -148,7 +174,9 @@
     "chineseName": "复眼",
     "generation": 3,
     "desc": "This Pokemon's moves have their accuracy multiplied by 1.3.",
+    "chineseDesc": "这个精灵宝可梦的动作命中率乘以1.3。",
     "shortDesc": "This Pokemon's moves have their accuracy multiplied by 1.3.",
+    "chineseShortDesc": "这个精灵宝可梦的动作命中率乘以1.3。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -159,7 +187,9 @@
     "chineseName": "不眠",
     "generation": 3,
     "desc": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.",
+    "chineseDesc": "这个口袋妖怪不能入睡。睡眠时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.",
+    "chineseShortDesc": "这个口袋妖怪不能入睡。睡眠时获得此技能可以治愈它。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -170,7 +200,9 @@
     "chineseName": "变色",
     "generation": 3,
     "desc": "This Pokemon's type changes to match the type of the last move that hit it, unless that type is already one of its types. This effect applies after each hit from a multi-hit move. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "这个口袋妖怪的类型会改变，以匹配它最后一次移动的类型，除非该类型已经是其类型之一。该效果在多次击中移动的每次击中后应用。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "This Pokemon's type changes to the type of a move it's hit by, unless it has the type.",
+    "chineseShortDesc": "这个口袋妖怪的类型会改变它被击中的移动类型，除非它有类型。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -181,7 +213,9 @@
     "chineseName": "免疫",
     "generation": 3,
     "desc": "This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.",
+    "chineseDesc": "这个口袋妖怪不能中毒。中毒时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be poisoned. Gaining this Ability while poisoned cures it.",
+    "chineseShortDesc": "这个口袋妖怪不能中毒。中毒时获得此技能可以治愈它。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -192,7 +226,9 @@
     "chineseName": "引火",
     "generation": 3,
     "desc": "This Pokemon is immune to Fire-type moves, as long as it is not frozen. The first time it is hit by a Fire-type move, damage from its Fire-type attacks will be multiplied by 1.5 as long as it remains active and has this Ability. If this Pokemon has a non-volatile status condition, is a Fire type, or has a substitute, Will-O-Wisp will not activate this Ability.",
+    "chineseDesc": "此口袋妖怪对火系移动免疫，只要未冻结即可。它第一次被火系移动击中时，只要它保持活动状态并具有此技能，其火系攻击的伤害将乘以1.5。如果此口袋妖怪具有非挥发性状态、属于火焰类型或具有替代品，则意志妖精将不会激活此技能。",
     "shortDesc": "This Pokemon's Fire attacks do 1.5x damage if hit by one Fire move; Fire immunity.",
+    "chineseShortDesc": "这个精灵宝可梦的火焰攻击如果被一个火焰移动击中，则造成1.5倍伤害；火焰免疫。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -203,7 +239,9 @@
     "chineseName": "鳞粉",
     "generation": 3,
     "desc": "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
+    "chineseDesc": "此精灵宝可梦不受其他精灵宝可梦攻击的次要影响。",
     "shortDesc": "This Pokemon is not affected by the secondary effect of another Pokemon's attack.",
+    "chineseShortDesc": "此精灵宝可梦不受其他精灵宝可梦攻击的次要影响。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -214,7 +252,9 @@
     "chineseName": "我行我素",
     "generation": 3,
     "desc": "This Pokemon cannot be confused. Gaining this Ability while confused cures it.",
+    "chineseDesc": "这个口袋妖怪不能混淆。迷惑时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be confused.",
+    "chineseShortDesc": "这个口袋妖怪不能混淆。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -225,7 +265,9 @@
     "chineseName": "吸盘",
     "generation": 3,
     "desc": "This Pokemon cannot be forced to switch out by another Pokemon's attack or item.",
+    "chineseDesc": "这个口袋妖怪不能被另一个口袋妖怪的攻击或物品强行切换。",
     "shortDesc": "This Pokemon cannot be forced to switch out by another Pokemon's attack or item.",
+    "chineseShortDesc": "这个口袋妖怪不能被另一个口袋妖怪的攻击或物品强行切换。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -236,7 +278,9 @@
     "chineseName": "威吓",
     "generation": 3,
     "desc": "On switch-in, this Pokemon lowers the Attack of opposing Pokemon by 1 stage. Pokemon behind a substitute are immune.",
+    "chineseDesc": "开启后，该口袋妖怪会使对方口袋妖怪的攻击力降低1段。替补后面的口袋妖怪是免疫的。",
     "shortDesc": "On switch-in, this Pokemon lowers the Attack of opponents by 1 stage.",
+    "chineseShortDesc": "开启后，此精灵宝可梦会降低对手1阶段的攻击力。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -247,7 +291,9 @@
     "chineseName": "踩影",
     "generation": 3,
     "desc": "Prevents opposing Pokemon from choosing to switch out.",
+    "chineseDesc": "防止对方口袋妖怪选择退出。",
     "shortDesc": "Prevents opposing Pokemon from choosing to switch out.",
+    "chineseShortDesc": "防止对方口袋妖怪选择退出。",
     "rating": 5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -258,7 +304,9 @@
     "chineseName": "粗糙皮肤",
     "generation": 3,
     "desc": "Pokemon making contact with this Pokemon lose 1/16 of their maximum HP, rounded down. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "与该口袋妖怪接触的口袋妖怪失去最大生命值的1/16 ，四舍五入。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "Pokemon making contact with this Pokemon lose 1/16 of their max HP.",
+    "chineseShortDesc": "与该口袋妖怪接触的口袋妖怪失去最大生命值的1/16。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -269,7 +317,9 @@
     "chineseName": "神奇守护",
     "generation": 3,
     "desc": "This Pokemon is only damaged by supereffective moves and indirect damage.",
+    "chineseDesc": "这个口袋妖怪只有通过超级效果的移动和间接伤害才会受到伤害。",
     "shortDesc": "This Pokemon is only damaged by supereffective moves and indirect damage.",
+    "chineseShortDesc": "这个口袋妖怪只有通过超级效果的移动和间接伤害才会受到伤害。",
     "rating": 5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -280,7 +330,9 @@
     "chineseName": "飘浮",
     "generation": 3,
     "desc": "This Pokemon is immune to Ground-type attacks and the effects of Spikes and the Arena Trap Ability.",
+    "chineseDesc": "此精灵宝可梦对地面类攻击以及尖刺和竞技场陷阱技能的效果免疫。",
     "shortDesc": "This Pokemon is immune to Ground.",
+    "chineseShortDesc": "这个口袋妖怪对地面免疫。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -291,7 +343,9 @@
     "chineseName": "孢子",
     "generation": 3,
     "desc": "10% chance a Pokemon making contact with this Pokemon will be poisoned, paralyzed, or fall asleep. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "10%概率使与此口袋妖怪接触的口袋妖怪中毒、瘫痪或入睡。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "10% chance of poison/paralysis/sleep on others making contact with this Pokemon.",
+    "chineseShortDesc": "10%概率中毒/瘫痪/睡眠他人接触此精灵宝可梦。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -302,7 +356,9 @@
     "chineseName": "同步",
     "generation": 3,
     "desc": "If another Pokemon burns, paralyzes, or poisons this Pokemon, that Pokemon receives the same non-volatile status condition. If another Pokemon badly poisons this Pokemon, that Pokemon becomes poisoned.",
+    "chineseDesc": "如果另一个口袋妖怪烧伤、瘫痪或毒害此口袋妖怪，则该口袋妖怪将获得相同的非易失性状态。如果另一个口袋妖怪严重毒害了这个口袋妖怪，那个口袋妖怪就会中毒。",
     "shortDesc": "If another Pokemon burns/poisons/paralyzes this Pokemon, it also gets that status.",
+    "chineseShortDesc": "如果另一个口袋妖怪燃烧/毒害/麻痹此口袋妖怪，它也会获得该状态。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -313,7 +369,9 @@
     "chineseName": "恒净之躯",
     "generation": 3,
     "desc": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+    "chineseDesc": "防止其他口袋妖怪降低此口袋妖怪的属性关卡。",
     "shortDesc": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+    "chineseShortDesc": "防止其他口袋妖怪降低此口袋妖怪的属性关卡。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -324,7 +382,9 @@
     "chineseName": "自然回复",
     "generation": 3,
     "desc": "This Pokemon has its non-volatile status condition cured when it switches out.",
+    "chineseDesc": "这个口袋妖怪在切换时其非挥发性状态条件得到了固化。",
     "shortDesc": "This Pokemon has its non-volatile status condition cured when it switches out.",
+    "chineseShortDesc": "这个口袋妖怪在切换时其非挥发性状态条件得到了固化。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -335,7 +395,9 @@
     "chineseName": "避雷针",
     "generation": 3,
     "desc": "If this Pokemon is not the target of a single-target Electric-type move used by an opposing Pokemon, this Pokemon redirects that move to itself. This effect considers Hidden Power a Normal-type move.",
+    "chineseDesc": "如果此精灵宝可梦不是对方精灵宝可梦使用的单目标电子类型移动的目标，则此精灵宝可梦会将该移动重定向到自己。此效果将隐藏之力视为普通类型的移动。",
     "shortDesc": "This Pokemon draws single-target Electric moves used by opponents to itself.",
+    "chineseShortDesc": "这个精灵宝可梦会吸引对手使用的单目标电动动作。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -346,7 +408,9 @@
     "chineseName": "天恩",
     "generation": 3,
     "desc": "This Pokemon's moves have their secondary effect chance doubled.",
+    "chineseDesc": "这个精灵宝可梦的动作具有双倍的次要效果概率。",
     "shortDesc": "This Pokemon's moves have their secondary effect chance doubled.",
+    "chineseShortDesc": "这个精灵宝可梦的动作具有双倍的次要效果概率。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -357,7 +421,9 @@
     "chineseName": "悠游自如",
     "generation": 3,
     "desc": "If Rain Dance is active, this Pokemon's Speed is doubled.",
+    "chineseDesc": "如果雨舞处于激活状态，此精灵宝可梦的速度将加倍。",
     "shortDesc": "If Rain Dance is active, this Pokemon's Speed is doubled.",
+    "chineseShortDesc": "如果雨舞处于激活状态，此精灵宝可梦的速度将加倍。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -368,7 +434,9 @@
     "chineseName": "叶绿素",
     "generation": 3,
     "desc": "If Sunny Day is active, this Pokemon's Speed is doubled.",
+    "chineseDesc": "如果晴天处于活动状态，此精灵宝可梦的速度将加倍。",
     "shortDesc": "If Sunny Day is active, this Pokemon's Speed is doubled.",
+    "chineseShortDesc": "如果晴天处于活动状态，此精灵宝可梦的速度将加倍。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -379,7 +447,9 @@
     "chineseName": "发光",
     "generation": 3,
     "desc": "No competitive use.",
+    "chineseDesc": "无竞争性使用。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "无竞争性使用。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -390,7 +460,9 @@
     "chineseName": "复制",
     "generation": 3,
     "desc": "On switch-in, this Pokemon copies a random opposing Pokemon's Ability.",
+    "chineseDesc": "在切换时，此精灵宝可梦会随机复制一个对方的精灵宝可梦技能。",
     "shortDesc": "On switch-in, or when it can, this Pokemon copies a random adjacent foe's Ability.",
+    "chineseShortDesc": "切换时，或者可以切换时，此精灵宝可梦会复制随机相邻敌人的技能。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -401,7 +473,9 @@
     "chineseName": "大力士",
     "generation": 3,
     "desc": "This Pokemon's Attack is doubled.",
+    "chineseDesc": "此精灵宝可梦的攻击力翻倍。",
     "shortDesc": "This Pokemon's Attack is doubled.",
+    "chineseShortDesc": "此精灵宝可梦的攻击力翻倍。",
     "rating": 5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -412,7 +486,9 @@
     "chineseName": "毒刺",
     "generation": 3,
     "desc": "1/3 chance a Pokemon making contact with this Pokemon will be poisoned. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "有1/3的概率使与该口袋妖怪接触的口袋妖怪中毒。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "1/3 chance a Pokemon making contact with this Pokemon will be poisoned.",
+    "chineseShortDesc": "有1/3的概率使与该口袋妖怪接触的口袋妖怪中毒。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -423,7 +499,9 @@
     "chineseName": "精神力",
     "generation": 3,
     "desc": "This Pokemon cannot be made to flinch.",
+    "chineseDesc": "这个口袋妖怪不能退缩。",
     "shortDesc": "This Pokemon cannot be made to flinch.",
+    "chineseShortDesc": "这个口袋妖怪不能退缩。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -434,7 +512,9 @@
     "chineseName": "熔岩铠甲",
     "generation": 3,
     "desc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
+    "chineseDesc": "此口袋妖怪无法冻结。冰冻时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be frozen. Gaining this Ability while frozen cures it.",
+    "chineseShortDesc": "此口袋妖怪无法冻结。冰冻时获得此技能可以治愈它。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -445,7 +525,9 @@
     "chineseName": "水幕",
     "generation": 3,
     "desc": "This Pokemon cannot be burned. Gaining this Ability while burned cures it.",
+    "chineseDesc": "此精灵宝可梦无法燃烧。燃烧时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot be burned. Gaining this Ability while burned cures it.",
+    "chineseShortDesc": "此精灵宝可梦无法燃烧。燃烧时获得此技能可以治愈它。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -456,7 +538,9 @@
     "chineseName": "磁力",
     "generation": 3,
     "desc": "Prevents Steel-type Pokemon from choosing to switch out, other than this Pokemon.",
+    "chineseDesc": "防止钢铁口袋妖怪选择退出，除了这个口袋妖怪。",
     "shortDesc": "Prevents Steel-type Pokemon from choosing to switch out, other than this Pokemon.",
+    "chineseShortDesc": "防止钢铁口袋妖怪选择退出，除了这个口袋妖怪。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -467,7 +551,9 @@
     "chineseName": "隔音",
     "generation": 3,
     "desc": "This Pokemon is immune to sound-based moves, including Heal Bell.",
+    "chineseDesc": "这个口袋妖怪对基于声音的动作免疫，包括治疗铃。",
     "shortDesc": "This Pokemon is immune to sound-based moves, including Heal Bell.",
+    "chineseShortDesc": "这个口袋妖怪对基于声音的动作免疫，包括治疗铃。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -478,7 +564,9 @@
     "chineseName": "雨盘",
     "generation": 3,
     "desc": "If Rain Dance is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn.",
+    "chineseDesc": "如果雨舞处于激活状态，该口袋妖怪在每回合结束时恢复其最大生命值的1/16 ，向下舍入。",
     "shortDesc": "If Rain Dance is active, this Pokemon heals 1/16 of its max HP each turn.",
+    "chineseShortDesc": "如果雨舞处于激活状态，此精灵宝可梦每回合治疗其最大生命值的1/16。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -489,7 +577,9 @@
     "chineseName": "扬沙",
     "generation": 3,
     "desc": "On switch-in, this Pokemon summons Sandstorm.",
+    "chineseDesc": "切入时，此精灵宝可梦召唤沙尘暴。",
     "shortDesc": "On switch-in, this Pokemon summons Sandstorm.",
+    "chineseShortDesc": "切入时，此精灵宝可梦召唤沙尘暴。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -500,7 +590,9 @@
     "chineseName": "压迫感",
     "generation": 3,
     "desc": "If this Pokemon is the target of another Pokemon's move, that move loses one additional PP.",
+    "chineseDesc": "如果此精灵宝可梦是另一个精灵宝可梦移动的目标，该移动将额外损失1点生命值。",
     "shortDesc": "If this Pokemon is the target of a move, that move loses one additional PP.",
+    "chineseShortDesc": "如果此精灵宝可梦是移动目标，则该移动会额外损失1点生命值。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -511,7 +603,9 @@
     "chineseName": "厚脂肪",
     "generation": 3,
     "desc": "If a Pokemon uses a Fire- or Ice-type attack against this Pokemon, that Pokemon's Special Attack is halved when calculating the damage to this Pokemon.",
+    "chineseDesc": "如果口袋妖怪对该口袋妖怪使用火或冰类型的攻击，当计算对该口袋妖怪的伤害时，该口袋妖怪的特殊攻击会减半。",
     "shortDesc": "Fire-/Ice-type moves against this Pokemon deal damage with a halved Sp. Atk stat.",
+    "chineseShortDesc": "对此精灵宝可梦的火属性/冰属性移动，以减半特点攻击力造成伤害。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -522,7 +616,9 @@
     "chineseName": "早起",
     "generation": 3,
     "desc": "This Pokemon's sleep counter drops by 2 instead of 1.",
+    "chineseDesc": "这个精灵宝可梦的睡眠计数器下降2而不是1。",
     "shortDesc": "This Pokemon's sleep counter drops by 2 instead of 1.",
+    "chineseShortDesc": "这个精灵宝可梦的睡眠计数器下降2而不是1。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -533,7 +629,9 @@
     "chineseName": "火焰之躯",
     "generation": 3,
     "desc": "1/3 chance a Pokemon making contact with this Pokemon will be burned. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "1/3概率燃烧与该口袋妖怪接触的口袋妖怪。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "1/3 chance a Pokemon making contact with this Pokemon will be burned.",
+    "chineseShortDesc": "1/3概率燃烧与该口袋妖怪接触的口袋妖怪。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -544,7 +642,9 @@
     "chineseName": "逃跑",
     "generation": 3,
     "desc": "No competitive use.",
+    "chineseDesc": "无竞争性使用。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "无竞争性使用。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -555,7 +655,9 @@
     "chineseName": "锐利目光",
     "generation": 3,
     "desc": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage.",
+    "chineseDesc": "防止其他口袋妖怪降低此口袋妖怪的命中率。",
     "shortDesc": "Prevents other Pokemon from lowering this Pokemon's accuracy stat stage.",
+    "chineseShortDesc": "防止其他口袋妖怪降低此口袋妖怪的命中率。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -566,7 +668,9 @@
     "chineseName": "怪力钳",
     "generation": 3,
     "desc": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage.",
+    "chineseDesc": "防止其他口袋妖怪降低该口袋妖怪的攻击力段。",
     "shortDesc": "Prevents other Pokemon from lowering this Pokemon's Attack stat stage.",
+    "chineseShortDesc": "防止其他口袋妖怪降低该口袋妖怪的攻击力段。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -577,7 +681,9 @@
     "chineseName": "捡拾",
     "generation": 3,
     "desc": "No competitive use.",
+    "chineseDesc": "无竞争性使用。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "无竞争性使用。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -588,7 +694,9 @@
     "chineseName": "懒惰",
     "generation": 3,
     "desc": "This Pokemon skips every other turn instead of using a move. If this Pokemon replaces a Pokemon that fainted during end-of-turn effects, its first turn will be skipped.",
+    "chineseDesc": "这个精灵宝可梦每隔一回合就会跳过，而不是使用一个动作。如果此口袋妖怪取代在回合结束时晕倒的口袋妖怪，其第一回合将被跳过。",
     "shortDesc": "This Pokemon skips every other turn instead of using a move.",
+    "chineseShortDesc": "这个精灵宝可梦每隔一回合就会跳过，而不是使用一个动作。",
     "rating": -1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -599,7 +707,9 @@
     "chineseName": "活力",
     "generation": 3,
     "desc": "This Pokemon's Attack is multiplied by 1.5 and the accuracy of its physical attacks is multiplied by 0.8.",
+    "chineseDesc": "这个精灵宝可梦的攻击力乘以1.5 ，物理攻击的精准度乘以0.8。",
     "shortDesc": "This Pokemon's Attack is 1.5x and accuracy of its physical attacks is 0.8x.",
+    "chineseShortDesc": "这个精灵宝可梦的攻击力是1.5倍，物理攻击的命中率是0.8倍。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -610,7 +720,9 @@
     "chineseName": "迷人之躯",
     "generation": 3,
     "desc": "There is a 1/3 chance a Pokemon making contact with this Pokemon will become infatuated if it is of the opposite gender. This effect does not happen if this Pokemon did not lose HP from the attack.",
+    "chineseDesc": "如果口袋妖怪与这个口袋妖怪有1/3的机会接触到异性，它会变得迷恋。如果此神奇宝贝没有在攻击中失去生命值，则不会产生此效果。",
     "shortDesc": "1/3 chance of infatuating Pokemon of the opposite gender if they make contact.",
+    "chineseShortDesc": "有1/3的概率让异性口袋妖怪迷恋。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -621,7 +733,9 @@
     "chineseName": "Plus",
     "generation": 3,
     "desc": "If an active Pokemon has the Minus Ability, this Pokemon's Special Attack is multiplied by 1.5.",
+    "chineseDesc": "如果活跃的口袋妖怪具有减法技能，则该口袋妖怪的特殊攻击乘以1.5。",
     "shortDesc": "If an active Pokemon has the Minus Ability, this Pokemon's Sp. Atk is 1.5x.",
+    "chineseShortDesc": "如果活跃的口袋妖怪具有减法技能，则此口袋妖怪的特殊能力。攻击力是1.5倍。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -632,7 +746,9 @@
     "chineseName": "负电",
     "generation": 3,
     "desc": "If an active Pokemon has the Plus Ability, this Pokemon's Special Attack is multiplied by 1.5.",
+    "chineseDesc": "如果活跃的口袋妖怪具有加法能力，该口袋妖怪的特殊攻击将乘以1.5。",
     "shortDesc": "If an active Pokemon has the Plus Ability, this Pokemon's Sp. Atk is 1.5x.",
+    "chineseShortDesc": "如果活跃的口袋妖怪具有加法能力，则此口袋妖怪的特殊能力。攻击力是1.5倍。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -643,7 +759,9 @@
     "chineseName": "阴晴不定",
     "generation": 3,
     "desc": "If this Pokemon is a Castform, its type changes to the current weather condition's type, except Sandstorm.",
+    "chineseDesc": "如果此口袋妖怪是Castform ，其类型将更改为当前天气条件的类型，但Sandstorm除外。",
     "shortDesc": "Castform's type changes to the current weather condition's type, except Sandstorm.",
+    "chineseShortDesc": "Castform的类型更改为当前天气条件的类型，但Sandstorm除外。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -654,7 +772,9 @@
     "chineseName": "黏着",
     "generation": 3,
     "desc": "This Pokemon cannot lose its held item due to another Pokemon's attack, even if the attack knocks out this Pokemon. A Sticky Barb will be transferred to other Pokemon regardless of this Ability.",
+    "chineseDesc": "这个口袋妖怪不会因为另一个口袋妖怪的攻击而丢失其持有的物品，即使攻击击倒了这个口袋妖怪。无论此技能如何，粘性倒钩都会转移到其他精灵宝可梦。",
     "shortDesc": "This Pokemon cannot lose its held item due to another Pokemon's Ability or attack.",
+    "chineseShortDesc": "此精灵宝可梦不会因为其他精灵宝可梦的技能或攻击而丢失其持有的物品。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -665,7 +785,9 @@
     "chineseName": "蜕皮",
     "generation": 3,
     "desc": "This Pokemon has a 33% chance to have its non-volatile status condition cured at the end of each turn.",
+    "chineseDesc": "这个口袋妖怪有33%的概率在每回合结束时治愈其非挥发性状态。",
     "shortDesc": "This Pokemon has a 33% chance to have its status cured at the end of each turn.",
+    "chineseShortDesc": "这个口袋妖怪有33%的概率在每回合结束时被治愈。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -676,7 +798,9 @@
     "chineseName": "毅力",
     "generation": 3,
     "desc": "If this Pokemon has a non-volatile status condition, its Attack is multiplied by 1.5. This Pokemon's physical attacks ignore the burn effect of halving damage.",
+    "chineseDesc": "如果此口袋妖怪处于非挥发性状态，其攻击力乘以1.5。这个精灵宝可梦的物理攻击忽略了伤害减半的灼烧效果。",
     "shortDesc": "If this Pokemon is statused, its Attack is 1.5x; ignores burn halving physical damage.",
+    "chineseShortDesc": "如果此精灵宝可梦处于状态，其攻击力为1.5倍；无视燃烧减半的物理伤害。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -687,7 +811,9 @@
     "chineseName": "神奇鱗片",
     "generation": 3,
     "desc": "If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5.",
+    "chineseDesc": "如果此口袋妖怪处于非挥发性状态，其防御力乘以1.5。",
     "shortDesc": "If this Pokemon has a non-volatile status condition, its Defense is multiplied by 1.5.",
+    "chineseShortDesc": "如果此口袋妖怪处于非挥发性状态，其防御力乘以1.5。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -698,7 +824,9 @@
     "chineseName": "污泥浆",
     "generation": 3,
     "desc": "This Pokemon damages those draining HP from it for as much as they would heal. This effect does not consider Dream Eater.",
+    "chineseDesc": "这个精灵宝可梦对消耗精灵宝可梦生命值的人造成的伤害与治疗效果相当。此效果不考虑噬梦者。",
     "shortDesc": "This Pokemon damages those draining HP from it for as much as they would heal.",
+    "chineseShortDesc": "这个精灵宝可梦对消耗精灵宝可梦生命值的人造成的伤害与治疗效果相当。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -709,7 +837,9 @@
     "chineseName": "茂盛",
     "generation": 3,
     "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Grass-type attacks have their power multiplied by 1.5.",
+    "chineseDesc": "当这个口袋妖怪的最大生命值的1/3或更少时，四舍五入，其草类攻击的力量增加1.5倍。",
     "shortDesc": "At 1/3 or less of its max HP, this Pokemon's Grass-type attacks have 1.5x power.",
+    "chineseShortDesc": "此精灵宝可梦草属性攻击在生命值上限的1/3或更低时，拥有1.5倍的力量。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -720,7 +850,9 @@
     "chineseName": "猛火",
     "generation": 3,
     "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Fire-type attacks have their power multiplied by 1.5.",
+    "chineseDesc": "当这个口袋妖怪的最大生命值的1/3或更少时，四舍五入，其火系攻击的能量增加1.5倍。",
     "shortDesc": "At 1/3 or less of its max HP, this Pokemon's Fire-type attacks have 1.5x power.",
+    "chineseShortDesc": "此精灵宝可梦的火系攻击力为最大生命值的1/3或更少时，其火系攻击力为1.5倍。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -731,7 +863,9 @@
     "chineseName": "激流",
     "generation": 3,
     "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Water-type attacks have their power multiplied by 1.5.",
+    "chineseDesc": "当这个口袋妖怪的最大生命值的1/3或更少时，四舍五入，其水系攻击的能量增加1.5倍。",
     "shortDesc": "At 1/3 or less of its max HP, this Pokemon's Water-type attacks have 1.5x power.",
+    "chineseShortDesc": "此精灵宝可梦的水系攻击力为最大生命值的1/3或更低时，其水系攻击力为1.5倍。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -742,7 +876,9 @@
     "chineseName": "蟲之預感",
     "generation": 3,
     "desc": "When this Pokemon has 1/3 or less of its maximum HP, rounded down, its Bug-type attacks have their power multiplied by 1.5.",
+    "chineseDesc": "当这个口袋妖怪有1/3或更少的最大生命值时，四舍五入，其虫类攻击的能量乘以1.5。",
     "shortDesc": "At 1/3 or less of its max HP, this Pokemon's Bug-type attacks have 1.5x power.",
+    "chineseShortDesc": "此精灵宝可梦的虫类攻击在生命值上限的1/3或更低时，其威力为1.5倍。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -753,7 +889,9 @@
     "chineseName": "坚硬脑袋",
     "generation": 3,
     "desc": "This Pokemon does not take recoil damage, except Struggle. Does not affect crash damage.",
+    "chineseDesc": "这个口袋妖怪不会受到反冲伤害，除了挣扎。不影响碰撞损坏。",
     "shortDesc": "This Pokemon does not take recoil damage besides Struggle and crash damage.",
+    "chineseShortDesc": "这个口袋妖怪除了挣扎和碰撞伤害外，不会受到反冲伤害。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -764,7 +902,9 @@
     "chineseName": "日照",
     "generation": 3,
     "desc": "On switch-in, this Pokemon summons Sunny Day.",
+    "chineseDesc": "切入时，此精灵召唤晴天。",
     "shortDesc": "On switch-in, this Pokemon summons Sunny Day.",
+    "chineseShortDesc": "切入时，此精灵召唤晴天。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -775,7 +915,9 @@
     "chineseName": "沙穴",
     "generation": 3,
     "desc": "Prevents opposing Pokemon from choosing to switch out unless they are airborne.",
+    "chineseDesc": "防止对方口袋妖怪选择离开，除非它们是空降的。",
     "shortDesc": "Prevents opposing Pokemon from choosing to switch out unless they are airborne.",
+    "chineseShortDesc": "防止对方口袋妖怪选择离开，除非它们是空降的。",
     "rating": 5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -786,7 +928,9 @@
     "chineseName": "干劲",
     "generation": 3,
     "desc": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.",
+    "chineseDesc": "这个口袋妖怪不能入睡。睡眠时获得此技能可以治愈它。",
     "shortDesc": "This Pokemon cannot fall asleep. Gaining this Ability while asleep cures it.",
+    "chineseShortDesc": "这个口袋妖怪不能入睡。睡眠时获得此技能可以治愈它。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -797,7 +941,9 @@
     "chineseName": "白色烟雾",
     "generation": 3,
     "desc": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+    "chineseDesc": "防止其他口袋妖怪降低此口袋妖怪的属性关卡。",
     "shortDesc": "Prevents other Pokemon from lowering this Pokemon's stat stages.",
+    "chineseShortDesc": "防止其他口袋妖怪降低此口袋妖怪的属性关卡。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -808,7 +954,9 @@
     "chineseName": "瑜伽之力",
     "generation": 3,
     "desc": "This Pokemon's Attack is doubled.",
+    "chineseDesc": "此精灵宝可梦的攻击力翻倍。",
     "shortDesc": "This Pokemon's Attack is doubled.",
+    "chineseShortDesc": "此精灵宝可梦的攻击力翻倍。",
     "rating": 5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -819,7 +967,9 @@
     "chineseName": "硬壳盔甲",
     "generation": 3,
     "desc": "This Pokemon cannot be struck by a critical hit.",
+    "chineseDesc": "此精灵宝可梦不会被暴击命中。",
     "shortDesc": "This Pokemon cannot be struck by a critical hit.",
+    "chineseShortDesc": "此精灵宝可梦不会被暴击命中。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -830,7 +980,9 @@
     "chineseName": "气闸",
     "generation": 3,
     "desc": "While this Pokemon is active, the effects of weather conditions are disabled.",
+    "chineseDesc": "当这个口袋妖怪处于活动状态时，天气条件的影响会被禁用。",
     "shortDesc": "While this Pokemon is active, the effects of weather conditions are disabled.",
+    "chineseShortDesc": "当这个口袋妖怪处于活动状态时，天气条件的影响会被禁用。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": true
@@ -841,7 +993,9 @@
     "chineseName": "蹒跚",
     "generation": 4,
     "desc": "This Pokemon's evasiveness is doubled as long as it is confused.",
+    "chineseDesc": "这个口袋妖怪的躲避力增加了一倍，只要它被迷惑。",
     "shortDesc": "This Pokemon's evasiveness is doubled as long as it is confused.",
+    "chineseShortDesc": "这个口袋妖怪的躲避力增加了一倍，只要它被迷惑。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -852,7 +1006,9 @@
     "chineseName": "电气引擎",
     "generation": 4,
     "desc": "This Pokemon is immune to Electric-type moves and raises its Speed by 1 stage when hit by an Electric-type move.",
+    "chineseDesc": "该口袋妖怪对电击类移动免疫，被电击类移动击中时速度提升1段。",
     "shortDesc": "This Pokemon's Speed is raised 1 stage if hit by an Electric move; Electric immunity.",
+    "chineseShortDesc": "此精灵宝可梦被电击命中时速度提升1级；电击免疫。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -863,7 +1019,9 @@
     "chineseName": "斗争心",
     "generation": 4,
     "desc": "This Pokemon's attacks have their power multiplied by 1.25 against targets of the same gender or multiplied by 0.75 against targets of the opposite gender. There is no modifier if either this Pokemon or the target is genderless.",
+    "chineseDesc": "这个口袋妖怪的攻击对同性别目标的力量乘以1.25 ，或对异性目标的力量乘以0.75。如果此精灵宝可梦或目标为无性别，则没有修改器。",
     "shortDesc": "This Pokemon's attacks do 1.25x on same gender targets; 0.75x on opposite gender.",
+    "chineseShortDesc": "这个口袋妖怪的攻击对相同的性别目标进行1.25倍的攻击；对异性进行0.75倍的攻击。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -874,7 +1032,9 @@
     "chineseName": "不屈之心",
     "generation": 4,
     "desc": "If this Pokemon flinches, its Speed is raised by 1 stage.",
+    "chineseDesc": "如果此精灵畏缩，其速度提升1段。",
     "shortDesc": "If this Pokemon flinches, its Speed is raised by 1 stage.",
+    "chineseShortDesc": "如果此精灵畏缩，其速度提升1段。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -885,7 +1045,9 @@
     "chineseName": "雪隐",
     "generation": 4,
     "desc": "If Hail is active, the accuracy of moves used against this Pokemon is multiplied by 0.8. This Pokemon takes no damage from Hail.",
+    "chineseDesc": "如果冰雹处于激活状态，则对该口袋妖怪使用的移动精确度乘以0.8。这个口袋妖怪不会受到冰雹的伤害。",
     "shortDesc": "If Hail is active, this Pokemon's evasiveness is 1.25x; immunity to Hail.",
+    "chineseShortDesc": "如果冰雹处于激活状态，此精灵宝可梦的闪避率为1.25倍；对冰雹免疫。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -896,7 +1058,9 @@
     "chineseName": "贪吃鬼",
     "generation": 4,
     "desc": "When this Pokemon is holding a Berry that usually activates with 1/4 or less of its maximum HP, it is eaten at 1/2 or less of its maximum HP instead.",
+    "chineseDesc": "当这个口袋妖怪拿着一个通常以1/4或更少的最大生命值激活的浆果时，它会以1/2或更少的最大生命值被吃掉。",
     "shortDesc": "This Pokemon eats Berries at 1/2 max HP or less instead of their usual 1/4 max HP.",
+    "chineseShortDesc": "此精灵宝可梦以1/2或更少的最大生命值吃浆果，而不是通常的1/4最大生命值。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -907,7 +1071,9 @@
     "chineseName": "愤怒穴位",
     "generation": 4,
     "desc": "If this Pokemon, or its substitute, is struck by a critical hit, its Attack is raised by 12 stages.",
+    "chineseDesc": "如果此精灵宝可梦或其替代品被暴击，其攻击力提升12段。",
     "shortDesc": "If this Pokemon or its substitute takes a critical hit, its Attack is raised 12 stages.",
+    "chineseShortDesc": "如果此精灵宝可梦或其替代品受到暴击，其攻击力提升12阶段。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -918,7 +1084,9 @@
     "chineseName": "轻装",
     "generation": 4,
     "desc": "If this Pokemon loses its held item for any reason, its Speed is doubled as long as it remains active, has this Ability, and is not holding an item.",
+    "chineseDesc": "如果此口袋妖怪由于任何原因丢失了其持有的物品，只要它保持活动状态，具有此技能，并且没有持有物品，其速度就会增加一倍。",
     "shortDesc": "Speed is doubled on held item loss; boost is lost if it switches, gets new item/Ability.",
+    "chineseShortDesc": "保持物品丢失时速度加倍；如果切换，提升会丢失，获得新物品/技能。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -929,7 +1097,9 @@
     "chineseName": "耐热",
     "generation": 4,
     "desc": "The power of Fire-type attacks against this Pokemon is halved. This Pokemon takes half of the usual burn damage, rounded down.",
+    "chineseDesc": "对精灵宝可梦的火系攻击力减半。这个口袋妖怪承受通常燃烧伤害的一半，四舍五入。",
     "shortDesc": "The power of Fire-type attacks against this Pokemon is halved; burn damage halved.",
+    "chineseShortDesc": "对精灵宝可梦的火系攻击力减半，燃烧伤害减半。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -940,7 +1110,9 @@
     "chineseName": "单纯",
     "generation": 4,
     "desc": "This Pokemon's stat stages are considered doubled during stat calculations. A stat stage cannot be considered more than 6 or less than -6.",
+    "chineseDesc": "这个精灵宝可梦的属性阶段在属性计算期间被认为是双倍的。统计阶段不能超过6或小于-6。",
     "shortDesc": "This Pokemon's stat stages are considered doubled during stat calculations.",
+    "chineseShortDesc": "这个精灵宝可梦的属性阶段在属性计算期间被认为是双倍的。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -951,7 +1123,9 @@
     "chineseName": "干燥皮肤",
     "generation": 4,
     "desc": "This Pokemon is immune to Water-type moves and restores 1/4 of its maximum HP, rounded down, when hit by a Water-type move. The power of Fire-type moves is multiplied by 1.25 when used on this Pokemon. At the end of each turn, this Pokemon restores 1/8 of its maximum HP, rounded down, if the weather is Rain Dance, and loses 1/8 of its maximum HP, rounded down, if the weather is Sunny Day.",
+    "chineseDesc": "这个口袋妖怪对水系移动免疫，被水系移动击中时，恢复四分之一最大生命（四舍五入）。在此精灵宝可梦上使用时，火焰类移动的力量乘以1.25。每回合结束时，如果天气为雨舞，则该口袋妖怪恢复其最大生命的1/8 （向下舍入） ，如果天气为晴天，则该口袋妖怪失去其最大生命的1/8 （向下舍入）。",
     "shortDesc": "This Pokemon is healed 1/4 by Water, 1/8 by Rain; is hurt 1.25x by Fire, 1/8 by Sun.",
+    "chineseShortDesc": "这个口袋妖怪被水治疗1/4 ，被雨治疗1/8 ；被火伤害1.25倍，被太阳伤害1/8。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -962,7 +1136,9 @@
     "chineseName": "下载",
     "generation": 4,
     "desc": "On switch-in, this Pokemon's Attack or Special Attack is raised by 1 stage based on the weaker combined defensive stat of all opposing Pokemon. Attack is raised if their Defense is lower, and Special Attack is raised if their Special Defense is the same or lower.",
+    "chineseDesc": "打开后，此口袋妖怪的攻击或特殊攻击将根据所有对手口袋妖怪的较弱综合防御属性提高1级。如果他们的防御较低，则提高攻击，如果他们的特殊防御相同或更低，则提高特殊攻击。",
     "shortDesc": "On switch-in, Attack or Sp. Atk is raised 1 stage based on the foes' weaker Defense.",
+    "chineseShortDesc": "在切换时，攻击或Sp.Atk会根据敌人较弱的防御提升1级。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -973,7 +1149,9 @@
     "chineseName": "铁拳",
     "generation": 4,
     "desc": "This Pokemon's punch-based attacks have their power multiplied by 1.2.",
+    "chineseDesc": "这款口袋妖怪的基于拳的攻击威力增加了1.2倍。",
     "shortDesc": "This Pokemon's punch-based attacks have 1.2x power. Sucker Punch is not boosted.",
+    "chineseShortDesc": "这款口袋妖怪的基于拳的攻击具有1.2倍的威力。吸盘冲头未增压。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -984,7 +1162,9 @@
     "chineseName": "毒疗",
     "generation": 4,
     "desc": "If this Pokemon is poisoned, it restores 1/8 of its maximum HP, rounded down, at the end of each turn instead of losing HP.",
+    "chineseDesc": "如果这个口袋妖怪中毒，它会在每回合结束时恢复其最大生命值的1/8（四舍五入），而不是失去生命值。",
     "shortDesc": "This Pokemon is healed by 1/8 of its max HP each turn when poisoned; no HP loss.",
+    "chineseShortDesc": "此口袋妖怪中毒时，每回合可获得其最大生命值的1/8的治愈；没有HP损失。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -995,7 +1175,9 @@
     "chineseName": "适应力",
     "generation": 4,
     "desc": "This Pokemon's moves that match one of its types have a same-type attack bonus (STAB) of 2 instead of 1.5.",
+    "chineseDesc": "这款口袋妖怪的动作与其中一种类型相匹配，其同类攻击加成（STAB）为2，而不是1.5。",
     "shortDesc": "This Pokemon's same-type attack bonus (STAB) is 2 instead of 1.5.",
+    "chineseShortDesc": "这款口袋妖怪的同类攻击加成（STAB）是2，而不是1.5。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1006,7 +1188,9 @@
     "chineseName": "连续攻击",
     "generation": 4,
     "desc": "This Pokemon's multi-hit attacks always hit the maximum number of times. Does not affect Triple Kick.",
+    "chineseDesc": "这款口袋妖怪的多次命中攻击总是达到最大命中次数。不影响Triple Kick。",
     "shortDesc": "This Pokemon's multi-hit attacks always hit the maximum number of times.",
+    "chineseShortDesc": "这款口袋妖怪的多次命中攻击总是达到最大命中次数。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1017,7 +1201,9 @@
     "chineseName": "湿润之躯",
     "generation": 4,
     "desc": "This Pokemon has its non-volatile status condition cured at the end of each turn if Rain Dance is active.",
+    "chineseDesc": "如果Rain Dance处于活动状态，则此口袋妖怪的非易失性状态会在每个回合结束时得到修复。",
     "shortDesc": "This Pokemon has its status cured at the end of each turn if Rain Dance is active.",
+    "chineseShortDesc": "如果Rain Dance处于活动状态，则此口袋妖怪的状态将在每个回合结束时得到修复。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1028,7 +1214,9 @@
     "chineseName": "太阳之力",
     "generation": 4,
     "desc": "If Sunny Day is active, this Pokemon's Special Attack is multiplied by 1.5 and it loses 1/8 of its maximum HP, rounded down, at the end of each turn.",
+    "chineseDesc": "如果“晴天”处于活动状态，则此口袋妖怪的特殊攻击将乘以1.5，并在每个回合结束时损失其最大生命值的1/8（四舍五入）。",
     "shortDesc": "If Sunny Day is active, this Pokemon's Sp. Atk is 1.5x; loses 1/8 max HP per turn.",
+    "chineseShortDesc": "如果晴天活动，这个口袋妖怪的Sp.Atk是1.5倍；每转损失1/8最大生命值。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1039,7 +1227,9 @@
     "chineseName": "飞毛腿",
     "generation": 4,
     "desc": "If this Pokemon has a non-volatile status condition, its Speed is multiplied by 1.5. This Pokemon ignores the paralysis effect of quartering Speed.",
+    "chineseDesc": "如果此口袋妖怪具有非易失性状态，则其速度乘以1.5。这个口袋妖怪忽略了速度四分法的瘫痪效果。",
     "shortDesc": "If this Pokemon is statused, its Speed is 1.5x; ignores Speed drop from paralysis.",
+    "chineseShortDesc": "如果这个口袋妖怪是雕像，它的速度是1.5倍；忽略速度因瘫痪而下降。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1050,7 +1240,9 @@
     "chineseName": "一般皮肤",
     "generation": 4,
     "desc": "This Pokemon's moves are changed to be Normal type. This effect comes after other effects that change a move's type, except Struggle.",
+    "chineseDesc": "这个口袋妖怪的动作被改为普通类型。此效果是在改变移动类型的其他效果之后出现的，但斗争除外。",
     "shortDesc": "This Pokemon's moves are changed to be Normal type.",
+    "chineseShortDesc": "这个口袋妖怪的动作被改为普通类型。",
     "rating": -1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1061,7 +1253,9 @@
     "chineseName": "狙击手",
     "generation": 4,
     "desc": "If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.",
+    "chineseDesc": "如果这个口袋妖怪受到暴击，伤害将乘以1.5。",
     "shortDesc": "If this Pokemon strikes with a critical hit, the damage is multiplied by 1.5.",
+    "chineseShortDesc": "如果这个口袋妖怪受到暴击，伤害将乘以1.5。",
     "rating": 2,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1072,7 +1266,9 @@
     "chineseName": "魔法防守",
     "generation": 4,
     "desc": "This Pokemon can only be damaged by direct attacks. Curse and Substitute on use, Belly Drum, Pain Split, Struggle recoil, and confusion damage are considered direct damage. This Pokemon cannot be prevented from moving because of paralysis, and is unaffected by Toxic Spikes on switch-in.",
+    "chineseDesc": "这个口袋妖怪只能被直接攻击破坏。使用时的诅咒和替代、腹鼓、疼痛分裂、挣扎反冲和混乱伤害被认为是直接伤害。这款口袋妖怪因瘫痪而无法移动，并且不受开机时有毒刺的影响。",
     "shortDesc": "This Pokemon can only be damaged by direct attacks, and can't be fully paralyzed.",
+    "chineseShortDesc": "这款口袋妖怪只能受到直接攻击，不能完全瘫痪。",
     "rating": 4.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1083,7 +1279,9 @@
     "chineseName": "无防守",
     "generation": 4,
     "desc": "Every move used by or against this Pokemon will always hit.",
+    "chineseDesc": "这个口袋妖怪使用或反对的每一个动作都会被击中。",
     "shortDesc": "Every move used by or against this Pokemon will always hit.",
+    "chineseShortDesc": "这个口袋妖怪使用或反对的每一个动作都会被击中。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1094,7 +1292,9 @@
     "chineseName": "慢出",
     "generation": 4,
     "desc": "This Pokemon moves last among Pokemon using the same or greater priority moves.",
+    "chineseDesc": "此口袋妖怪在使用相同或更高优先级移动的口袋妖怪中移动到最后。",
     "shortDesc": "This Pokemon moves last among Pokemon using the same or greater priority moves.",
+    "chineseShortDesc": "此口袋妖怪在使用相同或更高优先级移动的口袋妖怪中移动到最后。",
     "rating": -1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1105,7 +1305,9 @@
     "chineseName": "技术高手",
     "generation": 4,
     "desc": "This Pokemon's moves of 60 power or less have their power multiplied by 1.5, except Struggle. This effect comes after a move's effect changes its own power, as well as the effects of Charge and Helping Hand.",
+    "chineseDesc": "这只口袋妖怪的60次或以下移动的威力将乘以1.5，但挣扎除外。此效果是在移动的效果改变其自身力量以及冲锋和援助之手的效果之后出现的。",
     "shortDesc": "This Pokemon's moves of 60 power or less have 1.5x power, except Struggle.",
+    "chineseShortDesc": "这款口袋妖怪的60次或以下移动具有1.5倍的力量，但斗争除外。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1116,7 +1318,9 @@
     "chineseName": "叶子防守",
     "generation": 4,
     "desc": "If Sunny Day is active, this Pokemon cannot become affected by a non-volatile status condition or Yawn, but can use Rest normally.",
+    "chineseDesc": "如果晴天处于活动状态，此口袋妖怪不会受到非易失性状态或打呵欠的影响，但可以正常使用休息。",
     "shortDesc": "If Sunny Day is active, this Pokemon cannot be statused, but Rest works normally.",
+    "chineseShortDesc": "如果阳光灿烂的日子是活动的，这个口袋妖怪不能被定为状态，但休息正常工作。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1127,7 +1331,9 @@
     "chineseName": "笨拙",
     "generation": 4,
     "desc": "This Pokemon's held item has no effect. This Pokemon cannot use Fling successfully. Macho Brace, Power Anklet, Power Band, Power Belt, Power Bracer, Power Lens, and Power Weight still have their effects.",
+    "chineseDesc": "这个口袋妖怪持有的物品没有效果。这个口袋妖怪无法成功使用Fling。Macho Brace、Power Anklet、Power Band、Power Belt、Power Bracer、Power Lens和Power Weight仍然有其效果。",
     "shortDesc": "This Pokemon's held item has no effect, except Macho Brace. Fling cannot be used.",
+    "chineseShortDesc": "除了Macho Brace之外，这个口袋妖怪持有的物品没有任何效果。无法使用Fling。",
     "rating": -1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1138,7 +1344,9 @@
     "chineseName": "破格",
     "generation": 4,
     "desc": "This Pokemon's moves and their effects ignore certain Abilities of other Pokemon. The Abilities that can be negated are Battle Armor, Clear Body, Damp, Dry Skin, Filter, Flash Fire, Flower Gift, Heatproof, Hyper Cutter, Immunity, Inner Focus, Insomnia, Keen Eye, Leaf Guard, Levitate, Lightning Rod, Limber, Magma Armor, Marvel Scale, Motor Drive, Oblivious, Own Tempo, Sand Veil, Shell Armor, Shield Dust, Simple, Snow Cloak, Solid Rock, Soundproof, Sticky Hold, Storm Drain, Sturdy, Suction Cups, Tangled Feet, Thick Fat, Unaware, Vital Spirit, Volt Absorb, Water Absorb, Water Veil, White Smoke, and Wonder Guard. This affects every other Pokemon on the field, whether or not it is a target of this Pokemon's move. The Attack modifier from an ally's Flower Gift Ability is not negated.",
+    "chineseDesc": "这个口袋妖怪的动作及其效果忽略了其他口袋妖怪的某些能力。可以被否定的能力有战斗护甲、透明身体、潮湿、干燥皮肤、过滤器、闪火、花礼物、防热、超切割、免疫力、内在专注、失眠、敏锐的眼睛、护叶、悬浮物、避雷针、四肢、岩浆护甲、漫威天平、汽车驱动、不易察觉、自身节奏、沙纱、贝壳护甲、盾牌粉尘、简单、雪衣、坚硬岩石、隔音、粘性握法、雨水管、坚固、吸盘、缠结的脚、厚厚的脂肪、无知、活力、吸收电压、吸水、水纱、白烟和奇迹守卫。这是因为。这会影响在场上的所有其他口袋妖怪，无论它是否是这个口袋妖怪行动的目标。盟友的花礼物能力中的攻击修改器不会被否定。",
     "shortDesc": "This Pokemon's moves and their effects ignore the Abilities of other Pokemon.",
+    "chineseShortDesc": "这个口袋妖怪的动作及其效果忽略了其他口袋妖怪的能力。",
     "rating": 3.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1149,7 +1357,9 @@
     "chineseName": "超幸运",
     "generation": 4,
     "desc": "This Pokemon's critical hit ratio is raised by 1 stage.",
+    "chineseDesc": "这款口袋妖怪的暴击率提高了1个等级。",
     "shortDesc": "This Pokemon's critical hit ratio is raised by 1 stage.",
+    "chineseShortDesc": "这款口袋妖怪的暴击率提高了1个等级。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1160,7 +1370,9 @@
     "chineseName": "引爆",
     "generation": 4,
     "desc": "If this Pokemon is knocked out with a contact move, that move's user loses 1/4 of its maximum HP, rounded down. If any active Pokemon has the Damp Ability, this effect is prevented.",
+    "chineseDesc": "如果这个口袋妖怪被一个接触动作击倒，该动作的用户将损失其最大生命值的1/4，四舍五入。如果任何活跃的口袋妖怪具有阻尼能力，则此效果将被阻止。",
     "shortDesc": "If this Pokemon is KOed with a contact move, that move's user loses 1/4 its max HP.",
+    "chineseShortDesc": "如果这个口袋妖怪被点击了一个接触动作，该动作的用户将损失其最大生命值的1/4。",
     "rating": 2.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1171,7 +1383,9 @@
     "chineseName": "危险预知",
     "generation": 4,
     "desc": "On switch-in, this Pokemon is alerted if any opposing Pokemon has an attack that is super effective against this Pokemon, or an OHKO move that this Pokemon is not immune to and if its level is less than or equal to the opposing Pokemon's level. This effect does not consider Counter, Dragon Rage, Metal Burst, Mirror Coat, Night Shade, Psywave, or Seismic Toss as attacking moves, and Hidden Power, Judgment, Natural Gift, and Weather Ball are considered Normal-type moves. This effect considers any changes to the effectiveness of attacks against this Pokemon due to the effects of Gravity or the Normalize or Scrappy Abilities.",
+    "chineseDesc": "打开后，如果任何对手的口袋妖怪对该口袋妖怪进行了超级有效的攻击，或者该口袋妖怪无法免疫的OHKO动作，并且其级别小于或等于对手的口袋精灵级别，则该口袋妖怪会收到警报。此效果不将“反击”、“龙怒”、“金属爆裂”、“镜衣”、“夜间阴影”、“心理战”或“地震投掷”视为攻击动作，而将“隐藏力量”、“判断”、“天赋”和“气象球”视为普通类型动作。此效果考虑了由于重力或正常化或刮擦能力的影响而对该口袋妖怪攻击效果的任何变化。",
     "shortDesc": "On switch-in, this Pokemon shudders if any foe has a supereffective or OHKO move.",
+    "chineseShortDesc": "打开开关后，如果任何敌人有超高效或OHKO动作，这款口袋妖怪就会发抖。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1182,7 +1396,9 @@
     "chineseName": "预知梦",
     "generation": 4,
     "desc": "On switch-in, this Pokemon is alerted to the move with the highest power, at random, known by an opposing Pokemon. This effect considers OHKO moves to have 150 power, Counter, Mirror Coat, and Metal Burst to have 120 power, and every other attacking move with an unspecified power to have 80 power.",
+    "chineseDesc": "打开后，这款口袋妖怪会随机收到对方口袋妖怪已知的最高功率的移动警报。此效果认为OHKO招式具有150点威力，Counter、Mirror Coat和Metal Burst具有120点威力，其他具有未指定威力的攻击招式具有80点威力。",
     "shortDesc": "On switch-in, this Pokemon is alerted to the foes' move with the highest power.",
+    "chineseShortDesc": "打开后，这款口袋妖怪会以最高的力量对敌人的动作发出警报。",
     "rating": 0.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1193,7 +1409,9 @@
     "chineseName": "纯朴",
     "generation": 4,
     "desc": "This Pokemon ignores other Pokemon's Attack, Special Attack, and accuracy stat stages when taking damage, and ignores other Pokemon's Defense, Special Defense, and evasiveness stat stages when dealing damage.",
+    "chineseDesc": "此口袋妖怪在受到伤害时会忽略其他口袋妖怪的攻击、特殊攻击和精度统计阶段，在造成伤害时也会忽略其他宝可梦的防御、特殊防御和躲避统计阶段。",
     "shortDesc": "This Pokemon ignores other Pokemon's stat stages when taking or doing damage.",
+    "chineseShortDesc": "此口袋妖怪在造成伤害时会忽略其他口袋妖怪的属性阶段。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1204,7 +1422,9 @@
     "chineseName": "有色眼镜",
     "generation": 4,
     "desc": "This Pokemon's attacks that are not very effective on a target deal double damage.",
+    "chineseDesc": "这款口袋妖怪的攻击对目标造成的双重伤害不是很有效。",
     "shortDesc": "This Pokemon's attacks that are not very effective on a target deal double damage.",
+    "chineseShortDesc": "这款口袋妖怪的攻击对目标造成的双重伤害不是很有效。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1215,7 +1435,9 @@
     "chineseName": "过滤",
     "generation": 4,
     "desc": "This Pokemon receives 3/4 damage from supereffective attacks.",
+    "chineseDesc": "这款口袋妖怪受到超高效攻击的3/4伤害。",
     "shortDesc": "This Pokemon receives 3/4 damage from supereffective attacks.",
+    "chineseShortDesc": "这款口袋妖怪受到超高效攻击的3/4伤害。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1226,7 +1448,9 @@
     "chineseName": "慢启动",
     "generation": 4,
     "desc": "On switch-in, this Pokemon's Attack and Speed are halved for 5 turns.",
+    "chineseDesc": "打开后，这款口袋妖怪的攻击力和速度减半5圈。",
     "shortDesc": "On switch-in, this Pokemon's Attack and Speed are halved for 5 turns.",
+    "chineseShortDesc": "打开后，这款口袋妖怪的攻击力和速度减半5圈。",
     "rating": -1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1237,7 +1461,9 @@
     "chineseName": "胆量",
     "generation": 4,
     "desc": "This Pokemon can hit Ghost types with Normal- and Fighting-type moves.",
+    "chineseDesc": "这款口袋妖怪可以用普通和战斗类型的动作攻击幽灵类型。",
     "shortDesc": "This Pokemon can hit Ghost types with Normal- and Fighting-type moves.",
+    "chineseShortDesc": "这款口袋妖怪可以用普通和战斗类型的动作攻击幽灵类型。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1248,7 +1474,9 @@
     "chineseName": "引水",
     "generation": 4,
     "desc": "If this Pokemon is not the target of a single-target Water-type move used by another Pokemon, this Pokemon redirects that move to itself.",
+    "chineseDesc": "如果此口袋妖怪不是另一个口袋妖怪使用的单个目标水型移动的目标，则此口袋妖怪会将该移动重定向到自身。",
     "shortDesc": "This Pokemon draws single-target Water moves to itself.",
+    "chineseShortDesc": "这个口袋妖怪吸引了一个目标水移动到自己身上。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1259,7 +1487,9 @@
     "chineseName": "冰冻之躯",
     "generation": 4,
     "desc": "If Hail is active, this Pokemon restores 1/16 of its maximum HP, rounded down, at the end of each turn. This Pokemon takes no damage from Hail.",
+    "chineseDesc": "如果Hail处于活动状态，此口袋妖怪将在每回合结束时恢复其最大生命值的1/16（四舍五入）。这款口袋妖怪不会受到冰雹的伤害。",
     "shortDesc": "If Hail is active, this Pokemon heals 1/16 of its max HP each turn; immunity to Hail.",
+    "chineseShortDesc": "如果Hail处于活动状态，则此口袋妖怪每回合可治愈其最大生命值的1/16；对海尔免疫。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1270,7 +1500,9 @@
     "chineseName": "坚硬岩石",
     "generation": 4,
     "desc": "This Pokemon receives 3/4 damage from supereffective attacks.",
+    "chineseDesc": "这款口袋妖怪受到超高效攻击的3/4伤害。",
     "shortDesc": "This Pokemon receives 3/4 damage from supereffective attacks.",
+    "chineseShortDesc": "这款口袋妖怪受到超高效攻击的3/4伤害。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1281,7 +1513,9 @@
     "chineseName": "降雪",
     "generation": 4,
     "desc": "On switch-in, this Pokemon summons Hail.",
+    "chineseDesc": "开机后，这只口袋妖怪召唤海尔。",
     "shortDesc": "On switch-in, this Pokemon summons Hail.",
+    "chineseShortDesc": "开机后，这只口袋妖怪召唤海尔。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1292,7 +1526,9 @@
     "chineseName": "采蜜",
     "generation": 4,
     "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
     "rating": 0,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1303,7 +1539,9 @@
     "chineseName": "察觉",
     "generation": 4,
     "desc": "On switch-in, this Pokemon identifies the held item of a random opposing Pokemon.",
+    "chineseDesc": "打开后，此口袋妖怪会识别随机对立口袋妖怪的持有物品。",
     "shortDesc": "On switch-in, this Pokemon identifies the held item of a random opposing Pokemon.",
+    "chineseShortDesc": "打开后，此口袋妖怪会识别随机对立口袋妖怪的持有物品。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1314,7 +1552,9 @@
     "chineseName": "舍身",
     "generation": 4,
     "desc": "This Pokemon's attacks with recoil or crash damage have their power multiplied by 1.2. Does not affect Struggle.",
+    "chineseDesc": "这款口袋妖怪的反冲或碰撞伤害攻击威力将增加1.2倍。不影响斗争。",
     "shortDesc": "This Pokemon's attacks with recoil or crash damage have 1.2x power; not Struggle.",
+    "chineseShortDesc": "这款口袋妖怪的反冲或碰撞伤害攻击威力为1.2倍；不是斗争。",
     "rating": 3,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1325,7 +1565,9 @@
     "chineseName": "多属性",
     "generation": 4,
     "desc": "If this Pokemon is an Arceus, its type changes to match its held Plate. This Pokemon cannot lose its held item due to another Pokemon's attack.",
+    "chineseDesc": "如果这个口袋妖怪是一个Arceus，它的类型会改变以匹配它持有的盘子。这个口袋妖怪不会因为另一个口袋妖怪的攻击而丢失其持有的物品。",
     "shortDesc": "If this Pokemon is an Arceus, its type changes to match its held Plate. This Pokemon cannot lose its held item due to another Pokemon's attack.",
+    "chineseShortDesc": "如果这个口袋妖怪是一个Arceus，它的类型会改变以匹配它持有的盘子。这个口袋妖怪不会因为另一个口袋妖怪的攻击而丢失其持有的物品。",
     "rating": 4,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1336,7 +1578,9 @@
     "chineseName": "花之礼",
     "generation": 4,
     "desc": "If Sunny Day is active, the Attack and Special Defense of this Pokemon and its allies are multiplied by 1.5.",
+    "chineseDesc": "如果“晴天”活动，则此口袋妖怪及其盟友的攻击和特殊防御将乘以1.5。",
     "shortDesc": "If Sunny Day is active, Attack and Sp. Def of this Pokemon and its allies are 1.5x.",
+    "chineseShortDesc": "如果“晴天”处于活动状态，则此口袋妖怪及其盟友的攻击和Sp.Def为1.5倍。",
     "rating": 1,
     "isNonstandard": null,
     "suppressWeather": false
@@ -1347,7 +1591,9 @@
     "chineseName": "梦魇",
     "generation": 4,
     "desc": "Causes opposing Pokemon to lose 1/8 of their maximum HP, rounded down, at the end of each turn if they are asleep.",
+    "chineseDesc": "如果对方口袋妖怪处于睡眠状态，则会在每回合结束时损失其最大生命值的1/8（四舍五入）。",
     "shortDesc": "Causes sleeping foes to lose 1/8 of their max HP at the end of each turn.",
+    "chineseShortDesc": "使沉睡的敌人在每回合结束时损失其最大生命值的1/8。",
     "rating": 1.5,
     "isNonstandard": null,
     "suppressWeather": false

@@ -12,7 +12,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -37,7 +39,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -62,7 +66,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -91,7 +97,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -121,7 +129,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -147,7 +157,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "Scatters coins.",
+    "chineseShortDesc": "散落硬币。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -171,7 +183,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target.",
+    "chineseDesc": "有10%的几率烧毁目标。",
     "shortDesc": "10% chance to burn the target.",
+    "chineseShortDesc": "有10%的几率烧毁目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -202,7 +216,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to freeze the target.",
+    "chineseDesc": "有10%的机会冻结目标。",
     "shortDesc": "10% chance to freeze the target.",
+    "chineseShortDesc": "10%的几率冻结目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -233,7 +249,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to paralyze the target.",
+    "chineseDesc": "有10%的几率使目标瘫痪。",
     "shortDesc": "10% chance to paralyze the target.",
+    "chineseShortDesc": "有10%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -264,7 +282,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -289,7 +309,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -314,7 +336,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals 65535 damage to the target. Fails if the target's Speed is greater than the user's.",
+    "chineseDesc": "对目标造成65535点伤害。如果目标的速度大于用户的速度，则失败。",
     "shortDesc": "Deals 65535 damage. Fails if target is faster.",
+    "chineseShortDesc": "造成65535点伤害。如果目标更快，则失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -339,7 +363,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This attack charges on the first turn and executes on the second.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。",
     "shortDesc": "Charges turn 1. Hits turn 2.",
+    "chineseShortDesc": "收费转1。打第二回合。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -366,7 +392,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack by 2 stages.",
+    "chineseDesc": "将用户的攻击提高2个阶段。",
     "shortDesc": "Raises the user's Attack by 2.",
+    "chineseShortDesc": "将用户的攻击力提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -390,7 +418,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -416,7 +446,9 @@
     "priority": 0,
     "target": "any",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -442,7 +474,9 @@
     "priority": 0,
     "target": "any",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -468,7 +502,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -493,7 +529,9 @@
     "priority": 0,
     "target": "any",
     "desc": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Bide, Swift, and Transform. If the user is fully paralyzed on the second turn, it continues avoiding attacks until it switches out or successfully executes the second turn of this move or Dig.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。在第一个回合，用户避免了除Bide、Swift和Transform之外的所有攻击。如果用户在第二回合完全瘫痪，它将继续避免攻击，直到它退出或成功执行此移动或挖掘的第二回合。",
     "shortDesc": "Flies up on first turn, then strikes the next turn.",
+    "chineseShortDesc": "在第一个转弯处飞起来，然后撞上下一个转弯。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -521,7 +559,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user spends two to five turns using this move. Has a 3/8 chance to last two or three turns, and a 1/8 chance to last four or five turns. The damage calculated for the first turn is used for every other turn. The user cannot select a move and the target cannot execute a move during the effect, but both may switch out. If the user switches out, the target remains unable to execute a move during that turn. If the target switches out, the user uses this move again automatically, and if it had 0 PP at the time, it becomes 63. If the user or the target switch out, or the user is prevented from moving, the effect ends. This move can prevent the target from moving even if it has type immunity, but will not deal damage.",
+    "chineseDesc": "用户使用此移动需要花费两到五个回合。有3/8的机会完成两到三圈，有1/8的机会完成四到五圈。为第一圈计算的伤害用于其他每一圈。在效果期间，用户无法选择移动，目标也无法执行移动，但两者都可能切换出去。如果用户退出，目标在该回合中仍然无法执行移动。如果目标切换出去，用户会自动再次使用此移动，如果当时PP为0，则变为63。如果用户或目标退出，或者用户被阻止移动，则效果结束。此动作可以防止目标移动，即使它具有类型免疫力，但不会造成伤害。",
     "shortDesc": "Prevents the target from moving for 2-5 turns.",
+    "chineseShortDesc": "防止目标移动2-5圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -546,7 +586,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -572,7 +614,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -597,7 +641,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch.",
+    "chineseDesc": "有30%的机会让目标退缩。",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -628,7 +674,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits twice. Damage is calculated once for the first hit and used for both hits. If the first hit breaks the target's substitute, the move ends.",
+    "chineseDesc": "打了两次。第一次命中的伤害计算一次，两次命中都使用。如果第一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2 times in one turn.",
+    "chineseShortDesc": "一个回合打两次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -654,7 +702,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -679,7 +729,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this attack misses the target, the user takes 1 HP of crash damage. If the user has a substitute, the crash damage is dealt to the target's substitute if it has one, otherwise no crash damage is dealt.",
+    "chineseDesc": "如果这次攻击没有击中目标，用户将受到1 HP的碰撞伤害。如果用户有替代品，则对目标的替代品（如果有）造成碰撞伤害，否则不造成碰撞伤害。",
     "shortDesc": "User takes 1 HP of damage if it misses.",
+    "chineseShortDesc": "如果错过，用户将受到1 HP的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -705,7 +757,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch.",
+    "chineseDesc": "有30%的机会让目标退缩。",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -735,7 +789,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's accuracy by 1 stage.",
+    "chineseDesc": "将目标精度降低1级。",
     "shortDesc": "Lowers the target's accuracy by 1.",
+    "chineseShortDesc": "将目标精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -760,7 +816,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch.",
+    "chineseDesc": "有30%的机会让目标退缩。",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -790,7 +848,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -815,7 +875,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -844,7 +906,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals 65535 damage to the target. Fails if the target's Speed is greater than the user's.",
+    "chineseDesc": "对目标造成65535点伤害。如果目标的速度大于用户的速度，则失败。",
     "shortDesc": "Deals 65535 damage. Fails if target is faster.",
+    "chineseShortDesc": "造成65535点伤害。如果目标更快，则失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -869,7 +933,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -894,7 +960,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "有30%的几率使目标瘫痪。",
     "shortDesc": "30% chance to paralyze the target.",
+    "chineseShortDesc": "有30%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -925,7 +993,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user spends two to five turns using this move. Has a 3/8 chance to last two or three turns, and a 1/8 chance to last four or five turns. The damage calculated for the first turn is used for every other turn. The user cannot select a move and the target cannot execute a move during the effect, but both may switch out. If the user switches out, the target remains unable to execute a move during that turn. If the target switches out, the user uses this move again automatically, and if it had 0 PP at the time, it becomes 63. If the user or the target switch out, or the user is prevented from moving, the effect ends. This move can prevent the target from moving even if it has type immunity, but will not deal damage.",
+    "chineseDesc": "用户使用此移动需要花费两到五个回合。有3/8的机会完成两到三圈，有1/8的机会完成四到五圈。为第一圈计算的伤害用于其他每一圈。在效果期间，用户无法选择移动，目标也无法执行移动，但两者都可能切换出去。如果用户退出，目标在该回合中仍然无法执行移动。如果目标切换出去，用户会自动再次使用此移动，如果当时PP为0，则变为63。如果用户或目标退出，或者用户被阻止移动，则效果结束。此动作可以防止目标移动，即使它具有类型免疫力，但不会造成伤害。",
     "shortDesc": "Prevents the target from moving for 2-5 turns.",
+    "chineseShortDesc": "防止目标移动2-5圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -950,7 +1020,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded down, but not less than 1 HP. If this move breaks the target's substitute, the user does not take any recoil damage.",
+    "chineseDesc": "如果目标损失了生命值，用户将受到相当于目标损失生命值四分之一的反冲伤害，四舍五入，但不小于1生命值。如果此动作破坏了目标的替代物，则用户不会受到任何反冲伤害。",
     "shortDesc": "Has 1/4 recoil.",
+    "chineseShortDesc": "有1/4的反冲。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -979,7 +1051,9 @@
     "priority": 0,
     "target": "randomNormal",
     "desc": "Whether or not this move is successful, the user spends three or four turns locked into this move and becomes confused immediately after its move on the last turn of the effect, even if it is already confused. If the user is prevented from moving, the effect ends without causing confusion. During the effect, this move's accuracy is overwritten every turn with the current calculated accuracy including stat stage changes, but not to less than 1/256 or more than 255/256.",
+    "chineseDesc": "无论此移动是否成功，用户都会花三到四圈时间锁定此移动，并在最后一圈效果移动后立即感到困惑，即使它已经感到困惑。如果阻止用户移动，则效果结束而不会造成混淆。在效果期间，每次旋转时，此移动的精度都会被当前计算的精度覆盖，包括状态阶段的变化，但不得小于1/256或大于255/256。",
     "shortDesc": "Lasts 3-4 turns. Confuses the user afterwards.",
+    "chineseShortDesc": "持续3-4圈。事后让用户感到困惑。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1005,7 +1079,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded down, but not less than 1 HP. If this move breaks the target's substitute, the user does not take any recoil damage.",
+    "chineseDesc": "如果目标损失了生命值，用户将受到相当于目标损失生命值四分之一的反冲伤害，四舍五入，但不小于1生命值。如果此动作破坏了目标的替代物，则用户不会受到任何反冲伤害。",
     "shortDesc": "Has 1/4 recoil.",
+    "chineseShortDesc": "有1/4的反冲。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1034,7 +1110,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's Defense by 1 stage.",
+    "chineseDesc": "将目标的防御降低1级。",
     "shortDesc": "Lowers the target's Defense by 1.",
+    "chineseShortDesc": "将目标的防御降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1059,7 +1137,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to poison the target.",
+    "chineseDesc": "有20%的几率使目标中毒。",
     "shortDesc": "20% chance to poison the target.",
+    "chineseShortDesc": "20%的几率使目标中毒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1088,7 +1168,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits twice, with the second hit having a 20% chance to poison the target. If the first hit breaks the target's substitute, the move ends.",
+    "chineseDesc": "命中两次，第二次命中有20%的几率使目标中毒。如果第一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2 times. Last hit has 20% chance to poison.",
+    "chineseShortDesc": "点击2次。最后一击有20%的几率中毒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1118,7 +1200,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1146,7 +1230,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's Defense by 1 stage.",
+    "chineseDesc": "将目标的防御降低1级。",
     "shortDesc": "Lowers the target's Defense by 1.",
+    "chineseShortDesc": "将目标的防御降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1171,7 +1257,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to make the target flinch.",
+    "chineseDesc": "有10%的机会让目标退缩。",
     "shortDesc": "10% chance to make the target flinch.",
+    "chineseShortDesc": "有10%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1202,7 +1290,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's Attack by 1 stage.",
+    "chineseDesc": "将目标的攻击力降低1级。",
     "shortDesc": "Lowers the target's Attack by 1.",
+    "chineseShortDesc": "将目标的攻击力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1228,7 +1318,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1254,7 +1346,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "使目标入睡。",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "使目标入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1280,7 +1374,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to become confused.",
+    "chineseDesc": "使目标变得混乱。",
     "shortDesc": "Causes the target to become confused.",
+    "chineseShortDesc": "使目标变得混乱。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1306,7 +1402,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals 20 HP of damage to the target. This move ignores type immunity.",
+    "chineseDesc": "对目标造成20点生命值的伤害。此举忽略了类型免疫。",
     "shortDesc": "Always does 20 HP of damage.",
+    "chineseShortDesc": "总是造成20马力的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1330,7 +1428,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "For 0 to 7 turns, one of the target's known moves that has at least 1 PP remaining becomes disabled, at random. Fails if one of the target's moves is already disabled, or if none of the target's moves have PP remaining. If any Pokemon uses Haze, this effect ends. Whether or not this move was successful, it counts as a hit for the purposes of the opponent's use of Rage.",
+    "chineseDesc": "对于0到7圈，目标的已知移动中至少有1个PP剩余的移动会随机禁用。如果目标的某个移动已被禁用，或者目标的所有移动都没有剩余的PP，则失败。如果任何口袋妖怪使用Haze，则此效果结束。无论这个动作是否成功，对于对手使用愤怒的目的来说，它都被视为一次打击。",
     "shortDesc": "For 0-7 turns, disables one of the target's moves.",
+    "chineseShortDesc": "对于0-7回合，禁用目标的一个移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1355,7 +1455,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Defense by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的防御降低1级。",
     "shortDesc": "33% chance to lower the target's Defense by 1.",
+    "chineseShortDesc": "33%的几率将目标的防御力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1386,7 +1488,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target.",
+    "chineseDesc": "有10%的几率烧毁目标。",
     "shortDesc": "10% chance to burn the target.",
+    "chineseShortDesc": "有10%的几率烧毁目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1415,7 +1519,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target.",
+    "chineseDesc": "有10%的几率烧毁目标。",
     "shortDesc": "10% chance to burn the target.",
+    "chineseShortDesc": "有10%的几率烧毁目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1444,7 +1550,9 @@
     "priority": 0,
     "target": "self",
     "desc": "While the user remains active, it is protected from having its stat stages lowered by other Pokemon, unless caused by the secondary effect of a move. Fails if the user already has the effect. If any Pokemon uses Haze, this effect ends.",
+    "chineseDesc": "当用户保持活动状态时，它会受到保护，不会被其他口袋妖怪降低其属性等级，除非是由于移动的次要影响造成的。如果用户已经具有效果，则失败。如果任何口袋妖怪使用Haze，则此效果结束。",
     "shortDesc": "While active, user is protected from stat drops.",
+    "chineseShortDesc": "当用户处于活动状态时，可以保护其免受统计数据下降的影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1466,7 +1574,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1490,7 +1600,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1514,7 +1626,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1539,7 +1653,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to freeze the target.",
+    "chineseDesc": "有10%的机会冻结目标。",
     "shortDesc": "10% chance to freeze the target.",
+    "chineseShortDesc": "10%的几率冻结目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1568,7 +1684,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to freeze the target.",
+    "chineseDesc": "有10%的机会冻结目标。",
     "shortDesc": "10% chance to freeze the target.",
+    "chineseShortDesc": "10%的几率冻结目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1598,7 +1716,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to confuse the target.",
+    "chineseDesc": "有10%的机会混淆目标。",
     "shortDesc": "10% chance to confuse the target.",
+    "chineseShortDesc": "有10%的机会混淆目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1627,7 +1747,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的速度降低1级。",
     "shortDesc": "33% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "33%的几率将目标的速度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1658,7 +1780,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Attack by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的攻击力降低1级。",
     "shortDesc": "33% chance to lower the target's Attack by 1.",
+    "chineseShortDesc": "33%的几率将目标的攻击力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1689,7 +1813,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move, unless the target or its substitute was knocked out by this move.",
+    "chineseDesc": "如果此移动成功，用户必须在下一回合重新充电，并且不能选择移动，除非目标或其替代者被此移动击倒。",
     "shortDesc": "Can't move next turn if target or sub is not KOed.",
+    "chineseShortDesc": "如果目标或潜艇未被击杀，则无法移动下一回合。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1714,7 +1840,9 @@
     "priority": 0,
     "target": "any",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1740,7 +1868,9 @@
     "priority": 0,
     "target": "any",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1766,7 +1896,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/4 the HP lost by the target, rounded down, but not less than 1 HP. If this move breaks the target's substitute, the user does not take any recoil damage.",
+    "chineseDesc": "如果目标损失了生命值，用户将受到相当于目标损失生命值四分之一的反冲伤害，四舍五入，但不小于1生命值。如果此动作破坏了目标的替代物，则用户不会受到任何反冲伤害。",
     "shortDesc": "Has 1/4 recoil.",
+    "chineseShortDesc": "有1/4的反冲。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1847,7 +1979,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals damage to the target equal to the user's level. This move ignores type immunity.",
+    "chineseDesc": "对目标造成与用户等级相等的伤害。此举忽略了类型免疫。",
     "shortDesc": "Damage = user's level. Can hit Ghost types.",
+    "chineseShortDesc": "伤害=用户等级。可以打击幽灵类型。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1873,7 +2007,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1898,7 +2034,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user recovers 1/2 the HP lost by the target, rounded down. If this move breaks the target's substitute, the user does not recover any HP.",
+    "chineseDesc": "用户恢复目标损失的1/2生命值，四舍五入。如果此举破坏了目标的替代品，用户将无法恢复任何生命值。",
     "shortDesc": "User recovers 50% of the damage dealt.",
+    "chineseShortDesc": "用户恢复50%的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1926,7 +2064,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user recovers 1/2 the HP lost by the target, rounded down.",
+    "chineseDesc": "用户恢复目标损失的1/2生命值，四舍五入。",
     "shortDesc": "User recovers 50% of the damage dealt.",
+    "chineseShortDesc": "用户恢复50%的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1954,7 +2094,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "At the end of each of the target's turns, The Pokemon at the user's position steals 1/16 of the target's maximum HP, rounded down and multiplied by the target's current Toxic counter if it has one, even if the target currently has less than that amount of HP remaining. If the target switches out or any Pokemon uses Haze, this effect ends. Grass-type Pokemon are immune to this move.",
+    "chineseDesc": "在每个回合结束时，用户位置的口袋妖怪会窃取目标最大生命值的1/16，四舍五入后乘以目标当前的有毒计数器（如果有），即使目标当前剩余的生命值低于该值。如果目标退出或任何口袋妖怪使用雾霾，则此效果结束。草型口袋妖怪对这一动作免疫。",
     "shortDesc": "1/8 of target's HP is restored to user every turn.",
+    "chineseShortDesc": "每转一圈，用户将恢复目标生命值的1/8。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -1979,7 +2121,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Special by 1 stage.",
+    "chineseDesc": "将用户的特殊值提高1级。",
     "shortDesc": "Raises the user's Special by 1.",
+    "chineseShortDesc": "将用户的特殊值提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2002,7 +2146,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2027,7 +2173,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This attack charges on the first turn and executes on the second.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。",
     "shortDesc": "Charges turn 1. Hits turn 2.",
+    "chineseShortDesc": "收费转1。打第二回合。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2054,7 +2202,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Poisons the target.",
+    "chineseDesc": "毒害目标。",
     "shortDesc": "Poisons the target.",
+    "chineseShortDesc": "毒害目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2080,7 +2230,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Paralyzes the target.",
+    "chineseDesc": "使目标瘫痪。",
     "shortDesc": "Paralyzes the target.",
+    "chineseShortDesc": "使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2106,7 +2258,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "使目标入睡。",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "使目标入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2132,7 +2286,9 @@
     "priority": 0,
     "target": "randomNormal",
     "desc": "Whether or not this move is successful, the user spends three or four turns locked into this move and becomes confused immediately after its move on the last turn of the effect, even if it is already confused. If the user is prevented from moving, the effect ends without causing confusion. During the effect, this move's accuracy is overwritten every turn with the current calculated accuracy including stat stage changes, but not to less than 1/256 or more than 255/256.",
+    "chineseDesc": "无论此移动是否成功，用户都会花三到四圈时间锁定此移动，并在最后一圈效果移动后立即感到困惑，即使它已经感到困惑。如果阻止用户移动，则效果结束而不会造成混淆。在效果期间，每次旋转时，此移动的精度都会被当前计算的精度覆盖，包括状态阶段的变化，但不得小于1/256或大于255/256。",
     "shortDesc": "Lasts 3-4 turns. Confuses the user afterwards.",
+    "chineseShortDesc": "持续3-4圈。事后让用户感到困惑。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2159,7 +2315,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's Speed by 1 stage.",
+    "chineseDesc": "将目标的速度降低1级。",
     "shortDesc": "Lowers the target's Speed by 1.",
+    "chineseShortDesc": "将目标的速度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2184,7 +2342,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals 40 HP of damage to the target.",
+    "chineseDesc": "对目标造成40点生命值的伤害。",
     "shortDesc": "Deals 40 HP of damage to the target.",
+    "chineseShortDesc": "对目标造成40点生命值的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2208,7 +2368,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user spends two to five turns using this move. Has a 3/8 chance to last two or three turns, and a 1/8 chance to last four or five turns. The damage calculated for the first turn is used for every other turn. The user cannot select a move and the target cannot execute a move during the effect, but both may switch out. If the user switches out, the target remains unable to execute a move during that turn. If the target switches out, the user uses this move again automatically, and if it had 0 PP at the time, it becomes 63. If the user or the target switch out, or the user is prevented from moving, the effect ends. This move can prevent the target from moving even if it has type immunity, but will not deal damage.",
+    "chineseDesc": "用户使用此移动需要花费两到五个回合。有3/8的机会完成两到三圈，有1/8的机会完成四到五圈。为第一圈计算的伤害用于其他每一圈。在效果期间，用户无法选择移动，目标也无法执行移动，但两者都可能切换出去。如果用户退出，目标在该回合中仍然无法执行移动。如果目标切换出去，用户会自动再次使用此移动，如果当时PP为0，则变为63。如果用户或目标退出，或者用户被阻止移动，则效果结束。此动作可以防止目标移动，即使它具有类型免疫力，但不会造成伤害。",
     "shortDesc": "Prevents the target from moving for 2-5 turns.",
+    "chineseShortDesc": "防止目标移动2-5圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2232,7 +2394,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to paralyze the target.",
+    "chineseDesc": "有10%的几率使目标瘫痪。",
     "shortDesc": "10% chance to paralyze the target.",
+    "chineseShortDesc": "有10%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2261,7 +2425,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to paralyze the target.",
+    "chineseDesc": "有10%的几率使目标瘫痪。",
     "shortDesc": "10% chance to paralyze the target.",
+    "chineseShortDesc": "有10%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2290,7 +2456,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Paralyzes the target. This move does not ignore type immunity.",
+    "chineseDesc": "使目标瘫痪。这一举措并没有忽视类型免疫。",
     "shortDesc": "Paralyzes the target.",
+    "chineseShortDesc": "使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2315,7 +2483,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to paralyze the target.",
+    "chineseDesc": "有10%的几率使目标瘫痪。",
     "shortDesc": "10% chance to paralyze the target.",
+    "chineseShortDesc": "有10%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2344,7 +2514,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2368,7 +2540,9 @@
     "priority": 0,
     "target": "allAdjacent",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2393,7 +2567,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals 65535 damage to the target. Fails if the target's Speed is greater than the user's.",
+    "chineseDesc": "对目标造成65535点伤害。如果目标的速度大于用户的速度，则失败。",
     "shortDesc": "Deals 65535 damage. Fails if target is faster.",
+    "chineseShortDesc": "造成65535点伤害。如果目标更快，则失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2418,7 +2594,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Bide, Swift, and Transform. If the user is fully paralyzed on the second turn, it continues avoiding attacks until it switches out or successfully executes the second turn of this move or Fly.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。在第一个回合，用户避免了除Bide、Swift和Transform之外的所有攻击。如果用户在第二回合完全瘫痪，它将继续避免攻击，直到它退出或成功执行此移动或飞行的第二回合。",
     "shortDesc": "Digs underground turn 1, strikes turn 2.",
+    "chineseShortDesc": "挖地下1号弯，打2号弯。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2446,7 +2624,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Badly poisons the target.",
+    "chineseDesc": "严重毒害目标。",
     "shortDesc": "Badly poisons the target.",
+    "chineseShortDesc": "严重毒害目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2471,7 +2651,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to confuse the target.",
+    "chineseDesc": "有10%的机会混淆目标。",
     "shortDesc": "10% chance to confuse the target.",
+    "chineseShortDesc": "有10%的机会混淆目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2500,7 +2682,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Special by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的特殊值降低1级。",
     "shortDesc": "33% chance to lower the target's Special by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2532,7 +2716,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "使目标入睡。",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "使目标入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2557,7 +2743,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack by 1 stage.",
+    "chineseDesc": "将用户的攻击提高1级。",
     "shortDesc": "Raises the user's Attack by 1.",
+    "chineseShortDesc": "将用户的攻击力提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2580,7 +2768,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Speed by 2 stages.",
+    "chineseDesc": "将用户的速度提高2个阶段。",
     "shortDesc": "Raises the user's Speed by 2.",
+    "chineseShortDesc": "将用户的速度提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2603,7 +2793,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "通常先走。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2628,7 +2820,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Once this move is successfully used, the user automatically uses this move every turn and can no longer switch out. During the effect, the user's Attack is raised by 1 stage every time it is hit by the opposing Pokemon, and this move's accuracy is overwritten every turn with the current calculated accuracy including stat stage changes, but not to less than 1/256 or more than 255/256.",
+    "chineseDesc": "一旦成功使用此移动，用户每次转弯都会自动使用此移动并且无法再切换。在效果期间，每次被对方口袋妖怪击中，用户的攻击力都会提高1级，并且每次回合都会用当前计算的精度（包括状态级变化）覆盖此动作的精度，但不得低于1/256或高于255/256。",
     "shortDesc": "Lasts forever. Raises user's Attack by 1 when hit.",
+    "chineseShortDesc": "永恒。当用户被击中时，其攻击力将提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2653,7 +2847,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Fails when used.",
+    "chineseDesc": "使用时失败。",
     "shortDesc": "Fails when used.",
+    "chineseShortDesc": "使用时失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2675,7 +2871,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals damage to the target equal to the user's level. This move ignores type immunity.",
+    "chineseDesc": "对目标造成与用户等级相等的伤害。此举忽略了类型免疫。",
     "shortDesc": "Damage = user's level. Can hit Normal types.",
+    "chineseShortDesc": "伤害=用户等级。可以击中普通类型。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2699,7 +2897,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "While the user remains active, this move is replaced by a random move known by the target, even if the user already knows that move. The copied move keeps the remaining PP for this move, regardless of the copied move's maximum PP. Whenever one PP is used for a copied move, one PP is used for this move.",
+    "chineseDesc": "当用户保持活动状态时，即使用户已经知道该移动，该移动也会被目标已知的随机移动所取代。无论复制移动的最大PP如何，复制移动都会保留此移动的剩余PP。每当一个PP用于复制移动时，一个PP也用于此移动。",
     "shortDesc": "Random move known by the target replaces this.",
+    "chineseShortDesc": "目标已知的随机移动会取代这一点。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2723,7 +2923,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Defense by 2 stages.",
+    "chineseDesc": "将目标的防御降低2个阶段。",
     "shortDesc": "Lowers the target's Defense by 2.",
+    "chineseShortDesc": "将目标的防御降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2749,7 +2951,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's evasiveness by 1 stage.",
+    "chineseDesc": "将用户的闪烁其词提高1级。",
     "shortDesc": "Raises the user's evasiveness by 1.",
+    "chineseShortDesc": "将用户的回避度提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2772,7 +2976,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down. Fails if (user's maximum HP - user's current HP + 1) is divisible by 256.",
+    "chineseDesc": "用户恢复其最大HP的1/2，四舍五入。如果（用户的最大HP值-用户的当前HP+1）能被256整除，则失败。",
     "shortDesc": "Heals the user by 50% of its max HP.",
+    "chineseShortDesc": "以最大生命值的50%治愈用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2797,7 +3003,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 1 stage.",
+    "chineseDesc": "将用户的防御提高1级。",
     "shortDesc": "Raises the user's Defense by 1.",
+    "chineseShortDesc": "将用户的防御提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2820,7 +3028,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's evasiveness by 1 stage.",
+    "chineseDesc": "将用户的闪烁其词提高1级。",
     "shortDesc": "Raises the user's evasiveness by 1.",
+    "chineseShortDesc": "将用户的回避度提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2843,7 +3053,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's accuracy by 1 stage.",
+    "chineseDesc": "将目标精度降低1级。",
     "shortDesc": "Lowers the target's accuracy by 1.",
+    "chineseShortDesc": "将目标精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2868,7 +3080,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to become confused.",
+    "chineseDesc": "使目标变得混乱。",
     "shortDesc": "Confuses the target.",
+    "chineseShortDesc": "混淆了目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2893,7 +3107,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 1 stage.",
+    "chineseDesc": "将用户的防御提高1级。",
     "shortDesc": "Raises the user's Defense by 1.",
+    "chineseShortDesc": "将用户的防御提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2916,7 +3132,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 1 stage.",
+    "chineseDesc": "将用户的防御提高1级。",
     "shortDesc": "Raises the user's Defense by 1.",
+    "chineseShortDesc": "将用户的防御提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2939,7 +3157,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 2 stages.",
+    "chineseDesc": "将用户的防御提高2个阶段。",
     "shortDesc": "Raises the user's Defense by 2.",
+    "chineseShortDesc": "将用户的防御提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2962,7 +3182,9 @@
     "priority": 0,
     "target": "self",
     "desc": "While the user remains active, its Special is doubled when taking damage. Critical hits ignore this effect. If any Pokemon uses Haze, this effect ends.",
+    "chineseDesc": "当用户保持活动状态时，其特殊功能在受到伤害时会加倍。关键点击忽略了这种影响。如果任何口袋妖怪使用Haze，则此效果结束。",
     "shortDesc": "While active, user's Special is 2x when damaged.",
+    "chineseShortDesc": "激活时，用户的Special在损坏时为2x。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -2984,7 +3206,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Resets the stat stages of both Pokemon to 0 and removes stat reductions due to burn and paralysis. Resets Toxic counters to 0 and removes the effect of confusion, Disable, Focus Energy, Leech Seed, Light Screen, Mist, and Reflect from both Pokemon. Removes the opponent's non-volatile status condition.",
+    "chineseDesc": "将两个口袋妖怪的属性等级重置为0，并消除因烧伤和瘫痪导致的属性降低。将有毒计数器重置为0，并从两个口袋妖怪中删除混淆、禁用、聚焦能量、水蛭种子、光幕、薄雾和反射的效果。移除对手的非易失性状态条件。",
     "shortDesc": "Resets all stat changes. Removes foe's status.",
+    "chineseShortDesc": "重置所有统计更改。删除敌人的状态。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3007,7 +3231,9 @@
     "priority": 0,
     "target": "self",
     "desc": "While the user remains active, its Defense is doubled when taking damage. Critical hits ignore this protection. This effect can be removed by Haze.",
+    "chineseDesc": "当用户保持活跃时，其防御能力在受到伤害时会加倍。关键点击忽略了这种保护。这种影响可以通过雾霾来消除。",
     "shortDesc": "While active, the user's Defense is doubled.",
+    "chineseShortDesc": "当用户处于活动状态时，其防御能力将加倍。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3029,7 +3255,9 @@
     "priority": 0,
     "target": "self",
     "desc": "While the user remains active, its chance for a critical hit is quartered. Fails if the user already has the effect. If any Pokemon uses Haze, this effect ends.",
+    "chineseDesc": "当用户保持活跃时，其关键命中的机会是四分之一。如果用户已经具有效果，则失败。如果任何口袋妖怪使用Haze，则此效果结束。",
     "shortDesc": "Quarters the user's chance for a critical hit.",
+    "chineseShortDesc": "将用户获得关键命中的机会减半。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3052,7 +3280,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user spends two or three turns locked into this move and then, on the second or third turn after using this move, the user attacks the opponent, inflicting double the damage in HP it lost during those turns. This move ignores type immunity and cannot be avoided even if the target is using Dig or Fly. The user can choose to switch out during the effect. If the user switches out or is prevented from moving during this move's use, the effect ends. During the effect, if the opposing Pokemon switches out or uses Confuse Ray, Conversion, Focus Energy, Glare, Haze, Leech Seed, Light Screen, Mimic, Mist, Poison Gas, Poison Powder, Recover, Reflect, Rest, Soft-Boiled, Splash, Stun Spore, Substitute, Supersonic, Teleport, Thunder Wave, Toxic, or Transform, the previous damage dealt to the user will be added to the total.",
+    "chineseDesc": "用户在这个动作中锁定了两三个回合，然后在使用这个动作后的第二个或第三个回合，用户攻击对手，造成的伤害是在这些回合中损失的HP的两倍。此动作忽略了类型免疫，即使目标正在使用Dig或Fly，也无法避免。用户可以选择在效果期间关闭。如果用户在使用此移动时退出或被阻止移动，则效果结束。在效果中，如果对方口袋妖怪关闭或使用混淆射线、转换、聚焦能量、眩光、薄雾、水蛭种子、光幕、模仿、薄雾、毒气、毒粉、恢复、反射、休息、水煮、飞溅、昏迷孢子、替代品、超音速、电传、雷霆波、有毒或变形，则之前对用户造成的伤害将添加到总伤害中。",
     "shortDesc": "Waits 2-3 turns; deals double the damage taken.",
+    "chineseShortDesc": "等待2-3圈；交易造成的损失增加了一倍。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3078,7 +3308,9 @@
     "priority": 0,
     "target": "self",
     "desc": "A random move is selected for use, other than Metronome or Struggle.",
+    "chineseDesc": "选择使用随机移动，而不是Metronome或Struggle。",
     "shortDesc": "Picks a random move.",
+    "chineseShortDesc": "随机选择一个动作。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3101,7 +3333,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user uses the last move used by the target. Fails if the target has not made a move since the user switched in, or if the last move used was Mirror Move.",
+    "chineseDesc": "用户使用目标使用的最后一个移动。如果目标自用户切换后没有移动，或者如果使用的最后一次移动是镜像移动，则失败。",
     "shortDesc": "User uses the target's last used move against it.",
+    "chineseShortDesc": "用户使用目标上一次使用的移动来对抗它。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3125,7 +3359,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user faints after using this move, unless the target's substitute was broken by the damage. The target's Defense is halved during damage calculation.",
+    "chineseDesc": "使用者使用此招式后会晕倒，除非目标的替代品被伤害破坏。在计算伤害时，目标的防御力减半。",
     "shortDesc": "Target's Def halved during damage. User faints.",
+    "chineseShortDesc": "目标的Def在受到伤害时减半。用户晕倒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3151,7 +3387,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3176,7 +3414,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "有30%的几率使目标瘫痪。",
     "shortDesc": "30% chance to paralyze the target.",
+    "chineseShortDesc": "有30%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3206,7 +3446,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 40% chance to poison the target.",
+    "chineseDesc": "有40%的几率使目标中毒。",
     "shortDesc": "40% chance to poison the target.",
+    "chineseShortDesc": "40%的几率使目标中毒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3235,7 +3477,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 40% chance to poison the target.",
+    "chineseDesc": "有40%的几率使目标中毒。",
     "shortDesc": "40% chance to poison the target.",
+    "chineseShortDesc": "40%的几率使目标中毒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3264,7 +3508,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to make the target flinch.",
+    "chineseDesc": "有10%的机会让目标退缩。",
     "shortDesc": "10% chance to make the target flinch.",
+    "chineseShortDesc": "有10%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3293,7 +3539,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to burn the target.",
+    "chineseDesc": "有30%的几率烧毁目标。",
     "shortDesc": "30% chance to burn the target.",
+    "chineseShortDesc": "30%的几率烧毁目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3322,7 +3570,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3347,7 +3597,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user spends two to five turns using this move. Has a 3/8 chance to last two or three turns, and a 1/8 chance to last four or five turns. The damage calculated for the first turn is used for every other turn. The user cannot select a move and the target cannot execute a move during the effect, but both may switch out. If the user switches out, the target remains unable to execute a move during that turn. If the target switches out, the user uses this move again automatically, and if it had 0 PP at the time, it becomes 63. If the user or the target switch out, or the user is prevented from moving, the effect ends. This move can prevent the target from moving even if it has type immunity, but will not deal damage.",
+    "chineseDesc": "用户使用此移动需要花费两到五个回合。有3/8的机会完成两到三圈，有1/8的机会完成四到五圈。为第一圈计算的伤害用于其他每一圈。在效果期间，用户无法选择移动，目标也无法执行移动，但两者都可能切换出去。如果用户退出，目标在该回合中仍然无法执行移动。如果目标切换出去，用户会自动再次使用此移动，如果当时PP为0，则变为63。如果用户或目标退出，或者用户被阻止移动，则效果结束。此动作可以防止目标移动，即使它具有类型免疫力，但不会造成伤害。",
     "shortDesc": "Prevents the target from moving for 2-5 turns.",
+    "chineseShortDesc": "防止目标移动2-5圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3372,7 +3624,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "This move does not check accuracy and hits even if the target is using Dig or Fly.",
+    "chineseDesc": "即使目标使用“挖掘”或“飞行”，此移动也不会检查准确性和命中率。",
     "shortDesc": "Never misses, even against Dig and Fly.",
+    "chineseShortDesc": "永远不会错过，即使是对阵Dig and Fly。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3396,7 +3650,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This attack charges on the first turn and executes on the second.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。",
     "shortDesc": "Charges turn 1. Hits turn 2.",
+    "chineseShortDesc": "收费转1。打第二回合。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3424,7 +3680,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3452,7 +3710,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的速度降低1级。",
     "shortDesc": "33% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "33%的几率将目标的速度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3484,7 +3744,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Special by 2 stages.",
+    "chineseDesc": "将用户的特殊值提高2个阶段。",
     "shortDesc": "Raises the user's Special by 2.",
+    "chineseShortDesc": "将用户的特殊值提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3507,7 +3769,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's accuracy by 1 stage.",
+    "chineseDesc": "将目标精度降低1级。",
     "shortDesc": "Lowers the target's accuracy by 1.",
+    "chineseShortDesc": "将目标精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3532,7 +3796,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down. Fails if (user's maximum HP - user's current HP + 1) is divisible by 256.",
+    "chineseDesc": "用户恢复其最大HP的1/2，四舍五入。如果（用户的最大HP值-用户的当前HP+1）能被256整除，则失败。",
     "shortDesc": "Heals the user by 50% of its max HP.",
+    "chineseShortDesc": "以最大生命值的50%治愈用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3557,7 +3823,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this attack misses the target, the user takes 1 HP of crash damage. If the user has a substitute, the crash damage is dealt to the target's substitute if it has one, otherwise no crash damage is dealt.",
+    "chineseDesc": "如果这次攻击没有击中目标，用户将受到1 HP的碰撞伤害。如果用户有替代品，则对目标的替代品（如果有）造成碰撞伤害，否则不造成碰撞伤害。",
     "shortDesc": "User takes 1 HP of damage if it misses.",
+    "chineseShortDesc": "如果错过，用户将受到1 HP的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3583,7 +3851,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Paralyzes the target.",
+    "chineseDesc": "使目标瘫痪。",
     "shortDesc": "Paralyzes the target.",
+    "chineseShortDesc": "使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3608,7 +3878,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The target is unaffected by this move unless it is asleep. The user recovers 1/2 the HP lost by the target, rounded down, but not less than 1 HP. If this move breaks the target's substitute, the user does not recover any HP.",
+    "chineseDesc": "目标不受此动作的影响，除非它睡着了。用户恢复目标损失的1/2生命值，四舍五入，但不得低于1生命值。如果此举破坏了目标的替代品，用户将无法恢复任何生命值。",
     "shortDesc": "User gains 1/2 HP inflicted. Sleeping target only.",
+    "chineseShortDesc": "用户获得1/2生命值。只睡目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3636,7 +3908,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Poisons the target.",
+    "chineseDesc": "毒害目标。",
     "shortDesc": "Poisons the target.",
+    "chineseShortDesc": "毒害目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3661,7 +3935,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3690,7 +3966,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user recovers 1/2 the HP lost by the target, rounded down.",
+    "chineseDesc": "用户恢复目标损失的1/2生命值，四舍五入。",
     "shortDesc": "User recovers 50% of the damage dealt.",
+    "chineseShortDesc": "用户恢复50%的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3719,7 +3997,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "使目标入睡。",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "使目标入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3744,7 +4024,9 @@
     "priority": 0,
     "target": "any",
     "desc": "This attack charges on the first turn and executes on the second.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。",
     "shortDesc": "Charges turn 1. Hits turn 2.",
+    "chineseShortDesc": "收费转1。打第二回合。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3772,7 +4054,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user transforms into the target. The target's current stats, stat stages, types, moves, DVs, species, and sprite are copied. The user's level and HP remain the same and each copied move receives only 5 PP. This move can hit a target using Dig or Fly.",
+    "chineseDesc": "用户转换为目标。复制目标的当前属性、属性阶段、类型、移动、DV、物种和精灵。用户的等级和生命值保持不变，每次复制的移动只会获得5个点。此移动可以使用Dig或Fly击中目标。",
     "shortDesc": "Copies target's stats, moves, types, and species.",
+    "chineseShortDesc": "复制目标的属性、移动、类型和物种。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3797,7 +4081,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 33% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "有33%的几率将目标的速度降低1级。",
     "shortDesc": "33% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "33%的几率将目标的速度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3828,7 +4114,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3854,7 +4142,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "使目标入睡。",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "使目标入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3880,7 +4170,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's accuracy by 1 stage.",
+    "chineseDesc": "将目标精度降低1级。",
     "shortDesc": "Lowers the target's accuracy by 1.",
+    "chineseShortDesc": "将目标精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3928,7 +4220,9 @@
     "priority": 0,
     "target": "self",
     "desc": "No competitive use.",
+    "chineseDesc": "没有竞争用途。",
     "shortDesc": "No competitive use.",
+    "chineseShortDesc": "没有竞争用途。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3951,7 +4245,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 2 stages.",
+    "chineseDesc": "将用户的防御提高2个阶段。",
     "shortDesc": "Raises the user's Defense by 2.",
+    "chineseShortDesc": "将用户的防御提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3974,7 +4270,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -3999,7 +4297,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user faints after using this move, unless this move broke the target's substitute. The target's Defense is halved during damage calculation.",
+    "chineseDesc": "用户在使用此动作后晕倒，除非此动作打破了目标的替代品。在计算伤害时，目标的防御力减半。",
     "shortDesc": "Target's Def halved during damage. User faints.",
+    "chineseShortDesc": "目标的Def在受到伤害时减半。用户晕倒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4025,7 +4325,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. Damage is calculated once for the first hit and used for every hit. If one of the hits breaks the target's substitute, the move ends.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。第一次命中时计算一次伤害，每次命中时使用。如果其中一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4054,7 +4356,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits twice. If the first hit breaks the target's substitute, the move ends.",
+    "chineseDesc": "打了两次。如果第一次命中打破了目标的替补，则移动结束。",
     "shortDesc": "Hits 2 times in one turn.",
+    "chineseShortDesc": "一个回合打两次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4079,7 +4383,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user falls asleep for the next two turns and restores all of its HP, curing itself of any non-volatile status condition in the process. This does not remove the user's stat penalty for burn or paralysis. Fails if the user has full HP.",
+    "chineseDesc": "用户在接下来的两个回合中睡着，并恢复其所有HP，在此过程中自行修复任何非易失性状态。这不会消除用户因烧伤或瘫痪而受到的统计惩罚。如果用户拥有完整的HP，则失败。",
     "shortDesc": "User sleeps 2 turns and restores HP and status.",
+    "chineseShortDesc": "用户睡眠2圈，恢复HP和状态。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4103,7 +4409,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4127,7 +4435,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to make the target flinch.",
+    "chineseDesc": "有10%的机会让目标退缩。",
     "shortDesc": "10% chance to make the target flinch.",
+    "chineseShortDesc": "有10%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4158,7 +4468,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack by 1 stage.",
+    "chineseDesc": "将用户的攻击提高1级。",
     "shortDesc": "Raises the user's Attack by 1.",
+    "chineseShortDesc": "将用户的攻击力提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4181,7 +4493,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the user's types to become the same as the current types of the target.",
+    "chineseDesc": "使用户的类型与目标的当前类型相同。",
     "shortDesc": "User becomes the same type as the target.",
+    "chineseShortDesc": "用户成为与目标相同的类型。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4203,7 +4517,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4251,7 +4567,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4277,7 +4595,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user takes 1/4 of its maximum HP, rounded down, and puts it into a substitute to take its place in battle. The substitute has 1 HP plus the HP used to create it, and is removed once enough damage is inflicted on it or 255 damage is inflicted at once, or if the user switches out or faints. Until the substitute is broken, it receives damage from all attacks made by the opposing Pokemon and shields the user from status effects and stat stage changes caused by the opponent, unless the effect is Disable, Leech Seed, sleep, primary paralysis, or secondary confusion and the user's substitute did not break. The user still takes normal damage from status effects while behind its substitute, unless the effect is confusion damage, which is applied to the opposing Pokemon's substitute instead. If the substitute breaks during a multi-hit attack, the attack ends. Fails if the user does not have enough HP remaining to create a substitute, or if it already has a substitute. The user will create a substitute and then faint if its current HP is exactly 1/4 of its maximum HP.",
+    "chineseDesc": "用户取其最大生命值的1/4，四舍五入，并将其放入替代品中，以在战斗中取代其位置。该替代品有1点生命值加上用于创建它的生命值，一旦对其造成足够的伤害或一次造成255点伤害，或者如果用户退出或晕倒，就会被移除。在替代品被破坏之前，它会受到对手口袋妖怪所有攻击的伤害，并保护用户免受对手造成的状态效果和状态阶段变化的影响，除非效果是禁用、水蛭种子、睡眠、初级瘫痪或次级混乱，并且用户的替代品没有被破坏。用户在其替代品后面时仍然会受到状态效果的正常伤害，除非该效果是混淆伤害，而是应用于对方的口袋妖怪替代品。如果替补球员在多人攻击中受伤，攻击结束。如果用户没有足够的剩余HP来创建替代品，或者已经有替代品，则失败。如果用户当前的HP恰好是其最大HP的1/4，则用户将创建一个替代品，然后晕倒。",
     "shortDesc": "User takes 1/4 its max HP to put in a Substitute.",
+    "chineseShortDesc": "用户需要其最大HP的1/4来替换。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4299,7 +4619,9 @@
     "priority": 0,
     "target": "randomNormal",
     "desc": "Deals Normal-type damage. If this move was successful, the user takes damage equal to 1/2 the HP lost by the target, rounded down, but not less than 1 HP. This move is automatically used if none of the user's known moves can be selected.",
+    "chineseDesc": "造成正常类型的伤害。如果此移动成功，用户受到的伤害等于目标损失的生命值的1/2，四舍五入，但不小于1生命值。如果无法选择用户的任何已知移动，则会自动使用此移动。",
     "shortDesc": "User loses 1/2 the HP lost by the target.",
+    "chineseShortDesc": "用户损失目标损失的HP的1/2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4330,7 +4652,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Fails when used in Link Battles.",
+    "chineseDesc": "在链接战斗中使用时失败。",
     "shortDesc": "Fails when used in Link Battles.",
+    "chineseShortDesc": "在链接战斗中使用时失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4383,7 +4707,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to steal the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail.",
+    "chineseDesc": "如果用户没有持有物品，则有100%的机会偷走目标持有的物品。如果目标物品是邮件，则不会被盗。",
     "shortDesc": "If the user has no item, it steals the target's.",
+    "chineseShortDesc": "如果用户没有物品，它就会偷走目标的物品。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4414,7 +4740,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+    "chineseDesc": "防止目标切换。如果目标使用Baton Pass，它仍然可以切换出去。如果目标使用Barton Pass离开场地，替代者仍将被困。如果用户离开该区域，则效果结束，除非它使用Baton Pass，在这种情况下，目标将保持被困状态。",
     "shortDesc": "Prevents the target from switching out.",
+    "chineseShortDesc": "防止目标切换。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4438,7 +4766,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The next accuracy check against the target succeeds. The target will still avoid Earthquake, Fissure, and Magnitude if it is using Fly. If the target leaves the field using Baton Pass, the replacement remains under this effect. This effect ends when the target leaves the field or an accuracy check is done against it.",
+    "chineseDesc": "对目标的下一次精度检查成功。如果使用Fly，目标仍将避免地震、裂缝和震级。如果目标使用Baton Pass离开场地，则替换仍处于此效果下。当目标离开场地或对其进行精度检查时，此效果结束。",
     "shortDesc": "The next move will not miss the target.",
+    "chineseShortDesc": "下一步不会错过目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4462,7 +4792,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to lose 1/4 of its maximum HP, rounded down, at the end of each turn as long as it is asleep. This move does not affect the target unless it is asleep. The effect ends when the target wakes up, even if it falls asleep again in the same turn.",
+    "chineseDesc": "只要目标处于睡眠状态，它就会在每个回合结束时损失其最大生命值的1/4（四舍五入）。此动作不会影响目标，除非它处于睡眠状态。当目标醒来时，即使它在同一回合再次入睡，效果也会结束。",
     "shortDesc": "A sleeping target is hurt by 1/4 max HP per turn.",
+    "chineseShortDesc": "睡眠目标每回合受到1/4最大生命值的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4486,7 +4818,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target.",
+    "chineseDesc": "有10%的几率烧毁目标。",
     "shortDesc": "10% chance to burn the target. Thaws user.",
+    "chineseShortDesc": "有10%的几率烧毁目标。解冻用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4517,7 +4851,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch. Fails if the user is not asleep.",
+    "chineseDesc": "有30%的机会让目标退缩。如果用户没有睡着，则失败。",
     "shortDesc": "User must be asleep. 30% chance to flinch target.",
+    "chineseShortDesc": "用户必须处于睡眠状态。30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4547,7 +4883,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the user is not a Ghost type, lowers the user's Speed by 1 stage and raises the user's Attack and Defense by 1 stage, unless the user's Attack and Defense stats are both at stage 6. If the user is a Ghost type, the user loses 1/2 of its maximum HP, rounded down and even if it would cause fainting, in exchange for the target losing 1/4 of its maximum HP, rounded down, at the end of each turn while it is active. If the target uses Baton Pass, the replacement will continue to be affected. Fails if the target is already affected or has a substitute.",
+    "chineseDesc": "如果用户不是Ghost类型，则将用户的速度降低1级，并将用户的攻击和防御提高1级，除非用户的进攻和防御统计数据都处于第6级。如果用户是幽灵类型，则用户将损失其最大生命值的1/2，向下舍入，即使这会导致昏厥，以换取目标在每次活动结束时损失其最大寿命的1/4，向下舍入。如果目标使用Baton Pass，替换将继续受到影响。如果目标已经受到影响或有替代品，则失败。",
     "shortDesc": "Curses if Ghost, else -1 Spe, +1 Atk, +1 Def.",
+    "chineseShortDesc": "诅咒如果幽灵，否则-1 Spe，+1 Atk，+1 Def。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4593,7 +4931,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user's type changes to match a type that resists or is immune to the type of the last move used by the opposing Pokemon, even if it is one of the user's current types. The original type of the move is used rather than the determined type. Fails if the opposing Pokemon has not used a move.",
+    "chineseDesc": "用户的类型会发生变化，以匹配抵抗或免疫对方口袋妖怪最后一步动作类型的类型，即使它是用户当前的类型之一。使用移动的原始类型，而不是确定的类型。如果对方口袋妖怪没有使用任何动作，则失败。",
     "shortDesc": "Changes user's type to resist the foe's last move.",
+    "chineseShortDesc": "更改用户的类型以抵抗敌人的最后一步。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4616,7 +4956,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4642,7 +4984,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Speed by 2 stages.",
+    "chineseDesc": "将目标的速度降低2级。",
     "shortDesc": "Lowers the target's Speed by 2.",
+    "chineseShortDesc": "将目标的速度降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4692,7 +5036,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target's last move used to lose 2 to 5 PP, at random. Fails if the target has not made a move, or if the move has 0 PP.",
+    "chineseDesc": "随机导致目标的最后一次移动失去2到5个PP。如果目标没有移动，或者移动的PP为0，则失败。",
     "shortDesc": "Lowers the PP of the target's last move by 2-5.",
+    "chineseShortDesc": "将目标最后一步的PP降低2-5。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4717,7 +5063,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a 10% chance to freeze the target.",
+    "chineseDesc": "有10%的机会冻结目标。",
     "shortDesc": "10% chance to freeze the target.",
+    "chineseShortDesc": "10%的几率冻结目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4746,7 +5094,9 @@
     "priority": 2,
     "target": "self",
     "desc": "The user is protected from attacks made by the opponent during this turn. This move has an X/255 chance of being successful, where X starts at 255 and halves, rounded down, each time this move is successfully used. X resets to 255 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user has a substitute or moves last this turn.",
+    "chineseDesc": "用户在此回合中受到保护，免受对手的攻击。此移动有X/255的成功几率，其中X从255开始，每次成功使用此移动时四舍五入减半。如果此移动失败，或者用户使用的最后一个移动不是检测、持久或保护，则X重置为255。如果用户有替补或本回合最后移动，则失败。",
     "shortDesc": "Prevents moves from affecting the user this turn.",
+    "chineseShortDesc": "防止移动影响此回合的用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4769,7 +5119,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "通常先走。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4795,7 +5147,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Speed by 2 stages.",
+    "chineseDesc": "将目标的速度降低2级。",
     "shortDesc": "Lowers the target's Speed by 2.",
+    "chineseShortDesc": "将目标的速度降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4821,7 +5175,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "此举不会检查准确性。",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "此举不会检查准确性。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4845,7 +5201,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to become confused.",
+    "chineseDesc": "使目标变得混乱。",
     "shortDesc": "Causes the target to become confused.",
+    "chineseShortDesc": "使目标变得混乱。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4870,7 +5228,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user loses 1/2 of its maximum HP, rounded down, unless the user would faint or its Attack stat stage is 6. If the user did not have enough HP, its Attack is raised by 2 stages. Otherwise, while the user's Attack stat stage is less than 6 it is raised by 2, and if its Attack stat before this step was 999 then the stat stage is lowered by 1 and the loop ends.",
+    "chineseDesc": "用户将损失其最大生命值的1/2（四舍五入），除非用户晕倒或其攻击等级为6。如果用户没有足够的HP，其攻击将分为两个阶段。否则，当用户的攻击状态阶段小于6时，它将提高2，如果在此步骤之前的攻击状态为999，则状态阶段将降低1，循环结束。",
     "shortDesc": "User loses 50% max HP. Maximizes Attack.",
+    "chineseShortDesc": "用户损失50%的最大生命值。最大化攻击。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4893,7 +5253,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to poison the target.",
+    "chineseDesc": "有30%的几率使目标中毒。",
     "shortDesc": "30% chance to poison the target.",
+    "chineseShortDesc": "有30%的几率使目标中毒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4923,7 +5285,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to lower the target's accuracy by 1 stage.",
+    "chineseDesc": "有100%的机会将目标的精度降低1级。",
     "shortDesc": "100% chance to lower the target's accuracy by 1.",
+    "chineseShortDesc": "100%有机会将目标的精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4954,7 +5318,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to lower the target's accuracy by 1 stage.",
+    "chineseDesc": "有50%的机会将目标的精度降低1级。",
     "shortDesc": "50% chance to lower the target's accuracy by 1.",
+    "chineseShortDesc": "50%的几率将目标的精度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -4986,7 +5352,9 @@
     "priority": 0,
     "target": "foeSide",
     "desc": "Sets up a hazard on the opposing side of the field, causing each opposing Pokemon that switches in to lose 1/8 of their maximum HP, rounded down, unless it is a Flying-type Pokemon. Fails if the effect is already active on the opposing side. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin successfully.",
+    "chineseDesc": "在场地的另一侧设置一个危险，导致每个切换的相对口袋妖怪损失其最大生命值的1/8，四舍五入，除非它是飞行型口袋妖怪。如果效果已在对方激活，则失败。如果对方的口袋妖怪成功使用了Rapid Spin，则可以从对方移除。",
     "shortDesc": "Hurts grounded foes on switch-in. Max 1 layer.",
+    "chineseShortDesc": "在切换时伤害接地的敌人。最多1层。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5009,7 +5377,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to paralyze the target.",
+    "chineseDesc": "有100%的机会使目标瘫痪。",
     "shortDesc": "100% chance to paralyze the target.",
+    "chineseShortDesc": "100%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5039,7 +5409,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "As long as the target remains active, if its evasiveness stat stage is greater than the attacker's accuracy stat stage, both are ignored during accuracy checks, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type. If the target leaves the field using Baton Pass, the replacement will remain under this effect. Fails if the target is already affected.",
+    "chineseDesc": "只要目标保持活动状态，如果其躲避状态阶段大于攻击者的准确性状态阶段，则在准确性检查期间都会被忽略，如果目标是幽灵类型，则普通和战斗类型的攻击可以击中目标。如果目标使用Baton Pass离开场地，则替换物将保持此效果。如果目标已经受到影响，则失败。",
     "shortDesc": "Fighting, Normal hit Ghost. Evasiveness ignored.",
+    "chineseShortDesc": "战斗，普通击中幽灵。回避被忽视。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5064,7 +5436,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that Pokemon faints as well.",
+    "chineseDesc": "在用户下一回合之前，如果对方的口袋妖怪攻击将用户击倒，该口袋妖怪也会晕倒。",
     "shortDesc": "If an opponent knocks out the user, it also faints.",
+    "chineseShortDesc": "如果对手击倒了用户，它也会晕倒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5088,7 +5462,9 @@
     "priority": 0,
     "target": "all",
     "desc": "Each active Pokemon receives a perish count of 4 if it doesn't already have a perish count. At the end of each turn including the turn used, the perish count of all active Pokemon lowers by 1 and Pokemon faint if the number reaches 0. The perish count is removed from Pokemon that switch out. If a Pokemon uses Baton Pass while it has a perish count, the replacement will gain the perish count and continue to count down.",
+    "chineseDesc": "如果每个活跃的口袋妖怪还没有死亡计数，则其死亡计数为4。在每个回合结束时，包括所使用的回合，所有活动的口袋妖怪的死亡计数都会降低1，如果数字达到0，口袋妖怪就会晕倒。退出的口袋妖怪中的死亡计数已被删除。如果一只口袋妖怪在有死亡计数的情况下使用巴吞通票，那么替代者将获得死亡计数并继续倒计时。",
     "shortDesc": "All active Pokemon will faint in 3 turns.",
+    "chineseShortDesc": "所有活跃的口袋妖怪将在3圈内晕倒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5112,7 +5488,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "有100%的机会将目标的速度降低1级。",
     "shortDesc": "100% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "100%有机会将目标的速度降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5144,7 +5522,9 @@
     "priority": 2,
     "target": "self",
     "desc": "The user is protected from attacks made by the opponent during this turn. This move has an X/255 chance of being successful, where X starts at 255 and halves, rounded down, each time this move is successfully used. X resets to 255 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user has a substitute or moves last this turn.",
+    "chineseDesc": "用户在此回合中受到保护，免受对手的攻击。此移动有X/255的成功几率，其中X从255开始，每次成功使用此移动时四舍五入减半。如果此移动失败，或者用户使用的最后一个移动不是检测、持久或保护，则X重置为255。如果用户有替补或本回合最后移动，则失败。",
     "shortDesc": "Prevents moves from affecting the user this turn.",
+    "chineseShortDesc": "防止移动影响此回合的用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5167,7 +5547,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。如果其中一次命中打破了目标的替代品，则其余命中将受到伤害。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5195,7 +5577,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The next accuracy check against the target succeeds. The target will still avoid Earthquake, Fissure, and Magnitude if it is using Fly. If the target leaves the field using Baton Pass, the replacement remains under this effect. This effect ends when the target leaves the field or an accuracy check is done against it.",
+    "chineseDesc": "对目标的下一次精度检查成功。如果使用Fly，目标仍将避免地震、裂缝和震级。如果目标使用Baton Pass离开场地，则替换仍处于此效果下。当目标离开场地或对其进行精度检查时，此效果结束。",
     "shortDesc": "The next move will not miss the target.",
+    "chineseShortDesc": "下一步不会错过目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5219,7 +5603,9 @@
     "priority": 0,
     "target": "randomNormal",
     "desc": "Whether or not this move is successful, the user spends two or three turns locked into this move and becomes confused immediately after its move on the last turn of the effect, even if it is already confused. If the user is prevented from moving, the effect ends without causing confusion. If this move is called by Sleep Talk, the move is used for one turn and does not confuse the user.",
+    "chineseDesc": "无论此移动是否成功，用户都会花两到三圈时间锁定此移动，并在最后一圈效果移动后立即感到困惑，即使它已经感到困惑。如果阻止用户移动，则效果结束而不会造成混淆。如果此动作由Sleep Talk调用，则该动作仅用于一个回合，不会让用户感到困惑。",
     "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards.",
+    "chineseShortDesc": "持续2-3圈。事后让用户感到困惑。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5245,7 +5631,9 @@
     "priority": 0,
     "target": "all",
     "desc": "For 5 turns, the weather becomes Sandstorm. At the end of each turn except the last, all active Pokemon lose 1/8 of their maximum HP, rounded down, unless they are a Ground, Rock, or Steel type. Fails if the current weather is Sandstorm.",
+    "chineseDesc": "经过5个转弯，天气变成了沙尘暴。除最后一个回合外，在每个回合结束时，所有活跃的口袋妖怪都会损失其最大生命值的1/8，除非它们是地面、岩石或钢铁类型。如果当前天气是沙尘暴，则失败。",
     "shortDesc": "For 5 turns, a sandstorm rages.",
+    "chineseShortDesc": "沙尘暴肆虐了5圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5268,7 +5656,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user recovers 1/2 the HP lost by the target, rounded down.",
+    "chineseDesc": "用户恢复目标损失的1/2生命值，四舍五入。",
     "shortDesc": "User recovers 50% of the damage dealt.",
+    "chineseShortDesc": "用户恢复50%的伤害。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5296,7 +5686,9 @@
     "priority": 2,
     "target": "self",
     "desc": "The user will survive attacks made by the opponent during this turn with at least 1 HP. This move has an X/255 chance of being successful, where X starts at 255 and halves, rounded down, each time this move is successfully used. X resets to 255 if this move fails or if the user's last move used is not Detect, Endure, or Protect. Fails if the user has a substitute or moves last this turn.",
+    "chineseDesc": "用户将在本回合中以至少1点生命值躲过对手的攻击。此移动有X/255的成功几率，其中X从255开始，每次成功使用此移动时四舍五入减半。如果此移动失败，或者用户使用的最后一个移动不是检测、持久或保护，则X重置为255。如果用户有替补或本回合最后移动，则失败。",
     "shortDesc": "User survives attacks this turn with at least 1 HP.",
+    "chineseShortDesc": "用户在这次攻击中至少有1点生命值。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5319,7 +5711,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Attack by 2 stages.",
+    "chineseDesc": "将目标的攻击力降低2级。",
     "shortDesc": "Lowers the target's Attack by 2.",
+    "chineseShortDesc": "将目标的攻击力降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5371,7 +5765,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Leaves the target with at least 1 HP.",
+    "chineseDesc": "使目标至少有1点生命值。",
     "shortDesc": "Always leaves the target with at least 1 HP.",
+    "chineseShortDesc": "始终让目标保持至少1点生命值。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5396,7 +5792,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Raises the target's Attack by 2 stages and confuses it. This move will miss if the target's Attack cannot be raised.",
+    "chineseDesc": "将目标的攻击力提高2个阶段并使其混淆。如果目标的攻击不能提高，则此招式将失败。",
     "shortDesc": "Raises the target's Attack by 2 and confuses it.",
+    "chineseShortDesc": "将目标的攻击力提高2并使其混淆。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5422,7 +5820,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down.",
+    "chineseDesc": "用户恢复其最大HP的1/2，四舍五入。",
     "shortDesc": "Heals the user by 50% of its max HP.",
+    "chineseShortDesc": "以最大生命值的50%治愈用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5450,7 +5850,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "有30%的几率使目标瘫痪。",
     "shortDesc": "30% chance to paralyze the target.",
+    "chineseShortDesc": "有30%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5505,7 +5907,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to raise the user's Defense by 1 stage.",
+    "chineseDesc": "有10%的机会将用户的防御提高1级。",
     "shortDesc": "10% chance to raise the user's Defense by 1.",
+    "chineseShortDesc": "10%的几率将用户的防御提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5539,7 +5943,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+    "chineseDesc": "防止目标切换。如果目标使用Baton Pass，它仍然可以切换出去。如果目标使用Barton Pass离开场地，替代者仍将被困。如果用户离开该区域，则效果结束，除非它使用Baton Pass，在这种情况下，目标将保持被困状态。",
     "shortDesc": "Prevents the target from switching out.",
+    "chineseShortDesc": "防止目标切换。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5563,7 +5969,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to become infatuated, making it unable to attack 50% of the time. Fails if both the user and the target are the same gender, if either is genderless, or if the target is already infatuated. The effect ends when either the user or the target is no longer active.",
+    "chineseDesc": "使目标着迷，使其50%的时间无法攻击。如果用户和目标都是同一性别，如果其中一个是无性别的，或者如果目标已经迷恋上了，则失败。当用户或目标不再处于活动状态时，效果结束。",
     "shortDesc": "A target of the opposite gender gets infatuated.",
+    "chineseShortDesc": "异性的目标会被迷恋。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5589,7 +5997,9 @@
     "priority": 0,
     "target": "self",
     "desc": "One of the user's known moves, besides this move, is selected for use at random. Fails if the user is not asleep. The selected move does not have PP deducted from it, and can currently have 0 PP. This move cannot select Bide, Sleep Talk, or any two-turn move.",
+    "chineseDesc": "除了这个动作之外，用户的一个已知动作被随机选择使用。如果用户没有睡着，则失败。所选移动没有从中扣除PP，当前可以有0 PP。此移动不能选择Bide、Sleep Talk或任何两轮移动。",
     "shortDesc": "User must be asleep. Uses another known move.",
+    "chineseShortDesc": "用户必须处于睡眠状态。使用另一个已知的动作。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5613,7 +6023,9 @@
     "priority": 0,
     "target": "allyTeam",
     "desc": "Every Pokemon in the user's party is cured of its non-volatile status condition.",
+    "chineseDesc": "用户方中的每个口袋妖怪都已治愈其非易失性状态。",
     "shortDesc": "Cures the user's party of all status conditions.",
+    "chineseShortDesc": "清除用户一方的所有状态条件。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5661,7 +6073,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, it deals damage or heals the target. 102/256 chance for 40 power, 76/256 chance for 80 power, 26/256 chance for 120 power, or 52/256 chance to heal the target by 1/4 of its maximum HP, rounded down. If this move deals damage, it uses an abnormal version of the damage formula by substituting certain values. The user's Attack stat is replaced with 10 times the effectiveness of this move against the target, the target's Defense stat is replaced with the index number of the user's secondary type, and the user's level is replaced with the index number of the target's secondary type. If a Pokemon does not have a secondary type, its primary type is used. The index numbers for each type are Normal: 0, Fighting: 1, Flying: 2, Poison: 3, Ground: 4, Rock: 5, Bug: 7, Ghost: 8, Steel: 9, Fire: 20, Water: 21, Grass: 22, Electric: 23, Psychic: 24, Ice: 25, Dragon: 26, Dark: 27. If at any point a division by 0 would happen in the damage formula, it divides by 1 instead.",
+    "chineseDesc": "如果此动作成功，则会造成伤害或治愈目标。102/256几率获得40点力量，76/256几率得到80点力量，26/256几率获得120点力量，或52/256几率以目标最大生命值的1/4治愈目标，四舍五入。如果此动作造成伤害，则通过替换某些值来使用异常版本的伤害公式。用户的攻击属性将被替换为该移动对目标有效性的10倍，目标的防御属性将被用户次要类型的索引号替换，用户的级别将被目标次要类型的索引号替换。如果口袋妖怪没有次要类型，则使用其主要类型。每种类型的指数是正常：0，战斗：1，飞行：2，毒药：3，地面：4，岩石：5，虫子：7，幽灵：8，钢铁：9，火：20，水：21，草：22，电：23，通灵：24，冰：25，龙：26，黑暗：27。如果在损伤公式中的任何一点发生除以0的情况，则改为除以1。",
     "shortDesc": "40, 80, 120 power, or heals target 1/4 max HP.",
+    "chineseShortDesc": "40、80、120威力，或治愈目标1/4最大生命值。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5709,7 +6123,9 @@
     "priority": 0,
     "target": "allySide",
     "desc": "For 5 turns, the user and its party members cannot have non-volatile status conditions or confusion inflicted on them by other Pokemon. During the effect, Outrage, Thrash, and Petal Dance do not confuse the user. Fails if the effect is already active on the user's side.",
+    "chineseDesc": "对于5轮，用户及其团队成员不能有其他口袋妖怪给他们带来的非易失性状态条件或混淆。在效果期间，愤怒、色雷斯和花瓣舞不会让用户感到困惑。如果用户侧的效果已经处于活动状态，则失败。",
     "shortDesc": "For 5 turns, protects user's party from status.",
+    "chineseShortDesc": "5回合，保护用户一方不受身份限制。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5732,7 +6148,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user and the target's HP become the average of their current HP, rounded down, but not more than the maximum HP of either one.",
+    "chineseDesc": "用户和目标的HP变为其当前HP的平均值，四舍五入，但不超过其中任何一个的最大HP。",
     "shortDesc": "Shares HP of user and target equally.",
+    "chineseShortDesc": "平等分享用户和目标的惠普。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5757,7 +6175,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to burn the target.",
+    "chineseDesc": "有50%的几率烧毁目标。",
     "shortDesc": "50% chance to burn the target. Thaws user.",
+    "chineseShortDesc": "50%的几率烧毁目标。解冻用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5787,7 +6207,9 @@
     "priority": 0,
     "target": "allAdjacent",
     "desc": "The power of this move varies. 5% chances for 10 and 150 power, 10% chances for 30 and 110 power, 20% chances for 50 and 90 power, and 30% chance for 70 power. Power doubles if the target is using Dig.",
+    "chineseDesc": "这一举措的力度各不相同。10和150次力量有5%的机会，30和110次力量有10%的机会，50和90次力量有20%的机会，70次力量有30%的机会。如果目标使用Dig，则力量加倍。",
     "shortDesc": "Hits adjacent Pokemon. Power varies; 2x on Dig.",
+    "chineseShortDesc": "击中相邻的口袋妖怪。功率变化；2倍于Dig。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5812,7 +6234,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to confuse the target.",
+    "chineseDesc": "有100%的机会混淆目标。",
     "shortDesc": "100% chance to confuse the target.",
+    "chineseShortDesc": "100%的机会混淆目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5843,7 +6267,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "没有额外影响。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5868,7 +6294,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "有30%的几率使目标瘫痪。",
     "shortDesc": "30% chance to paralyze the target.",
+    "chineseShortDesc": "有30%的几率使目标瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5897,7 +6325,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user is replaced with another Pokemon in its party. The selected Pokemon has the user's stat stage changes, confusion, and certain move effects transferred to it.",
+    "chineseDesc": "用户被其队伍中的另一只口袋妖怪所取代。选定的口袋妖怪会将用户的状态阶段变化、混乱和某些移动效果转移到它身上。",
     "shortDesc": "User switches, passing stat changes and more.",
+    "chineseShortDesc": "用户切换、传递状态更改等。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5919,7 +6349,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "For 3 to 6 turns, the target is forced to repeat its last move used. If the affected move runs out of PP, the effect ends. Fails if the target is already under this effect, if it has not made a move, if the move has 0 PP, or if the move is Encore, Metronome, Mimic, Mirror Move, Sketch, Sleep Talk, Struggle, or Transform.",
+    "chineseDesc": "对于3到6圈，目标被迫重复其最后一次使用的动作。如果受影响的移动用完PP，则效果结束。如果目标已经处于此效果下，如果它没有移动，如果移动的PP为0，或者如果移动是Encore、Metronome、Mimic、Mirror move、Sketch、Sleep Talk、Struggle或Transform，则失败。",
     "shortDesc": "The target repeats its last move for 3-6 turns.",
+    "chineseShortDesc": "目标重复最后一步动作3-6圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5969,7 +6401,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the effects of Leech Seed and binding moves end for the user, and Spikes are removed from the user's side of the field.",
+    "chineseDesc": "如果此移动成功，则用户的Leech Seed和绑定移动的效果将结束，并且从用户侧的字段中删除Spikes。",
     "shortDesc": "Frees user from hazards, binding, Leech Seed.",
+    "chineseShortDesc": "使用户免受危害、束缚和水蛭种子。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -5994,7 +6428,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's evasiveness by 1 stage.",
+    "chineseDesc": "将目标的闪烁其词降低1级。",
     "shortDesc": "Lowers the target's evasiveness by 1.",
+    "chineseShortDesc": "将目标的闪烁其词降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6019,7 +6455,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to lower the target's Defense by 1 stage.",
+    "chineseDesc": "有30%的几率将目标的防御降低1级。",
     "shortDesc": "30% chance to lower the target's Defense by 1.",
+    "chineseShortDesc": "30%的几率将目标的防御力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6051,7 +6489,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to raise the user's Attack by 1 stage.",
+    "chineseDesc": "有10%的几率将用户的攻击提升1级。",
     "shortDesc": "10% chance to raise the user's Attack by 1.",
+    "chineseShortDesc": "10%的几率将用户的攻击力提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6085,7 +6525,9 @@
     "priority": -1,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "此举不会检查准确性。",
     "shortDesc": "This move does not check accuracy. Goes last.",
+    "chineseShortDesc": "此举不会检查准确性。最后。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6110,7 +6552,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP if no weather conditions are in effect, all of its HP if the weather is Sunny Day, and 1/4 of its maximum HP if the weather is Rain Dance or Sandstorm, all rounded down.",
+    "chineseDesc": "如果没有天气条件，用户将恢复其最大HP的1/2，如果天气是晴天，则恢复其所有HP，如果天气为雨舞或沙尘暴，则恢复最大HP的1/4，全部四舍五入。",
     "shortDesc": "Heals the user by a weather-dependent amount.",
+    "chineseShortDesc": "根据天气情况对用户进行治疗。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6134,7 +6578,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP if no weather conditions are in effect, all of its HP if the weather is Sunny Day, and 1/4 of its maximum HP if the weather is Rain Dance or Sandstorm, all rounded down.",
+    "chineseDesc": "如果没有天气条件，用户将恢复其最大HP的1/2，如果天气是晴天，则恢复其所有HP，如果天气为雨舞或沙尘暴，则恢复最大HP的1/4，全部四舍五入。",
     "shortDesc": "Heals the user by a weather-dependent amount.",
+    "chineseShortDesc": "根据天气情况对用户进行治疗。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6158,7 +6604,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP if no weather conditions are in effect, all of its HP if the weather is Sunny Day, and 1/4 of its maximum HP if the weather is Rain Dance or Sandstorm, all rounded down.",
+    "chineseDesc": "如果没有天气条件，用户将恢复其最大HP的1/2，如果天气是晴天，则恢复其所有HP，如果天气为雨舞或沙尘暴，则恢复最大HP的1/4，全部四舍五入。",
     "shortDesc": "Heals the user by a weather-dependent amount.",
+    "chineseShortDesc": "根据天气情况对用户进行治疗。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6182,7 +6630,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move's type and power depend on the user's individual values (IVs). Power varies between 30 and 70, and type can be any but Normal.",
+    "chineseDesc": "此动作的类型和力度取决于用户的个人值（IV）。功率在30到70之间变化，类型可以是任何类型，但正常类型除外。",
     "shortDesc": "Varies in power and type based on the user's IVs.",
+    "chineseShortDesc": "根据用户的静脉注射，功率和类型会有所不同。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6206,7 +6656,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6229,7 +6681,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6252,7 +6706,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6275,7 +6731,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6298,7 +6756,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6321,7 +6781,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6344,7 +6806,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6367,7 +6831,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6390,7 +6856,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6413,7 +6881,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6436,7 +6906,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6459,7 +6931,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6482,7 +6956,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6505,7 +6981,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6528,7 +7006,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6551,7 +7031,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "",
+    "chineseDesc": "-99",
     "shortDesc": "",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6574,7 +7056,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "有更高的机会受到关键打击。",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "高临界命中率。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6599,7 +7083,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a 20% chance to make the target flinch. Power doubles if the target is using Fly.",
+    "chineseDesc": "有20%的机会让目标退缩。如果目标使用Fly，则力量加倍。",
     "shortDesc": "20% chance to make the target flinch.",
+    "chineseShortDesc": "20%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6629,7 +7115,9 @@
     "priority": 0,
     "target": "all",
     "desc": "For 5 turns, the weather becomes Rain Dance, even if the current weather is Rain Dance. The damage of Water-type attacks is multiplied by 1.5 and the damage of Fire-type attacks is multiplied by 0.5 during the effect.",
+    "chineseDesc": "5回合后，天气变成了雨舞，即使目前的天气是雨舞。在效果期间，水型攻击的伤害乘以1.5，火型攻击的损害乘以0.5。",
     "shortDesc": "For 5 turns, heavy rain powers Water moves.",
+    "chineseShortDesc": "5圈，大雨推动水移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6651,7 +7139,9 @@
     "priority": 0,
     "target": "all",
     "desc": "For 5 turns, the weather becomes Sunny Day, even if the current weather is Sunny Day. The damage of Fire-type attacks is multiplied by 1.5 and the damage of Water-type attacks is multiplied by 0.5 during the effect.",
+    "chineseDesc": "即使当前天气是晴天，天气也会变为晴天。在效果期间，火型攻击的伤害乘以1.5，水型攻击的损害乘以0.5。",
     "shortDesc": "For 5 turns, intense sunlight powers Fire moves.",
+    "chineseShortDesc": "在5个转弯处，强烈的阳光为火焰移动提供动力。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6673,7 +7163,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "有20%的几率将目标的特殊防御降低1级。",
     "shortDesc": "20% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "20%的几率将目标的Sp.Def降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6730,7 +7222,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user copies all of the target's current stat stage changes. Fails if the target's stat stages are 0.",
+    "chineseDesc": "用户复制目标当前状态阶段的所有更改。如果目标的统计阶段为0，则失败。",
     "shortDesc": "Copies the target's current stat stages.",
+    "chineseShortDesc": "复制目标的当前统计阶段。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6754,7 +7248,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "通常先走。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6779,7 +7275,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+    "chineseDesc": "有10%的几率将用户的攻击、防御、特殊攻击、特殊防御和速度提高1级。",
     "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+    "chineseShortDesc": "10%的几率将所有统计值提高1（不是acc/eva）。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6817,7 +7315,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "有20%的几率将目标的特殊防御降低1级。",
     "shortDesc": "20% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "20%的几率将目标的Sp.Def降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6849,7 +7349,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals typeless damage that cannot be a critical hit two turns after this move is used. Damage is calculated against the target on use, and at the end of the final turn that damage is dealt to the Pokemon at the position the original target had at the time. Fails if this move is already in effect for the target's position.",
+    "chineseDesc": "使用此招式两回合后，造成无法造成暴击的无类型伤害。伤害是在使用时对目标计算的，在最后一回合结束时，伤害会在原始目标当时的位置对口袋妖怪造成。如果此动作已对目标位置生效，则失败。",
     "shortDesc": "Hits two turns after being used.",
+    "chineseShortDesc": "使用后打两圈。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6872,7 +7374,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to lower the target's Defense by 1 stage.",
+    "chineseDesc": "有50%的几率将目标的防御降低1级。",
     "shortDesc": "50% chance to lower the target's Defense by 1.",
+    "chineseShortDesc": "50%的几率将目标的防御力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6904,7 +7408,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+    "chineseDesc": "防止目标切换两到五圈。在效果的每个回合结束时，对目标造成的伤害等于其最大生命值的1/16，四舍五入。如果使用Baton Pass，目标仍然可以切换出去。如果用户或目标离开场地，或者目标成功使用快速旋转或替换，则效果结束。此效果不可堆叠，也不能通过使用此绑定移动或其他绑定移动进行重置。",
     "shortDesc": "Traps and damages the target for 2-5 turns.",
+    "chineseShortDesc": "在2-5圈内困住并损坏目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6952,7 +7458,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "Has a 100% chance to make the target flinch. Fails unless it is the user's first turn on the field.",
+    "chineseDesc": "有100%的机会让目标退缩。除非是用户第一次打开场地，否则失败。",
     "shortDesc": "Hits first. First turn out only. 100% flinch chance.",
+    "chineseShortDesc": "先打。只有先出来。100%的退缩机会。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -6981,7 +7489,9 @@
     "priority": 0,
     "target": "randomNormal",
     "desc": "The user spends two to five turns locked into this move. This move targets an opposing Pokemon at random on each turn. During effect, no active Pokemon can fall asleep by any means, and Pokemon that are already asleep wake up as their turn starts or at the end of each turn, including the last one. If the user is prevented from moving or the attack is not successful against the target during one of the turns, the effect ends.",
+    "chineseDesc": "用户需要花费两到五个回合来锁定此移动。这个动作在每个回合随机瞄准一个敌对的口袋妖怪。在效果期间，任何活跃的口袋妖怪都不能以任何方式入睡，已经睡着的口袋妖怪会在回合开始或每个回合结束时醒来，包括最后一个回合。如果在其中一个回合中，用户被阻止移动或对目标的攻击不成功，则效果结束。",
     "shortDesc": "Lasts 2-5 turns. Active Pokemon cannot sleep.",
+    "chineseShortDesc": "持续2-5圈。活跃的口袋妖怪无法入睡。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7007,7 +7517,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user's Stockpile count increases by 1. Fails if the user's Stockpile count is 3. The user's Stockpile count is reset to 0 when it is no longer active.",
+    "chineseDesc": "用户的库存数量增加1。如果用户的库存计数为3，则失败。当用户的库存计数不再处于活动状态时，它将重置为0。",
     "shortDesc": "Raises user's Stockpile count by 1. Max 3 uses.",
+    "chineseShortDesc": "将用户的库存数量增加1。最多3次使用。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7052,7 +7564,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores its HP based on its Stockpile count. Restores 1/4 of its maximum HP if it's 1, 1/2 of its maximum HP if it's 2, both rounded half down, and all of its HP if it's 3. Fails if the user's Stockpile count is 0. The user's Stockpile count resets to 0.",
+    "chineseDesc": "用户根据其库存数量恢复其生命值。如果为1，则恢复其最大HP的1/4；如果为2，则恢复最大HP的1/2；如果为3，则恢复所有HP。如果用户的库存计数为0，则失败。用户的库存计数重置为0。",
     "shortDesc": "Heals the user based on uses of Stockpile.",
+    "chineseShortDesc": "根据Stockpile的使用情况治愈用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7076,7 +7590,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a 10% chance to burn the target.",
+    "chineseDesc": "有10%的几率烧毁目标。",
     "shortDesc": "10% chance to burn the foe(s).",
+    "chineseShortDesc": "有10%的几率烧死敌人。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7106,7 +7622,9 @@
     "priority": 0,
     "target": "all",
     "desc": "For 5 turns, the weather becomes Hail. At the end of each turn except the last, all active Pokemon lose 1/16 of their maximum HP, rounded down, unless they are an Ice type. Fails if the current weather is Hail.",
+    "chineseDesc": "转了5圈，天气就变成了冰雹。除最后一个回合外，在每个回合结束时，所有活跃的口袋妖怪都会损失其最大生命值的1/16，四舍五入，除非它们是冰型。如果当前天气是冰雹，则失败。",
     "shortDesc": "For 5 turns, hail crashes down.",
+    "chineseShortDesc": "5个转弯后，冰雹倾泻而下。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7128,7 +7646,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from selecting the same move for use two turns in a row. This effect ends when the target is no longer active.",
+    "chineseDesc": "防止目标连续两圈选择相同的移动。当目标不再处于活动状态时，此效果结束。",
     "shortDesc": "Target can't select the same move twice in a row.",
+    "chineseShortDesc": "目标不能连续两次选择相同的移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7153,7 +7673,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Raises the target's Special Attack by 1 stage and confuses it.",
+    "chineseDesc": "将目标的特殊攻击提高1级并混淆。",
     "shortDesc": "Raises the target's Sp. Atk by 1 and confuses it.",
+    "chineseShortDesc": "将目标的Sp.Atk提高1并混淆它。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7179,7 +7701,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Burns the target.",
+    "chineseDesc": "燃烧目标。",
     "shortDesc": "Burns the target.",
+    "chineseShortDesc": "燃烧目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7204,7 +7728,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Attack and Special Attack by 2 stages. The user faints. This move does not check accuracy, and can hit targets in the middle of a two-turn move. Fails entirely if the target's Attack and Special Attack stat stages are both -6.",
+    "chineseDesc": "将目标的攻击力和特殊攻击力降低2级。用户晕倒了。这个动作不检查准确性，可以在两回合的移动中击中目标。如果目标的攻击和特殊攻击状态均为-6，则完全失败。",
     "shortDesc": "Lowers target's Attack, Sp. Atk by 2. User faints.",
+    "chineseShortDesc": "将目标的攻击力降低2。用户晕倒。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7228,7 +7754,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Power doubles if the user is burned, paralyzed, or poisoned.",
+    "chineseDesc": "如果用户被烧伤、瘫痪或中毒，功率会加倍。",
     "shortDesc": "Power doubles if user is burn/poison/paralyzed.",
+    "chineseShortDesc": "如果用户被烧伤/中毒/瘫痪，功率加倍。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7253,7 +7781,9 @@
     "priority": -3,
     "target": "normal",
     "desc": "The user loses its focus and does nothing if it is hit by a damaging attack this turn before it can execute the move, but it still loses PP.",
+    "chineseDesc": "如果用户在执行移动之前被破坏性攻击击中，用户将失去焦点，什么也不做，但仍然会失去PP。",
     "shortDesc": "Fails if the user takes damage before it hits.",
+    "chineseShortDesc": "如果用户在击中之前受到伤害，则失败。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7306,7 +7836,9 @@
     "priority": 3,
     "target": "self",
     "desc": "Until the end of the turn, all single-target attacks from the opposing side are redirected to the user. Such attacks are redirected to the user before they can be reflected by Magic Coat, or drawn in by the Lightning Rod Ability. This effect remains active even if the user leaves the field. Fails if it is not a Double Battle.",
+    "chineseDesc": "在回合结束之前，来自对方的所有单目标攻击都会重定向到用户。此类攻击在被魔法涂层反射或被避雷针能力吸引之前，会被重定向到用户。即使用户离开该字段，此效果也会保持有效。如果不是双重战斗，就会失败。",
     "shortDesc": "The foes' moves target the user on the turn used.",
+    "chineseShortDesc": "敌人的移动目标是所使用回合的用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7329,7 +7861,9 @@
     "priority": 0,
     "target": "self",
     "desc": "This move calls another move for use depending on the battle terrain. Swift in Wi-Fi battles.",
+    "chineseDesc": "根据作战地形，此动作需要另一个动作。在Wi-Fi之战中表现出色。",
     "shortDesc": "Attack changes based on terrain. (Swift)",
+    "chineseShortDesc": "攻击根据地形而变化。（Swift）",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7351,7 +7885,9 @@
     "priority": 0,
     "target": "self",
     "desc": "If the user uses an Electric-type attack on the next turn, its power will be doubled.",
+    "chineseDesc": "如果用户在下一回合使用电动攻击，其功率将加倍。",
     "shortDesc": "The user's Electric attack next turn has 2x power.",
+    "chineseShortDesc": "用户的电动攻击下一回合有2倍的力量。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7374,7 +7910,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "For 2 turns, prevents the target from using non-damaging moves.",
+    "chineseDesc": "2圈，防止目标使用非破坏性移动。",
     "shortDesc": "For 2 turns, the target can't use status moves.",
+    "chineseShortDesc": "对于2回合，目标不能使用状态移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7398,7 +7936,9 @@
     "priority": 5,
     "target": "adjacentAlly",
     "desc": "The power of the target's attack this turn is multiplied by 1.5 (this effect is stackable). Fails if there is no ally adjacent to the user or if the ally already moved this turn, but does not fail if the ally is using a two-turn move.",
+    "chineseDesc": "本回合目标的攻击力乘以1.5（此效果可叠加）。如果用户附近没有盟友，或者盟友已经移动了这一回合，则失败，但如果盟友使用两回合移动，则不会失败。",
     "shortDesc": "One adjacent ally's move power is 1.5x this turn.",
+    "chineseShortDesc": "一个相邻盟友的移动力是本回合的1.5倍。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7422,7 +7962,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps its held item with the target's held item. Fails if either the user or the target is holding a Mail, if neither is holding an item, if either is under the effect of Knock Off, or if the target has the Sticky Hold Ability.",
+    "chineseDesc": "用户将其持有的物品与目标持有的物品交换。如果用户或目标都持有邮件，如果两者都没有持有物品，如果其中任何一个受到敲落的影响，或者如果目标具有粘性持有能力，则失败。",
     "shortDesc": "User switches its held item with the target's.",
+    "chineseShortDesc": "用户将其持有的物品与目标物品进行切换。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7448,7 +7990,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user's Ability changes to match the target's Ability. Fails if the target's Ability is Wonder Guard.",
+    "chineseDesc": "用户的能力会发生变化，以匹配目标的能力。如果目标的能力是神奇卫士，则失败。",
     "shortDesc": "User replaces its Ability with the target's.",
+    "chineseShortDesc": "用户将其能力替换为目标的能力。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7472,7 +8016,9 @@
     "priority": 0,
     "target": "self",
     "desc": "At the end of the next turn, the Pokemon at the user's position has 1/2 of its maximum HP restored to it, rounded down. Fails if this move is already in effect for the user's position.",
+    "chineseDesc": "在下一回合结束时，用户位置的口袋妖怪将恢复其最大生命值的1/2，并四舍五入。如果此移动已对用户的位置生效，则失败。",
     "shortDesc": "Next turn, heals 50% of the recipient's max HP.",
+    "chineseShortDesc": "下一回合，治愈接受者最大生命值的50%。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7495,7 +8041,9 @@
     "priority": 0,
     "target": "self",
     "desc": "A random move among those known by the user's party members is selected for use. Does not select Assist, Counter, Covet, Destiny Bond, Detect, Endure, Focus Punch, Follow Me, Helping Hand, Metronome, Mimic, Mirror Coat, Mirror Move, Protect, Sketch, Sleep Talk, Snatch, Struggle, Thief, or Trick.",
+    "chineseDesc": "选择用户党员已知的随机移动来使用。不选择“辅助”、“计数器”、“Covet”、“命运键”、“检测”、“耐力”、“聚焦打孔”、“跟随我”、“帮助之手”、“节拍器”、“模仿”、“镜衣”、“镜子移动”、“保护”、“素描”、“睡眠谈话”、“抢夺”、“挣扎”、“小偷”或“诡计”。",
     "shortDesc": "Uses a random move known by a team member.",
+    "chineseShortDesc": "使用团队成员已知的随机移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7519,7 +8067,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user has 1/16 of its maximum HP restored at the end of each turn, but it is prevented from switching out and other Pokemon cannot force the user to switch out. The user can still switch out if it uses Baton Pass, and the replacement will remain trapped and still receive the healing effect.",
+    "chineseDesc": "用户在每个回合结束时恢复了其最大生命值的1/16，但无法关闭，其他口袋妖怪也无法强迫用户关闭。如果使用Baton Pass，用户仍然可以关闭，替换物将保持被困状态，并仍然可以获得治疗效果。",
     "shortDesc": "User recovers 1/16 max HP per turn. Traps user.",
+    "chineseShortDesc": "用户每回合恢复1/16最大生命值。陷阱用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7543,7 +8093,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Attack and Defense by 1 stage.",
+    "chineseDesc": "将用户的攻击和防御降低1级。",
     "shortDesc": "Lowers the user's Attack and Defense by 1.",
+    "chineseShortDesc": "将用户的攻击和防御降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7568,7 +8120,9 @@
     "priority": 4,
     "target": "self",
     "desc": "The user is unaffected by certain non-damaging moves directed at it and will instead use such moves against the original user. If the move targets both opposing Pokemon and the Pokemon under this effect is on the left side, it will reflect the move targeting both opposing Pokemon and its ally will not be affected by the original move; otherwise, if the Pokemon under this effect is on the right side, its ally will be affected by the original move and this Pokemon will reflect the move only targeting the original user. The effect ends once a move is reflected or at the end of the turn. Moves reflected in this way can be reflected again by another Pokemon under this effect. If the user has the Soundproof Ability, it nullifies sound-based moves before this effect happens. The Lightning Rod Ability redirects Electric moves before this move takes effect.",
+    "chineseDesc": "用户不会受到针对它的某些非破坏性动作的影响，而是会对原始用户使用这些动作。如果该动作同时针对对方的口袋妖怪，且该效果下的口袋妖怪位于左侧，则表示该动作既针对对方的宝可梦，其盟友不会受到原动作的影响；否则，如果此效果下的口袋妖怪在右侧，其盟友将受到原始动作的影响，而此口袋妖怪将仅针对原始用户反映该动作。一旦移动被反射或转弯结束，效果就会结束。以这种方式反映的动作可以在这种效果下被另一个口袋妖怪再次反映出来。如果用户具有隔音能力，则在这种效果发生之前，它会使基于声音的移动无效。闪电棒能力会在电动招式生效之前重定向电动招式。",
     "shortDesc": "Bounces back certain non-damaging moves.",
+    "chineseShortDesc": "反弹某些非破坏性动作。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7590,7 +8144,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user regains the item last used by a Pokemon in its current position on the field, even if that Pokemon was not the user. Fails if the user is holding an item, if no items have been used at the user's position, or if the item was lost to Covet, Knock Off, or Thief. Items thrown with Fling can be regained.",
+    "chineseDesc": "即使口袋妖怪不是用户，用户也会在现场的当前位置重新获得口袋妖怪上次使用的物品。如果用户持有物品，如果用户位置上没有使用过物品，或者物品丢失给了Covet、Knock Off或Thief，则失败。用Fling投掷的物品可以取回。",
     "shortDesc": "Restores the item the user last used.",
+    "chineseShortDesc": "还原用户上次使用的项目。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7636,7 +8192,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this attack does not miss and whether or not the target is immune, the effects of Reflect and Light Screen end for the opponent's side of the field before damage is calculated.",
+    "chineseDesc": "如果这次攻击没有失败，无论目标是否免疫，在计算伤害之前，反射和光幕对对手一方的影响都会结束。",
     "shortDesc": "Destroys screens, even if the target is immune.",
+    "chineseShortDesc": "破坏屏幕，即使目标是免疫的。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7661,7 +8219,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep at the end of the next turn. Fails when used if the target cannot fall asleep or if it already has a non-volatile status condition. At the end of the next turn, if the target is still active, does not have a non-volatile status condition, and can fall asleep, it falls asleep. If the target becomes affected, this effect cannot be prevented by Safeguard or a substitute, or by falling asleep and waking up during the effect.",
+    "chineseDesc": "使目标在下一回合结束时睡着。如果目标无法入睡或已经处于非易失性状态，则使用时失败。在下一回合结束时，如果目标仍然处于活动状态，没有非易失性状态，并且可以进入睡眠状态，那么它就会进入睡眠状态。如果目标受到影响，这种影响无法通过保护措施或替代品来预防，也无法通过在效果期间入睡和醒来来预防。",
     "shortDesc": "Puts the target to sleep after 1 turn.",
+    "chineseShortDesc": "1圈后使目标进入睡眠状态。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7686,7 +8246,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The target's held item is lost for the rest of the battle, unless it has the Sticky Hold Ability. During the effect, the target cannot gain a new item by any means.",
+    "chineseDesc": "目标持有的物品在剩余的战斗中会丢失，除非它具有粘性持有能力。在效果期间，目标无论如何都无法获得新物品。",
     "shortDesc": "Target's item is lost and it cannot obtain another.",
+    "chineseShortDesc": "目标的物品丢失，无法获得另一个。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7759,7 +8321,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps its Ability with the target's Ability. Fails if either the user or the target's Ability is Wonder Guard.",
+    "chineseDesc": "用户将其能力与目标的能力交换。如果用户或目标的能力是神奇卫士，则失败。",
     "shortDesc": "The user and the target trade Abilities.",
+    "chineseShortDesc": "用户和目标交易能力。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7785,7 +8349,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user prevents all opposing Pokemon from using any moves that the user also knows as long as the user remains active. Fails if no opposing Pokemon know any of the user's moves.",
+    "chineseDesc": "只要用户保持活动状态，用户就会阻止所有对立的口袋妖怪使用用户也知道的任何动作。如果对方口袋妖怪不知道用户的任何动作，则失败。",
     "shortDesc": "No foe can use any move known by the user.",
+    "chineseShortDesc": "任何敌人都不能使用用户已知的任何移动。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7808,7 +8374,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user cures its burn, poison, or paralysis. Fails if the user is not burned, poisoned, or paralyzed.",
+    "chineseDesc": "使用者可以治愈烧伤、中毒或瘫痪。如果用户没有被烧伤、中毒或瘫痪，则失败。",
     "shortDesc": "User cures its burn, poison, or paralysis.",
+    "chineseShortDesc": "用户可以治愈烧伤、中毒或瘫痪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7831,7 +8399,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Until the user's next turn, if an opposing Pokemon's attack knocks the user out, that move loses all its remaining PP.",
+    "chineseDesc": "在用户下一回合之前，如果对方口袋妖怪的攻击将用户击倒，该动作将失去所有剩余的PP。",
     "shortDesc": "If the user faints, the attack used loses all its PP.",
+    "chineseShortDesc": "如果用户晕倒，所使用的攻击将失去所有PP。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7854,7 +8424,9 @@
     "priority": 4,
     "target": "self",
     "desc": "If another Pokemon uses certain non-damaging moves this turn, the user steals that move to use itself. If multiple Pokemon use this move this turn, the applicable moves are stolen by each of those Pokemon in turn order, and only the last user in turn order will gain the effects.",
+    "chineseDesc": "如果另一个口袋妖怪在这一回合使用了某些非破坏性的动作，用户就会窃取该动作来使用自己。如果多个口袋妖怪在本回合使用此动作，则适用的动作将依次被每个口袋妖怪窃取，只有最后一个用户才能获得效果。",
     "shortDesc": "User steals certain support moves to use itself.",
+    "chineseShortDesc": "用户窃取某些支持动作来使用自己。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7878,7 +8450,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to cause a secondary effect on the target based on the battle terrain. Causes paralysis on the regular Wi-Fi terrain.",
+    "chineseDesc": "根据战斗地形，有30%的机会对目标造成次要影响。在常规Wi-Fi环境中导致瘫痪。",
     "shortDesc": "Effect varies with terrain. (30% paralysis chance)",
+    "chineseShortDesc": "效果因地形而异。（30%瘫痪几率）",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7907,7 +8481,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Surf and Whirlpool, which have doubled power when used against it, and is also unaffected by weather.",
+    "chineseDesc": "这次攻击在第一回合发起，在第二回合执行。在第一个转弯时，用户可以避免除冲浪和漩涡之外的所有攻击，冲浪和漩涡在对抗时可以加倍力量，也不受天气的影响。",
     "shortDesc": "Dives underwater turn 1, strikes turn 2.",
+    "chineseShortDesc": "第一回合水下跳水，第二回合击球。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7935,7 +8511,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+    "chineseDesc": "打两到五次。有3/8的机会击中两三次，有1/8的机会击中四五次。如果其中一次命中打破了目标的替代品，则其余命中将受到伤害。",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "一回合命中2-5次。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7964,7 +8542,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user's type changes based on the battle terrain. Normal type on the regular Wi-Fi terrain. Fails if the type is one of the user's current types.",
+    "chineseDesc": "用户的类型会根据战斗地形而变化。普通Wi-Fi地形上的普通类型。如果类型是用户当前的类型之一，则失败。",
     "shortDesc": "Changes user's type based on terrain. (Normal)",
+    "chineseShortDesc": "根据地形更改用户的类型。（正常）",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -7987,7 +8567,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Special Attack by 2 stages.",
+    "chineseDesc": "将用户的特殊攻击提高2级。",
     "shortDesc": "Raises the user's Sp. Atk by 2.",
+    "chineseShortDesc": "将用户的Sp.Atk提高2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8010,7 +8592,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "有50%的几率将目标的特殊防御降低1级。",
     "shortDesc": "50% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "50%的几率将目标的Sp.Def降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8041,7 +8625,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to lower the target's Special Attack by 1 stage.",
+    "chineseDesc": "有50%的几率将目标的特殊攻击降低1级。",
     "shortDesc": "50% chance to lower the target's Sp. Atk by 1.",
+    "chineseShortDesc": "50%的几率将目标的Sp.Atk降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8073,7 +8659,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Attack by 2 stages.",
+    "chineseDesc": "将目标的攻击力降低2级。",
     "shortDesc": "Lowers the target's Attack by 2.",
+    "chineseShortDesc": "将目标的攻击力降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8100,7 +8688,9 @@
     "priority": 0,
     "target": "allAdjacent",
     "desc": "Causes the target to become confused.",
+    "chineseDesc": "使目标变得混乱。",
     "shortDesc": "Confuses adjacent Pokemon.",
+    "chineseShortDesc": "混淆相邻的口袋妖怪。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8123,7 +8713,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target and a higher chance for a critical hit.",
+    "chineseDesc": "有10%的几率烧毁目标，并且有更高的几率击中要害。",
     "shortDesc": "High critical hit ratio. 10% chance to burn.",
+    "chineseShortDesc": "高临界命中率。有10%的机会燃烧。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8153,7 +8745,9 @@
     "priority": 0,
     "target": "all",
     "desc": "While the user is active, all Electric-type attacks used by any active Pokemon have their power halved. Fails if this effect is already active for the user. Baton Pass can be used to transfer this effect to an ally.",
+    "chineseDesc": "当用户处于活动状态时，任何活动的口袋妖怪使用的所有电动攻击的威力都减半。如果此效果已对用户有效，则失败。Baton Pass可用于将此效果传递给盟友。",
     "shortDesc": "Weakens Electric-type attacks to 1/2 their power.",
+    "chineseShortDesc": "将电动攻击的威力减弱到1/2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8203,7 +8797,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch. Damage doubles if the target has used Minimize while active.",
+    "chineseDesc": "有30%的机会让目标退缩。如果目标在活动时使用了最小化，伤害将加倍。",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8233,7 +8829,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down.",
+    "chineseDesc": "用户恢复其最大HP的1/2，四舍五入。",
     "shortDesc": "Heals the user by 50% of its max HP.",
+    "chineseShortDesc": "以最大生命值的50%治愈用户。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8261,7 +8859,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "No additional effect.",
+    "chineseDesc": "没有额外影响。",
     "shortDesc": "No additional effect. Hits adjacent foes.",
+    "chineseShortDesc": "没有额外影响。击中相邻的敌人。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8286,7 +8886,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to badly poison the target.",
+    "chineseDesc": "有30%的几率严重毒害目标。",
     "shortDesc": "30% chance to badly poison the target.",
+    "chineseShortDesc": "有30%的几率严重毒害目标。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8317,7 +8919,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 50% chance to lower the target's Defense by 1 stage.",
+    "chineseDesc": "有50%的几率将目标的防御降低1级。",
     "shortDesc": "50% chance to lower the target's Defense by 1.",
+    "chineseShortDesc": "50%的几率将目标的防御力降低1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8349,7 +8953,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "如果此移动成功，用户必须在下一回合充值，并且不能选择移动。",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "用户无法移动下一个转弯。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8374,7 +8980,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "如果此移动成功，用户必须在下一回合充值，并且不能选择移动。",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "用户无法移动下一个转弯。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8399,7 +9007,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to raise the user's Attack by 1 stage.",
+    "chineseDesc": "有20%的几率将用户的攻击提升1级。",
     "shortDesc": "20% chance to raise the user's Attack by 1.",
+    "chineseShortDesc": "20%的几率将用户的攻击力提高1。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8434,7 +9044,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch. Damage doubles if the target has used Minimize while active.",
+    "chineseDesc": "有30%的机会让目标退缩。如果目标在活动时使用了最小化，伤害将加倍。",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "30%的几率让目标退缩。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8464,7 +9076,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Damage doubles if a weather condition is active, and this move's type changes to match. Ice type during Hail, Water type during Rain Dance, Rock type during Sandstorm, and Fire type during Sunny Day.",
+    "chineseDesc": "如果天气状况活跃，并且此动作的类型会根据需要而变化，则伤害会加倍。冰雹期间的冰型、雨舞期间的水型、沙尘暴期间的岩石型和晴天期间的火型。",
     "shortDesc": "Damage doubles and type varies during weather.",
+    "chineseShortDesc": "伤害加倍，类型因天气而异。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8489,7 +9103,9 @@
     "priority": 0,
     "target": "allyTeam",
     "desc": "Every Pokemon in the user's party is cured of its non-volatile status condition.",
+    "chineseDesc": "用户方中的每个口袋妖怪都已治愈其非易失性状态。",
     "shortDesc": "Cures the user's party of all status conditions.",
+    "chineseShortDesc": "清除用户一方的所有状态条件。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8513,7 +9129,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Special Defense by 2 stages.",
+    "chineseDesc": "将目标的特殊防御降低2级。",
     "shortDesc": "Lowers the target's Sp. Def by 2.",
+    "chineseShortDesc": "将目标的Sp.Def降低2。",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8539,7 +9157,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio. Hits adjacent foes.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8565,7 +9185,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Special Attack by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Sp. Atk by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8590,7 +9212,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it, and Normal- and Fighting-type attacks can hit the target if it is a Ghost type.",
+    "chineseDesc": "-99",
     "shortDesc": "Fighting, Normal hit Ghost. Evasiveness ignored.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8615,7 +9239,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "100% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8646,7 +9272,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8683,7 +9311,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Special Defense by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the target's Sp. Def by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8709,7 +9339,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "-99",
     "shortDesc": "Causes the target to fall asleep.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8735,7 +9367,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's Attack and Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the target's Attack and Defense by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8761,7 +9395,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense and Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Defense and Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8807,7 +9443,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to confuse the target.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to confuse the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8836,7 +9474,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8862,7 +9502,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to make the target flinch. Damage doubles if the target has used Minimize while active.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8891,7 +9533,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move can hit a target using Bounce or Fly.",
+    "chineseDesc": "-99",
     "shortDesc": "Can hit Pokemon using Bounce or Fly.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8917,7 +9561,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching for two to five turns. Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it uses Baton Pass. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+    "chineseDesc": "-99",
     "shortDesc": "Traps and damages the target for 2-5 turns.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8941,7 +9587,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals damage to the target equal to the target's maximum HP. Ignores accuracy and evasiveness modifiers. This attack's accuracy is equal to (user's level - target's level + 30)%, and fails if the target is at a higher level. Pokemon with the Sturdy Ability are immune.",
+    "chineseDesc": "-99",
     "shortDesc": "OHKOs the target. Fails if user is a lower level.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8965,7 +9613,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Has a 30% chance to lower the target's accuracy by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to lower the foe(s) accuracy by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -8997,7 +9647,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+    "chineseDesc": "-99",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9026,7 +9678,9 @@
     "priority": 0,
     "target": "any",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9053,7 +9707,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+    "chineseDesc": "-99",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9081,7 +9737,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Defense by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9104,7 +9762,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching out. The target can still switch out if it uses Baton Pass. If the target leaves the field using Baton Pass, the replacement will remain trapped. The effect ends if the user leaves the field, unless it uses Baton Pass, in which case the target will remain trapped.",
+    "chineseDesc": "-99",
     "shortDesc": "Prevents the target from switching out.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9129,7 +9789,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Attack by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9152,7 +9814,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9177,7 +9841,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "-99",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9203,7 +9869,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack and Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Attack and Defense by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9226,7 +9894,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has a 30% chance to paralyze the target. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks other than Gust, Sky Uppercut, Thunder, and Twister, and Gust and Twister have doubled power when used against it.",
+    "chineseDesc": "-99",
     "shortDesc": "Bounces turn 1. Hits turn 2. 30% paralyze.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9260,7 +9930,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 100% chance to lower the target's Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "100% chance to lower the target's Speed by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9291,7 +9963,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to poison the target and a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio. 10% chance to poison.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9321,7 +9995,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this attack was successful and the user has not fainted, it steals the target's held item if the user is not holding one. The target's item is not stolen if it is a Mail or Enigma Berry. Items lost to this move cannot be regained with Recycle.",
+    "chineseDesc": "-99",
     "shortDesc": "If the user has no item, it steals the target's.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9345,7 +10021,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+    "chineseDesc": "-99",
     "shortDesc": "Has 1/3 recoil.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9374,7 +10052,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9398,7 +10078,9 @@
     "priority": 0,
     "target": "all",
     "desc": "While the user is active, all Fire-type attacks used by any active Pokemon have their power halved. Fails if this effect is already active for the user. Baton Pass can be used to transfer this effect to an ally.",
+    "chineseDesc": "-99",
     "shortDesc": "Weakens Fire-type attacks to 1/2 their power.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9421,7 +10103,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Special Attack and Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Sp. Atk and Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9444,7 +10128,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9470,7 +10156,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Attack and Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Attack and Speed by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9494,7 +10182,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits two to five times. Has a 3/8 chance to hit two or three times, and a 1/8 chance to hit four or five times. If one of the hits breaks the target's substitute, it will take damage for the remaining hits.",
+    "chineseDesc": "-99",
     "shortDesc": "Hits 2-5 times in one turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9522,7 +10212,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9546,7 +10238,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has a 20% chance to confuse the target.",
+    "chineseDesc": "-99",
     "shortDesc": "20% chance to confuse the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9577,7 +10271,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Deals typeless damage that cannot be a critical hit two turns after this move is used. Damage is calculated against the target on use, and at the end of the final turn that damage is dealt to the Pokemon at the position the original target had at the time. Fails if this move or Future Sight is already in effect for the target's position.",
+    "chineseDesc": "-99",
     "shortDesc": "Hits two turns after being used.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9600,7 +10296,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Special Attack by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Sp. Atk by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9624,7 +10322,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down. Until the end of the turn, Flying-type users lose their Flying type and pure Flying-type users become typeless. Does nothing if the user's HP is full.",
+    "chineseDesc": "-99",
     "shortDesc": "Heals 50% HP. Flying-type removed 'til turn ends.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9652,7 +10352,9 @@
     "priority": 0,
     "target": "all",
     "desc": "For 5 turns, the evasiveness of all active Pokemon is multiplied by 0.6. At the time of use, Bounce, Fly, and Magnet Rise end immediately for all active Pokemon. During the effect, Bounce, Fly, High Jump Kick, Jump Kick, Magnet Rise, and Splash are prevented from being used by all active Pokemon. Ground-type attacks, Spikes, Toxic Spikes, and the Arena Trap Ability can affect Flying types or Pokemon with the Levitate Ability. Fails if this move is already in effect.",
+    "chineseDesc": "-99",
     "shortDesc": "5 turns: no Ground immunities, 1.67x accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9675,7 +10377,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "As long as the target remains active, its evasiveness stat stage is ignored during accuracy checks against it if it is greater than 0, and Psychic-type attacks can hit the target if it is a Dark type.",
+    "chineseDesc": "-99",
     "shortDesc": "Psychic hits Dark. Evasiveness ignored.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9724,7 +10428,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Speed by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9775,7 +10481,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user faints and the Pokemon brought out to replace it has its HP fully restored along with having any non-volatile status condition cured. The new Pokemon is sent out immediately and the healing happens after hazards take effect. Fails if the user is the last unfainted Pokemon in its party.",
+    "chineseDesc": "-99",
     "shortDesc": "User faints. Replacement is fully healed.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9798,7 +10506,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Power doubles if the target has less than or equal to half of its maximum HP remaining.",
+    "chineseDesc": "-99",
     "shortDesc": "Power doubles if the target's HP is 50% or less.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9822,7 +10532,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The type and power of this move depend on the user's held Berry, and the Berry is lost. Fails if the user is not holding a Berry, if the user has the Klutz Ability, or if Embargo is in effect for the user.",
+    "chineseDesc": "-99",
     "shortDesc": "Power and type depends on the user's Berry.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9846,7 +10558,9 @@
     "priority": 2,
     "target": "normal",
     "desc": "Fails unless the target is using Detect or Protect. If this move is successful, it breaks through the target's Detect or Protect for this turn, allowing other Pokemon to attack the target normally.",
+    "chineseDesc": "-99",
     "shortDesc": "Breaks protection. Fails if target is not protecting.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9869,7 +10583,9 @@
     "priority": 0,
     "target": "any",
     "desc": "The user steals the target's held Berry if it is holding one and eats it immediately, gaining its effects unless the user's item is being ignored. Items lost to this move can be regained with Recycle.",
+    "chineseDesc": "-99",
     "shortDesc": "User steals and eats the target's Berry.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9895,7 +10611,9 @@
     "priority": 0,
     "target": "allySide",
     "desc": "For 3 turns, the user and its party members have their Speed doubled. Fails if this move is already in effect for the user's side.",
+    "chineseDesc": "-99",
     "shortDesc": "For 3 turns, allies' Speed is doubled.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9919,7 +10637,9 @@
     "priority": 0,
     "target": "adjacentAllyOrSelf",
     "desc": "Raises a random stat by 2 stages as long as the stat is not already at stage 6. The user can choose to use this move on itself or an ally. Fails if no stat stage can be raised or if the user or ally has a substitute.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises a random stat of the user or an ally by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9965,7 +10685,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful and the user has not fainted, the user switches out even if it is trapped and is replaced immediately by a selected party member. The user does not switch out if there are no unfainted party members.",
+    "chineseDesc": "-99",
     "shortDesc": "User switches out after damaging the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -9990,7 +10712,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Defense and Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Defense and Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10063,7 +10787,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "For 5 turns, the target's held item has no effect. An item's effect of causing forme changes is unaffected, but any other effects from such items are negated. During the effect, Fling and Natural Gift are prevented from being used by the target. Items thrown at the target with Fling will still activate for it. If the target uses Baton Pass, the replacement will remain unable to use items.",
+    "chineseDesc": "-99",
     "shortDesc": "For 5 turns, the target's item has no effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10087,7 +10813,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The power of this move is based on the user's held item. The held item is lost and it activates for the target if applicable. If the target avoids this move by protecting itself, the user's held item is still lost. The user can regain a thrown item with Recycle. Fails if the user has no held item, if the held item cannot be thrown, or if the user is under the effect of Embargo.",
+    "chineseDesc": "-99",
     "shortDesc": "Flings the user's item at the target. Power varies.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10113,7 +10841,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user's non-volatile status condition is transferred to the target, and the user is then cured. Fails if the user has no non-volatile status condition or if the target already has one.",
+    "chineseDesc": "-99",
     "shortDesc": "Transfers the user's status ailment to the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10161,7 +10891,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "For 5 turns, the target is prevented from restoring any HP as long as it remains active. During the effect, healing moves are unusable, move effects that grant healing will not heal, but Abilities and items will continue to heal the user. If an affected Pokemon uses Baton Pass, the replacement will remain under the effect. Pain Split is unaffected.",
+    "chineseDesc": "-99",
     "shortDesc": "For 5 turns, the foe(s) is prevented from healing.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10209,7 +10941,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user swaps its Attack and Defense stats, and stat stage changes remain on their respective stats. This move can be used again to swap the stats back. If the user uses Baton Pass, the replacement will have its Attack and Defense stats swapped if the effect is active. If the user has its stats recalculated by changing forme while its stats are swapped, this effect is ignored but is still active for the purposes of Baton Pass.",
+    "chineseDesc": "-99",
     "shortDesc": "Switches user's Attack and Defense stats.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10231,7 +10965,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target's Ability to be rendered ineffective as long as it remains active. If the target uses Baton Pass, the replacement will remain under this effect. If the target's Ability is Multitype or Stance Change, this move fails, and receiving the effect through Baton Pass ends the effect immediately.",
+    "chineseDesc": "-99",
     "shortDesc": "Nullifies the target's Ability.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10257,7 +10993,9 @@
     "priority": 0,
     "target": "allySide",
     "desc": "For 5 turns, the user and its party members cannot be struck by a critical hit. Fails if the effect is already active on the user's side.",
+    "chineseDesc": "-99",
     "shortDesc": "For 5 turns, shields user's party from critical hits.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10279,7 +11017,9 @@
     "priority": 0,
     "target": "adjacentFoe",
     "desc": "The user uses the move the target chose for use this turn against it, if possible, with its power multiplied by 1.5. The move must be a damaging move other than Chatter, Counter, Covet, Focus Punch, Me First, Mirror Coat, Struggle, or Thief. Fails if the target moves before the user. Ignores the target's substitute for the purpose of copying the move.",
+    "chineseDesc": "-99",
     "shortDesc": "Copies a foe at 1.5x power. User must be faster.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10306,7 +11046,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user uses the last move used by any Pokemon, including itself. Fails if no move has been used, or if the last move used was Assist, Chatter, Copycat, Counter, Covet, Destiny Bond, Detect, Endure, Feint, Focus Punch, Follow Me, Helping Hand, Me First, Metronome, Mimic, Mirror Coat, Mirror Move, Protect, Sketch, Sleep Talk, Snatch, Struggle, Switcheroo, Thief, or Trick.",
+    "chineseDesc": "-99",
     "shortDesc": "Uses the last move used in the battle.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10330,7 +11072,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps its Attack and Special Attack stat stage changes with the target.",
+    "chineseDesc": "-99",
     "shortDesc": "Swaps Attack and Sp. Atk stat stages with target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10356,7 +11100,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps its Defense and Special Defense stat stage changes with the target.",
+    "chineseDesc": "-99",
     "shortDesc": "Swaps Defense and Sp. Def changes with target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10406,7 +11152,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move fails unless the user knows this move and at least one other move, and has used all the other moves it knows at least once each since it became active or Transformed.",
+    "chineseDesc": "-99",
     "shortDesc": "Fails unless each known move has been used.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10431,7 +11179,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Causes the target's Ability to become Insomnia. Fails if the target's Ability is Multitype or Truant, or if the target is holding a Griseous Orb.",
+    "chineseDesc": "-99",
     "shortDesc": "The target's Ability becomes Insomnia.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10457,7 +11207,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "Fails if the target did not select a physical or special attack for use this turn, or if the target moves before the user.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first. Fails if target is not attacking.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10482,7 +11234,9 @@
     "priority": 0,
     "target": "foeSide",
     "desc": "Sets up a hazard on the opposing side of the field, poisoning each opposing Pokemon that switches in, unless it is a Flying-type Pokemon or has the Levitate Ability. Can be used up to two times before failing. Opposing Pokemon become poisoned with one layer and badly poisoned with two layers. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin successfully, is hit by Defog, or a grounded Poison-type Pokemon switches in. Safeguard prevents the opposing party from being poisoned on switch-in, as well as switching in with a substitute.",
+    "chineseDesc": "-99",
     "shortDesc": "Poisons grounded foes on switch-in. Max 2 layers.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10505,7 +11259,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps all its stat stage changes with the target.",
+    "chineseDesc": "-99",
     "shortDesc": "Swaps all stat changes with target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10531,7 +11287,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user has 1/16 of its maximum HP, rounded down, restored at the end of each turn while it remains active. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded half down. If the user uses Baton Pass, the replacement will receive the healing effect.",
+    "chineseDesc": "-99",
     "shortDesc": "User recovers 1/16 max HP per turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10553,7 +11311,9 @@
     "priority": 0,
     "target": "self",
     "desc": "For 5 turns, the user is immune to Ground-type attacks and the effects of Spikes, Toxic Spikes, and the Arena Trap Ability as long as it remains active. If the user uses Baton Pass, the replacement will gain the effect. Ingrain and Iron Ball override this move if the user is under any of their effects. Fails if the user is already under this effect or the effect of Ingrain.",
+    "chineseDesc": "-99",
     "shortDesc": "For 5 turns, the user has immunity to Ground.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10576,7 +11336,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target. If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+    "chineseDesc": "-99",
     "shortDesc": "Has 1/3 recoil. 10% chance to burn. Thaws user.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10611,7 +11373,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to paralyze the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10641,7 +11405,9 @@
     "priority": 0,
     "target": "any",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10668,7 +11434,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Speed by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Speed by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10691,7 +11459,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to poison the target.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to poison the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10721,7 +11491,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has a 20% chance to make the target flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "20% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10752,7 +11524,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10778,7 +11552,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10803,7 +11579,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10828,7 +11606,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has a 30% chance to make the target flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10859,7 +11639,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10885,7 +11667,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10917,7 +11701,9 @@
     "priority": 0,
     "target": "any",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10943,7 +11729,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to make the target flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "20% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10973,7 +11761,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -10997,7 +11787,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user recovers 1/2 the HP lost by the target, rounded down. If Big Root is held by the user, the HP recovered is 1.3x normal, rounded down.",
+    "chineseDesc": "-99",
     "shortDesc": "User recovers 50% of the damage dealt.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11027,7 +11819,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11051,7 +11845,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11083,7 +11879,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11115,7 +11913,9 @@
     "priority": 0,
     "target": "any",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+    "chineseDesc": "-99",
     "shortDesc": "Has 1/3 recoil.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11145,7 +11945,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11177,7 +11979,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user swaps its held item with the target's held item. Fails if either the user or the target is holding a Mail or Griseous Orb, if neither is holding an item, if either has the Multitype Ability, if either is under the effect of Knock Off, or if the target has the Sticky Hold Ability.",
+    "chineseDesc": "-99",
     "shortDesc": "User switches its held item with the target's.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11203,7 +12007,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "-99",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11229,7 +12035,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Special Attack by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Sp. Atk by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11252,7 +12060,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11302,7 +12112,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11326,7 +12138,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11351,7 +12165,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to paralyze the target and a 10% chance to make it flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to paralyze. 10% chance to flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11386,7 +12202,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to freeze the target and a 10% chance to make it flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to freeze. 10% chance to flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11421,7 +12239,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to burn the target and a 10% chance to make it flinch. This move can hit Pokemon with the Wonder Guard Ability regardless of their typing.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to burn. 10% chance to flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11456,7 +12276,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11481,7 +12303,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to lower the target's accuracy by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to lower the target's accuracy by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11513,7 +12337,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11538,7 +12364,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to make the target flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "20% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11568,7 +12396,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to lower the target's accuracy by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to lower the target's accuracy by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11599,7 +12429,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to lower the target's Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to lower the target's Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11630,7 +12462,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 20% chance to confuse the target.",
+    "chineseDesc": "-99",
     "shortDesc": "20% chance to confuse the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11660,7 +12494,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the target's evasiveness by 1 stage. If this move is successful and whether or not the target's evasiveness was affected, the effects of Reflect, Light Screen, Safeguard, Mist, Spikes, Toxic Spikes, and Stealth Rock end for the target's side. Ignores a target's substitute, although a substitute will still block the lowering of evasiveness.",
+    "chineseDesc": "-99",
     "shortDesc": "-1 evasion; clears target side's hazards/screens.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11685,7 +12521,9 @@
     "priority": -7,
     "target": "all",
     "desc": "For 5 turns, all active Pokemon with lower Speed will move before those with higher Speed, within their priority brackets. If this move is used during the effect, the effect ends.",
+    "chineseDesc": "-99",
     "shortDesc": "Goes last. For 5 turns, turn order is reversed.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11708,7 +12546,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Special Attack by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Sp. Atk by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11732,7 +12572,9 @@
     "priority": 0,
     "target": "allAdjacent",
     "desc": "Has a 30% chance to paralyze the target.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to paralyze adjacent Pokemon.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11761,7 +12603,9 @@
     "priority": 0,
     "target": "allAdjacent",
     "desc": "Has a 30% chance to burn the target.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to burn adjacent Pokemon.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11790,7 +12634,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Lowers the user's Special Attack by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the user's Sp. Atk by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11814,7 +12660,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "No additional effect.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11839,7 +12687,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "-99",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11865,7 +12715,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to poison the target and a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio. 10% chance to poison.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11896,7 +12748,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to poison the target.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to poison the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11925,7 +12779,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 30% chance to make the target flinch.",
+    "chineseDesc": "-99",
     "shortDesc": "30% chance to make the target flinch.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11955,7 +12811,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move does not check accuracy.",
+    "chineseDesc": "-99",
     "shortDesc": "This move does not check accuracy.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -11980,7 +12838,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12004,7 +12864,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Lowers the target's Special Attack by 2 stages. The target is unaffected if both the user and the target are the same gender, or if either is genderless. Pokemon with the Oblivious Ability are immune.",
+    "chineseDesc": "-99",
     "shortDesc": "Lowers the foe(s) Sp. Atk by 2 if opposite gender.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12029,7 +12891,9 @@
     "priority": 0,
     "target": "foeSide",
     "desc": "Sets up a hazard on the opposing side of the field, damaging each opposing Pokemon that switches in. Fails if the effect is already active on the opposing side. Foes lose 1/32, 1/16, 1/8, 1/4, or 1/2 of their maximum HP, rounded down, based on their weakness to the Rock type; 0.25x, 0.5x, neutral, 2x, or 4x, respectively. Can be removed from the opposing side if any opposing Pokemon uses Rapid Spin successfully, or is hit by Defog.",
+    "chineseDesc": "-99",
     "shortDesc": "Hurts foes on switch-in. Factors Rock weakness.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12077,7 +12941,9 @@
     "priority": 0,
     "target": "any",
     "desc": "Has an X% chance to confuse the target, where X is 0 unless the user is a Chatot that hasn't Transformed. If the user is a Chatot, X is 1, 11, or 31 depending on the volume of Chatot's recorded cry, if any; 1 for no recording or low volume, 11 for medium volume, and 31 for high volume.",
+    "chineseDesc": "-99",
     "shortDesc": "For Chatot, 31% chance to confuse the target.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12112,7 +12978,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "This move's type depends on the user's held Plate.",
+    "chineseDesc": "-99",
     "shortDesc": "Type varies based on the held Plate.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12136,7 +13004,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "The user steals the target's held Berry if it is holding one and eats it immediately, gaining its effects unless the user's item is being ignored. Items lost to this move can be regained with Recycle.",
+    "chineseDesc": "-99",
     "shortDesc": "User steals and eats the target's Berry.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12161,7 +13031,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 70% chance to raise the user's Special Attack by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "70% chance to raise the user's Sp. Atk by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12194,7 +13066,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/3 the HP lost by the target, rounded down, but not less than 1 HP.",
+    "chineseDesc": "-99",
     "shortDesc": "Has 1/3 recoil.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12223,7 +13097,9 @@
     "priority": 1,
     "target": "normal",
     "desc": "No additional effect.",
+    "chineseDesc": "-99",
     "shortDesc": "Usually goes first.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12248,7 +13124,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12272,7 +13150,9 @@
     "priority": 0,
     "target": "self",
     "desc": "Raises the user's Defense and Special Defense by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "Raises the user's Defense and Sp. Def by 1.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12295,7 +13175,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user restores 1/2 of its maximum HP, rounded down.",
+    "chineseDesc": "-99",
     "shortDesc": "Heals the user by 50% of its max HP.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12323,7 +13205,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If the target lost HP, the user takes recoil damage equal to 1/2 the HP lost by the target, rounded down, but not less than 1 HP.",
+    "chineseDesc": "-99",
     "shortDesc": "Has 1/2 recoil.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12352,7 +13236,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Hits twice. If the first hit breaks the target's substitute, it will take damage for the second hit. If the target has a Focus Sash and had full HP when this move started, it will not be knocked out regardless of the number of hits.",
+    "chineseDesc": "-99",
     "shortDesc": "Hits 2 times in one turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12378,7 +13264,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, the user must recharge on the following turn and cannot select a move.",
+    "chineseDesc": "-99",
     "shortDesc": "User cannot move next turn.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12403,7 +13291,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a higher chance for a critical hit.",
+    "chineseDesc": "-99",
     "shortDesc": "High critical hit ratio.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12427,7 +13317,9 @@
     "priority": 0,
     "target": "self",
     "desc": "The user faints and the Pokemon brought out to replace it has its HP and PP fully restored along with having any non-volatile status condition cured. The new Pokemon is sent out immediately and the healing happens after hazards take effect. Fails if the user is the last unfainted Pokemon in its party.",
+    "chineseDesc": "-99",
     "shortDesc": "User faints. Replacement is fully healed, with PP.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12474,7 +13366,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Prevents the target from switching for two to five turns (always five turns if the user is holding Grip Claw). Causes damage to the target equal to 1/16 of its maximum HP, rounded down, at the end of each turn during effect. The target can still switch out if it is holding Shed Shell or uses Baton Pass or U-turn. The effect ends if either the user or the target leaves the field, or if the target uses Rapid Spin or Substitute successfully. This effect is not stackable or reset by using this or another binding move.",
+    "chineseDesc": "-99",
     "shortDesc": "Traps and damages the target for 2-5 turns.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12498,7 +13392,9 @@
     "priority": 0,
     "target": "allAdjacentFoes",
     "desc": "Causes the target to fall asleep.",
+    "chineseDesc": "-99",
     "shortDesc": "Causes the foe(s) to fall asleep.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12523,7 +13419,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 40% chance to lower the target's Special Defense by 2 stages.",
+    "chineseDesc": "-99",
     "shortDesc": "40% chance to lower the target's Sp. Def by 2.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12554,7 +13452,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "Has a 10% chance to raise the user's Attack, Defense, Special Attack, Special Defense, and Speed by 1 stage.",
+    "chineseDesc": "-99",
     "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
@@ -12591,7 +13491,9 @@
     "priority": 0,
     "target": "normal",
     "desc": "If this move is successful, it breaks through the target's Detect or Protect for this turn, allowing other Pokemon to attack the target normally. If the target is an opponent and its side is protected by Quick Guard or Wide Guard, that protection is also broken for this turn and other Pokemon may attack the opponent's side normally. This attack charges on the first turn and executes on the second. On the first turn, the user avoids all attacks. If the user is holding a Power Herb, the move completes in one turn.",
+    "chineseDesc": "-99",
     "shortDesc": "Disappears turn 1. Hits turn 2. Breaks protection.",
+    "chineseShortDesc": "-99",
     "isZ": false,
     "isMax": false,
     "flags": {
